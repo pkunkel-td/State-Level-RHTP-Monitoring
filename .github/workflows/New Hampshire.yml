@@ -1,0 +1,92 @@
+name: Monitor NH Rural Health Transformation Page
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs hourly
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write   # REQUIRED for issue creation
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch Page Headers (Firewall Safe)
+        run: |
+          URL="https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program"
+
+          curl -I \
+            --location \
+            --max-time 20 \
+            --retry 3 \
+            --retry-delay 5 \
+            "$URL" \
+          | grep -Ei "etag:|last-modified:|content-length:" \
+          | sed 's/\r$//' \
+          > NHpage_current.txt
+
+      - name: Compare and Heartbeat
+        id: check
+        run: |
+          echo "Last checked at: $(date -u)" > NHheartbeat.txt
+
+          if [ -f NHpage_previous.txt ]; then
+            prev_hash=$(sha256sum NHpage_previous.txt | cut -d' ' -f1)
+          else
+            prev_hash="none"
+          fi
+
+          current_hash=$(sha256sum NHpage_current.txt | cut -d' ' -f1)
+
+          if [ "$current_hash" != "$prev_hash" ]; then
+            echo "CHANGED=true" >> $GITHUB_ENV
+            mv NHpage_current.txt NHpage_previous.txt
+          else
+            echo "CHANGED=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add NHheartbeat.txt
+
+          if [ "${{ env.CHANGED }}" == "true" ]; then
+            git add NHpage_previous.txt
+            git commit -m "ALARM: NH Rural Health Transformation page changed"
+          else
+            git commit -m "NH RHT: No changes found"
+          fi
+
+          git push
+
+      - name: Create GitHub Issue on Change
+        if: env.CHANGED == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const url = "https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program";
+            const time = new Date().toISOString();
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: "🚨 NH Rural Health Transformation page changed",
+              body: `
+A change was detected on the **NH Rural Health Transformation Program** page.
+
+**URL:** ${url}  
+**Detected at:** ${time}  
+**Commit:** ${context.sha}
+
+Please review the latest content.
+              `
+            });
