@@ -1,4 +1,3 @@
-
 name: Monitor NH Rural Health Transformation Page
 
 on:
@@ -31,7 +30,7 @@ jobs:
           # 1) Jina Reader (renders readable text & bypasses many JS/cookie walls)
           # 2) Textise (alternate IP + stripped text view)
           MIRRORS=(
-            "https://r.jina.ai/http://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program"
+            "https://r.jina.ai/${URL}"
             "https://www.textise.org/showtext.aspx?strURL=${URL}"
           )
 
@@ -76,15 +75,11 @@ jobs:
           if [ "${FETCH_OK}" = "false" ]; then
             echo "FETCH_FAILED: Access Denied or mirrors unavailable at $(date -u) for ${URL}" > NHpage_current.txt
             echo "FETCH_OK=false" >> "$GITHUB_ENV"
-            exit 0
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
           fi
 
           # Normalize content (whether text-only or HTML) to produce a stable hash
-          # - Strip scripts/styles/tags if present
-          # - Remove Textise chrome
-          # - Collapse whitespace & trim
           cat raw.txt \
             | sed -E 's/<script[^>]*>.*<\/script>//gI' \
             | sed -E 's/<style[^>]*>.*<\/style>//gI' \
@@ -120,7 +115,7 @@ jobs:
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
 
-      - name: Commit and Push
+      - name: Commit and Push (With Collision Protection)
         shell: bash
         run: |
           set -euo pipefail
@@ -131,7 +126,6 @@ jobs:
           git add NHheartbeat.txt
 
           if [ "${FETCH_OK}" = "false" ]; then
-            # We still commit the heartbeat so you see monitoring status
             git add NHpage_current.txt || true
             git commit -m "NH RHT: Fetch failed (Access Denied) — monitoring skipped"
           else
@@ -143,5 +137,6 @@ jobs:
             fi
           fi
 
+          # COLLISION PROTECTION: Sync with other state updates before pushing
+          git pull --rebase origin main
           git push
-
