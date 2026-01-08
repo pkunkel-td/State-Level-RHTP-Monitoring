@@ -17,33 +17,29 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch Page Content (Two-Step Bypass)
+      - name: Fetch Page via Proxy (IP Block Bypass)
         run: |
           URL="https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program"
-          DOMAIN="https://www.dhhs.nh.gov"
-          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+          
+          # We use Textise as a mirror because government firewalls rarely block it.
+          # This routes the request through a different IP address.
+          curl -sL "https://www.textise.org/showtext.aspx?strURL=$URL" > raw.html
 
-          # 1. Create a temporary cookie jar
-          COOKIE_JAR=$(mktemp)
+          # 1. Check if the fetch actually worked
+          if grep -qi "Access Denied\|403 Forbidden\|Security Service" raw.html; then
+            echo "Direct block detected even through proxy. Skipping run."
+            exit 0
+          fi
 
-          # 2. Step 1: Visit the main domain to get a session cookie (Bypasses 403)
-          curl -sL -A "$UA" -c "$COOKIE_JAR" "$DOMAIN" > /dev/null
-
-          # 3. Step 2: Fetch the actual page using the cookies and a Referer
-          curl -sL -b "$COOKIE_JAR" -A "$UA" \
-            -H "Referer: $DOMAIN" \
-            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8" \
-            -H "Accept-Language: en-US,en;q=0.5" \
-            "$URL" > raw.html
-
-          # 4. Clean up
-          rm -f "$COOKIE_JAR"
-
-          # 5. Normalize Content (Stripping tags/scripts to keep comparison clean)
+          # 2. Normalize content
+          # This strips HTML, Textise UI elements, and scripts to keep your hash clean.
           cat raw.html \
+            | sed -n '/\[ Textise \]/,$p' \
             | sed -E 's/<script[^>]*>.*<\/script>//gI' \
             | sed -E 's/<style[^>]*>.*<\/style>//gI' \
             | sed 's/<[^>]*>//g' \
+            | sed '/Textise/d' \
+            | sed '/Options/d' \
             | tr -s '[:space:]' ' ' \
             | sed 's/^ //;s/ $//' \
             > NHpage_current.txt
@@ -54,7 +50,7 @@ jobs:
           # 1. Update heartbeat every run
           echo "Last checked at: $(date -u)" > NHheartbeat.txt
 
-          # 2. Hash comparison
+          # 2. Hash comparison (Your original logic)
           if [ -f NHpage_previous.txt ]; then
             prev_hash=$(sha256sum NHpage_previous.txt | cut -d' ' -f1)
           else
