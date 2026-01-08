@@ -17,19 +17,25 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch Page Headers (Firewall Safe)
+      - name: Fetch Full Page Content (Bypass 404)
         run: |
           URL="https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program"
+          DOMAIN="https://www.dhhs.nh.gov"
 
-          curl -I \
-            --location \
-            --max-time 20 \
-            --retry 3 \
-            --retry-delay 5 \
-            "$URL" \
-          | grep -Ei "etag:|last-modified:|content-length:" \
-          | sed 's/\r$//' \
-          > NHpage_current.txt
+          # 1. Fetch full body (-L follows redirects, -A mimics a browser)
+          curl -sL \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" \
+            -H "Referer: $DOMAIN" \
+            "$URL" > raw.html
+
+          # 2. Extract Text only (Strips HTML, scripts, and styles to ensure clean comparison)
+          cat raw.html \
+            | sed -E 's/<script[^>]*>.*<\/script>//gI' \
+            | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+            | sed 's/<[^>]*>//g' \
+            | tr -s '[:space:]' ' ' \
+            | sed 's/^ //;s/ $//' \
+            > NHpage_current.txt
 
       - name: Compare and Heartbeat
         id: check
