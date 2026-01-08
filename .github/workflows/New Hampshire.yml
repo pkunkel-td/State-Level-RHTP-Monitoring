@@ -3,14 +3,13 @@ name: Monitor NH Rural Health Transformation Page
 on:
   schedule:
     - cron: "0 * * * *"   # Runs hourly
-  workflow_dispatch:
+  workflow_dispatch:      # Manual trigger for testing
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      issues: write   # REQUIRED for issue creation
 
     steps:
       - name: Checkout repo
@@ -35,8 +34,10 @@ jobs:
       - name: Compare and Heartbeat
         id: check
         run: |
+          # 1. Update heartbeat every run
           echo "Last checked at: $(date -u)" > NHheartbeat.txt
 
+          # 2. Hash comparison
           if [ -f NHpage_previous.txt ]; then
             prev_hash=$(sha256sum NHpage_previous.txt | cut -d' ' -f1)
           else
@@ -67,26 +68,3 @@ jobs:
           fi
 
           git push
-
-      - name: Create GitHub Issue on Change
-        if: env.CHANGED == 'true'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const url = "https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program";
-            const time = new Date().toISOString();
-
-            await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: "🚨 NH Rural Health Transformation page changed",
-              body: `
-A change was detected on the **NH Rural Health Transformation Program** page.
-
-**URL:** ${url}  
-**Detected at:** ${time}  
-**Commit:** ${context.sha}
-
-Please review the latest content.
-              `
-            });
