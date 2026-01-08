@@ -17,18 +17,29 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch Full Page Content (Bypass 404)
+      - name: Fetch Page Content (Two-Step Bypass)
         run: |
           URL="https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program"
           DOMAIN="https://www.dhhs.nh.gov"
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
-          # 1. Fetch full body (-L follows redirects, -A mimics a browser)
-          curl -sL \
-            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" \
+          # 1. Create a temporary cookie jar
+          COOKIE_JAR=$(mktemp)
+
+          # 2. Step 1: Visit the main domain to get a session cookie (Bypasses 403)
+          curl -sL -A "$UA" -c "$COOKIE_JAR" "$DOMAIN" > /dev/null
+
+          # 3. Step 2: Fetch the actual page using the cookies and a Referer
+          curl -sL -b "$COOKIE_JAR" -A "$UA" \
             -H "Referer: $DOMAIN" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8" \
+            -H "Accept-Language: en-US,en;q=0.5" \
             "$URL" > raw.html
 
-          # 2. Extract Text only (Strips HTML, scripts, and styles to ensure clean comparison)
+          # 4. Clean up
+          rm -f "$COOKIE_JAR"
+
+          # 5. Normalize Content (Stripping tags/scripts to keep comparison clean)
           cat raw.html \
             | sed -E 's/<script[^>]*>.*<\/script>//gI' \
             | sed -E 's/<style[^>]*>.*<\/style>//gI' \
