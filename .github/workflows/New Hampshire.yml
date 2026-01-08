@@ -3,13 +3,14 @@ name: Monitor NH Rural Health Transformation Page
 on:
   schedule:
     - cron: "0 * * * *"   # Runs hourly
-  workflow_dispatch:      # Manual trigger for testing
+  workflow_dispatch:
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      issues: write
 
     steps:
       - name: Checkout repo
@@ -17,40 +18,25 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch Page via Proxy (IP Block Bypass)
+      - name: Fetch Page Headers (Firewall-Compliant)
         run: |
           URL="https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program"
-          
-          # We use Textise as a mirror because government firewalls rarely block it.
-          # This routes the request through a different IP address.
-          curl -sL "https://www.textise.org/showtext.aspx?strURL=$URL" > raw.html
 
-          # 1. Check if the fetch actually worked
-          if grep -qi "Access Denied\|403 Forbidden\|Security Service" raw.html; then
-            echo "Direct block detected even through proxy. Skipping run."
-            exit 0
-          fi
-
-          # 2. Normalize content
-          # This strips HTML, Textise UI elements, and scripts to keep your hash clean.
-          cat raw.html \
-            | sed -n '/\[ Textise \]/,$p' \
-            | sed -E 's/<script[^>]*>.*<\/script>//gI' \
-            | sed -E 's/<style[^>]*>.*<\/style>//gI' \
-            | sed 's/<[^>]*>//g' \
-            | sed '/Textise/d' \
-            | sed '/Options/d' \
-            | tr -s '[:space:]' ' ' \
-            | sed 's/^ //;s/ $//' \
-            > NHpage_current.txt
+          curl -I \
+            --location \
+            --max-time 20 \
+            --retry 3 \
+            --retry-delay 5 \
+            "$URL" \
+          | grep -Ei "etag:|last-modified:|content-length:" \
+          | sed 's/\r$//' \
+          > NHpage_current.txt
 
       - name: Compare and Heartbeat
         id: check
         run: |
-          # 1. Update heartbeat every run
           echo "Last checked at: $(date -u)" > NHheartbeat.txt
 
-          # 2. Hash comparison (Your original logic)
           if [ -f NHpage_previous.txt ]; then
             prev_hash=$(sha256sum NHpage_previous.txt | cut -d' ' -f1)
           else
@@ -81,3 +67,23 @@ jobs:
           fi
 
           git push
+
+      - name: Create GitHub Issue on Change
+        if: env.CHANGED == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: "🚨 NH Rural Health Transformation page changed",
+              body: `
+A change was detected on the NH Rural Health Transformation Program page.
+
+URL:
+https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program
+
+Detected at: ${new Date().toISOString()}
+Commit: ${context.sha}
+              `
+            });
