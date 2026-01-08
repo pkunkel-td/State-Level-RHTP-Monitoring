@@ -115,7 +115,7 @@ jobs:
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
 
-      - name: Commit and Push
+      - name: Commit and Push (With Collision Protection)
         shell: bash
         run: |
           set -euo pipefail
@@ -137,4 +137,6 @@ jobs:
             fi
           fi
 
+          # COLLISION PROTECTION: Sync with other state updates before pushing
+          git pull --rebase origin main
           git push
