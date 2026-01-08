@@ -1,0 +1,64 @@
+name: Monitor Missouri Rural Health Page
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs hourly
+  workflow_dispatch:      # Manual trigger for testing
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download and Clean Page
+        run: |
+          # We strip HTML tags to focus on the text content
+          curl -L https://mydss.mo.gov/mhd/rural-health \
+          | sed 's/<[^>]*>//g' \
+          | sed 's/[[:space:]]\+/ /g' \
+          > MOpage_current.txt
+
+      - name: Compare and Heartbeat
+        id: check
+        run: |
+          # 1. Update the Heartbeat file regardless of changes
+          echo "Last checked at: $(date)" > MOheartbeat.txt
+          
+          # 2. Check for content changes
+          if [ -f MOpage_previous.txt ]; then
+            prev_hash=$(sha256sum MOpage_previous.txt | cut -d' ' -f1)
+          else
+            prev_hash="none"
+          fi
+
+          current_hash=$(sha256sum MOpage_current.txt | cut -d' ' -f1)
+
+          if [ "$current_hash" != "$prev_hash" ]; then
+            echo "CHANGED=true" >> $GITHUB_ENV
+            mv MOpage_current.txt MOpage_previous.txt
+          else
+            echo "CHANGED=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add MOheartbeat.txt
+          
+          # Only add the page file if it actually changed
+          if [ "${{ env.CHANGED }}" == "true" ]; then
+            git add MOpage_previous.txt
+            git commit -m "ALARM: Missouri content change detected"
+          else
+            git commit -m "Missouri RHT: No changes found"
+          fi
+          
+          git push
