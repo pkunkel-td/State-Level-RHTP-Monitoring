@@ -1,0 +1,72 @@
+name: Monitor FL Rural Health Page
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs hourly
+  workflow_dispatch:      # Manual trigger for testing
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      URL: "https://ahca.myflorida.com/rural-health-transformation-program"
+      UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch and Wrap Page
+        id: fetch
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Mirrors for bypass
+          MIRRORS=(
+            "https://r.jina.ai/${URL}"
+            "https://www.textise.org/showtext.aspx?strURL=${URL}"
+          )
+
+          is_blocked() {
+            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission" "$1"
+          }
+
+          FETCH_OK=false
+          > raw.txt || true
+
+          for MIRROR in "${MIRRORS[@]}"; do
+            echo "Attempting mirror: ${MIRROR}"
+            if ! curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
+              continue
+            fi
+            if is_blocked raw.txt; then
+              continue
+            fi
+            FETCH_OK=true
+            break
+          done
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > FLpage_current.txt
+            echo "FETCH_OK=false" >> "$GITHUB_ENV"
+          else
+            echo "FETCH_OK=true" >> "$GITHUB_ENV"
+            
+            # NORMALIZATION & LINE WRAPPING:
+            # - Strips HTML/Scripts
+            # - Collapses whitespace
+            # - Wraps at 80 chars for clean Side-by-Side GitHub Diff view
+            cat raw.txt \
+              | sed -E 's/<script[^>]*>.*<\/script>//gI' \
+              | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+              | sed 's/<[^>]*>//g' \
+              | sed '/Textise/d' \
+              | tr -s '[:space:]' ' ' \
+              | fmt -w 80 \
+              | sed 's/^ //;s/ $//' \
+              > FLpage_current.txt
