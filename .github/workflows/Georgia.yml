@@ -88,4 +88,33 @@ jobs:
           current_hash=$(sha256sum GApage_current.txt | cut -d' ' -f1)
 
           if [ "${current_hash}" != "${prev_hash}" ]; then
-            echo "CHANGED=true" >> "$GITHUB_
+            echo "CHANGED=true" >> "$GITHUB_ENV"
+            mv GApage_current.txt GApage_previous.txt
+          else
+            echo "CHANGED=false" >> "$GITHUB_ENV"
+          fi
+
+      - name: Commit and Push (Collision Protection)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          
+          git add GAheartbeat.txt
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            git add GApage_current.txt || true
+            git commit -m "GA RHT: Fetch failed (Access Denied)"
+          else
+            if [ "${CHANGED}" = "true" ]; then
+              git add GApage_previous.txt
+              git commit -m "ALARM: GA Content Change Detected"
+            else
+              git commit -m "GA RHT: No changes found"
+            fi
+          fi
+
+          # Sync with other state updates before pushing
+          git pull --rebase origin main
+          git push
