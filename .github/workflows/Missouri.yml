@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      URL: "https://mydss.mo.gov/mhd/rural-health"
+      UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
       - name: Checkout repo
@@ -17,21 +20,86 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download and Clean Page
+      - name: Fetch Page (multi-mirror, headers & retry)
+        id: fetch
+        shell: bash
         run: |
-          # We strip HTML tags to focus on the text content
-          curl -L https://mydss.mo.gov/mhd/rural-health \
-          | sed 's/<[^>]*>//g' \
-          | sed 's/[[:space:]]\+/ /g' \
-          > MOpage_current.txt
+          set -euo pipefail
+
+          # Mirrors in order of preference:
+          # 1) Jina Reader (renders readable text & bypasses many JS/cookie walls)
+          # 2) Textise (alternate IP + stripped text view)
+          MIRRORS=(
+            "https://r.jina.ai/${URL}"
+            "https://www.textise.org/showtext.aspx?strURL=${URL}"
+          )
+
+          # Helper to decide if content is blocked
+          is_blocked() {
+            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission|not authorized" "$1"
+          }
+
+          FETCH_OK=false
+          > raw.txt || true
+
+          for MIRROR in "${MIRRORS[@]}"; do
+            echo "Attempting mirror: ${MIRROR}"
+
+            # Use browser-like headers and robust retry/backoff
+            if ! curl -sL \
+              --fail \
+              --retry 3 \
+              --retry-delay 5 \
+              --connect-timeout 10 \
+              --max-time 45 \
+              -A "${UA}" \
+              -H "Accept-Language: en-US,en;q=0.9" \
+              -H "Referer: https://www.google.com/" \
+              --compressed \
+              "${MIRROR}" > raw.txt; then
+              echo "curl failed for ${MIRROR}, trying next mirror..."
+              continue
+            fi
+
+            if is_blocked raw.txt; then
+              echo "Content indicates access denied for ${MIRROR}, trying next mirror..."
+              continue
+            fi
+
+            # If we got here, fetch succeeded and is not blocked
+            FETCH_OK=true
+            break
+          done
+
+          # If everything failed: write a sentinel file so downstream steps proceed safely
+          if [ "${FETCH_OK}" = "false" ]; then
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable at $(date -u) for ${URL}" > MOpage_current.txt
+            echo "FETCH_OK=false" >> "$GITHUB_ENV"
+          else
+            echo "FETCH_OK=true" >> "$GITHUB_ENV"
+          fi
+
+          # Normalize content (whether text-only or HTML) to produce a stable hash
+          cat raw.txt \
+            | sed -E 's/<script[^>]*>.*<\/script>//gI' \
+            | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+            | sed 's/<[^>]*>//g' \
+            | sed '/Textise/d' \
+            | sed '/Options/d' \
+            | tr -s '[:space:]' ' ' \
+            | sed 's/^ //;s/ $//' \
+            > MOpage_current.txt
 
       - name: Compare and Heartbeat
         id: check
+        shell: bash
         run: |
-          # 1. Update the Heartbeat file regardless of changes
-          echo "Last checked at: $(date)" > MOheartbeat.txt
-          
-          # 2. Check for content changes
+          set -euo pipefail
+
+          # 1. Heartbeat on every run
+          echo "Last checked at: $(date -u)" > MOheartbeat.txt
+
+          # 2. Hash comparison
           if [ -f MOpage_previous.txt ]; then
             prev_hash=$(sha256sum MOpage_previous.txt | cut -d' ' -f1)
           else
@@ -40,25 +108,35 @@ jobs:
 
           current_hash=$(sha256sum MOpage_current.txt | cut -d' ' -f1)
 
-          if [ "$current_hash" != "$prev_hash" ]; then
-            echo "CHANGED=true" >> $GITHUB_ENV
+          if [ "${current_hash}" != "${prev_hash}" ]; then
+            echo "CHANGED=true" >> "$GITHUB_ENV"
             mv MOpage_current.txt MOpage_previous.txt
           else
-            echo "CHANGED=false" >> $GITHUB_ENV
+            echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
 
-      - name: Commit and Push
+      - name: Commit and Push (With Collision Protection)
+        shell: bash
         run: |
+          set -euo pipefail
+
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+
           git add MOheartbeat.txt
-          
-          # Only add the page file if it actually changed
-          if [ "${{ env.CHANGED }}" == "true" ]; then
-            git add MOpage_previous.txt
-            git commit -m "ALARM: Missouri content change detected"
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            git add MOpage_current.txt || true
+            git commit -m "MO RHT: Fetch failed (Access Denied) — monitoring skipped"
           else
-            git commit -m "Missouri RHT: No changes found"
+            if [ "${CHANGED}" = "true" ]; then
+              git add MOpage_previous.txt
+              git commit -m "ALARM: MO Rural Health Transformation page changed"
+            else
+              git commit -m "MO RHT: No changes found"
+            fi
           fi
-          
+
+          # COLLISION PROTECTION: Sync with other state updates before pushing
+          git pull --rebase origin main
           git push
