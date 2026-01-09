@@ -64,3 +64,57 @@ jobs:
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+              | sed 's/<[^>]*>//g' \
+              | sed '/Textise/d' \
+              | tr -s '[:space:]' ' ' \
+              | fmt -w 80 \
+              | sed 's/^ //;s/ $//' \
+              > HIpage_current.txt
+          fi
+
+      - name: Compare and Heartbeat
+        id: check
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "Last checked at: $(date -u)" > HIheartbeat.txt
+          
+          if [ -f HIpage_previous.txt ]; then
+            prev_hash=$(sha256sum HIpage_previous.txt | cut -d' ' -f1)
+          else
+            prev_hash="none"
+          fi
+
+          current_hash=$(sha256sum HIpage_current.txt | cut -d' ' -f1)
+
+          if [ "${current_hash}" != "${prev_hash}" ]; then
+            echo "CHANGED=true" >> "$GITHUB_ENV"
+            mv HIpage_current.txt HIpage_previous.txt
+          else
+            echo "CHANGED=false" >> "$GITHUB_ENV"
+          fi
+
+      - name: Commit and Push (Collision Protection)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          
+          git add HIheartbeat.txt
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            git add HIpage_current.txt || true
+            git commit -m "HI RHT: Fetch failed (Access Denied)"
+          else
+            if [ "${CHANGED}" = "true" ]; then
+              git add HIpage_previous.txt
+              git commit -m "ALARM: HI Content Change Detected"
+            else
+              git commit -m "HI RHT: No changes found"
+            fi
+          fi
+
+          # Sync with other state updates before pushing
+          git pull --rebase origin main
+          git push
