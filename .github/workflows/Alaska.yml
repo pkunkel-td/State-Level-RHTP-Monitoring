@@ -20,7 +20,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch Page
+      - name: Fetch and Wrap Page
         id: fetch
         shell: bash
         run: |
@@ -28,31 +28,48 @@ jobs:
           MIRRORS=("https://r.jina.ai/${URL}" "https://www.textise.org/showtext.aspx?strURL=${URL}")
           FETCH_OK=false
           for MIRROR in "${MIRRORS[@]}"; do
-            if curl -sL --fail --retry 3 -A "${UA}" "${MIRROR}" > raw.txt && ! grep -qiE "Access Denied|403 Forbidden" raw.txt; then
-              FETCH_OK=true; break
+            if curl -sL --fail --retry 3 -A "${UA}" "${MIRROR}" > raw.txt; then
+              if ! grep -qiE "Access Denied|403 Forbidden" raw.txt; then
+                FETCH_OK=true; break
+              fi
             fi
           done
 
           if [ "${FETCH_OK}" = "true" ]; then
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
-            cat raw.txt | sed -E 's/<script[^>]*>.*<\/script>//gI; s/<style[^>]*>.*<\/style>//gI; s/<[^>]*>//g' | tr -s '[:space:]' ' ' | fmt -w 80 | sed 's/^ //;s/ $//' > AKpage_current.txt
+            # ENHANCED CLEANING:
+            # 1. Strip all HTML/Scripts/Styles
+            # 2. Convert all whitespace (tabs, newlines) to single spaces
+            # 3. Strip special characters that often fluctuate (optional)
+            # 4. Use fmt to force consistent wrapping for the comparison
+            cat raw.txt \
+              | sed -E 's/<script[^>]*>.*<\/script>//gI' \
+              | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+              | sed 's/<[^>]*>//g' \
+              | tr -s '[:space:]' ' ' \
+              | fmt -w 80 \
+              | sed 's/^ //;s/ $//' \
+              > AKpage_current.txt
           else
-            echo "FETCH_FAILED" > AKpage_current.txt
             echo "FETCH_OK=false" >> "$GITHUB_ENV"
           fi
 
       - name: Compare and Heartbeat
         run: |
-          echo "Last checked at: $(date -u)" > AKheartbeat.txt
+          echo "Last checked: $(date -u)" > AKheartbeat.txt
           [ -f AKpage_previous.txt ] && prev=$(sha256sum AKpage_previous.txt | cut -d' ' -f1) || prev="none"
           curr=$(sha256sum AKpage_current.txt | cut -d' ' -f1)
           if [ "$curr" != "$prev" ]; then echo "CHANGED=true" >> "$GITHUB_ENV"; mv AKpage_current.txt AKpage_previous.txt; else echo "CHANGED=false" >> "$GITHUB_ENV"; fi
 
-      - name: Commit and Push
+      - name: Commit and Push (Collision Protection)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add AKheartbeat.txt
-          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then git add AKpage_previous.txt && git commit -m "ALARM: AK Content Change"; else git commit -m "AK RHT: Heartbeat"; fi
+          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then 
+            git add AKpage_previous.txt && git commit -m "ALARM: AK Content Change"
+          else 
+            git commit -m "AK RHT: Heartbeat"
+          fi
           git pull --rebase origin main
           git push
