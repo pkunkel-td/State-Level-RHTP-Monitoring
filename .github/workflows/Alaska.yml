@@ -1,4 +1,4 @@
-name: Monitor AK Rural Health Transformation Page
+name: Monitor AK Rural Health Page
 
 on:
   schedule:
@@ -20,94 +20,39 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch Page (multi-mirror, headers & retry)
+      - name: Fetch Page
         id: fetch
         shell: bash
         run: |
           set -euo pipefail
-          MIRRORS=(
-            "https://r.jina.ai/${URL}"
-            "https://www.textise.org/showtext.aspx?strURL=${URL}"
-          )
-
-          is_blocked() {
-            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission|not authorized" "$1"
-          }
-
+          MIRRORS=("https://r.jina.ai/${URL}" "https://www.textise.org/showtext.aspx?strURL=${URL}")
           FETCH_OK=false
-          > raw.txt || true
-
           for MIRROR in "${MIRRORS[@]}"; do
-            if ! curl -sL \
-              --fail \
-              --retry 3 \
-              --retry-delay 5 \
-              -A "${UA}" \
-              -H "Referer: https://www.google.com/" \
-              "${MIRROR}" > raw.txt; then
-              continue
+            if curl -sL --fail --retry 3 -A "${UA}" "${MIRROR}" > raw.txt && ! grep -qiE "Access Denied|403 Forbidden" raw.txt; then
+              FETCH_OK=true; break
             fi
-            if is_blocked raw.txt; then
-              continue
-            fi
-            FETCH_OK=true
-            break
           done
 
-          if [ "${FETCH_OK}" = "false" ]; then
+          if [ "${FETCH_OK}" = "true" ]; then
+            echo "FETCH_OK=true" >> "$GITHUB_ENV"
+            cat raw.txt | sed -E 's/<script[^>]*>.*<\/script>//gI; s/<style[^>]*>.*<\/style>//gI; s/<[^>]*>//g' | tr -s '[:space:]' ' ' | fmt -w 80 | sed 's/^ //;s/ $//' > AKpage_current.txt
+          else
             echo "FETCH_FAILED" > AKpage_current.txt
             echo "FETCH_OK=false" >> "$GITHUB_ENV"
-          else
-            echo "FETCH_OK=true" >> "$GITHUB_ENV"
-            cat raw.txt \
-              | sed -E 's/<script[^>]*>.*<\/script>//gI' \
-              | sed -E 's/<style[^>]*>.*<\/style>//gI' \
-              | sed 's/<[^>]*>//g' \
-              | sed '/Textise/d' \
-              | sed '/Options/d' \
-              | tr -s '[:space:]' ' ' \
-              | sed 's/^ //;s/ $//' \
-              > AKpage_current.txt
           fi
 
       - name: Compare and Heartbeat
-        id: check
-        shell: bash
         run: |
-          set -euo pipefail
           echo "Last checked at: $(date -u)" > AKheartbeat.txt
-          if [ -f AKpage_previous.txt ]; then
-            prev_hash=$(sha256sum AKpage_previous.txt | cut -d' ' -f1)
-          else
-            prev_hash="none"
-          fi
-          current_hash=$(sha256sum AKpage_current.txt | cut -d' ' -f1)
-          if [ "${current_hash}" != "${prev_hash}" ]; then
-            echo "CHANGED=true" >> "$GITHUB_ENV"
-            mv AKpage_current.txt AKpage_previous.txt
-          else
-            echo "CHANGED=false" >> "$GITHUB_ENV"
-          fi
+          [ -f AKpage_previous.txt ] && prev=$(sha256sum AKpage_previous.txt | cut -d' ' -f1) || prev="none"
+          curr=$(sha256sum AKpage_current.txt | cut -d' ' -f1)
+          if [ "$curr" != "$prev" ]; then echo "CHANGED=true" >> "$GITHUB_ENV"; mv AKpage_current.txt AKpage_previous.txt; else echo "CHANGED=false" >> "$GITHUB_ENV"; fi
 
-      - name: Commit and Push (Collision Protection)
-        shell: bash
+      - name: Commit and Push
         run: |
-          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add AKheartbeat.txt
-
-          if [ "${FETCH_OK}" = "false" ]; then
-            git add AKpage_current.txt || true
-            git commit -m "AK RHT: Fetch failed"
-          else
-            if [ "${CHANGED}" = "true" ]; then
-              git add AKpage_previous.txt
-              git commit -m "ALARM: AK Rural Health Transformation page changed"
-            else
-              git commit -m "AK RHT: No changes found"
-            fi
-          fi
-
+          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then git add AKpage_previous.txt && git commit -m "ALARM: AK Content Change"; else git commit -m "AK RHT: Heartbeat"; fi
           git pull --rebase origin main
           git push
