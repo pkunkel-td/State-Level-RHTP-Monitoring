@@ -1,4 +1,4 @@
-name: Monitor KS Rural Health Page
+name: Monitor IL Rural Health Page
 
 on:
   schedule:
@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      URL: "https://www.kdhe.ks.gov/2361/Rural-Health-Transformation-Program"
+      URL: "https://hfs.illinois.gov/info/fedresctr/ruralhealthtp.html"
       UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
@@ -49,16 +49,16 @@ jobs:
           done
 
           if [ "${FETCH_OK}" = "false" ]; then
-            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > KSpage_current.txt
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > ILpage_current.txt
             echo "FETCH_OK=false" >> "$GITHUB_ENV"
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
             # ENHANCED NORMALIZATION:
             # 1. Strip HTML/Scripts/Styles
-            # 2. Collapse all whitespace/newlines into single spaces (tr -s)
-            # 3. Force wrap at 80 chars (fmt)
-            # This prevents false alarms when the site's layout shifts slightly.
+            # 2. Collapse all whitespace and newlines into single spaces (tr -s)
+            # 3. Re-wrap at 80 characters (fmt)
+            # This creates a "canonical" version of the text that ignores layout shifts.
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
@@ -67,7 +67,7 @@ jobs:
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
-              > KSpage_current.txt
+              > ILpage_current.txt
           fi
 
       - name: Compare and Heartbeat
@@ -75,19 +75,19 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          echo "Last checked at: $(date -u)" > KSheartbeat.txt
+          echo "Last checked at: $(date -u)" > ILheartbeat.txt
           
-          if [ -f KSpage_previous.txt ]; then
-            prev_hash=$(sha256sum KSpage_previous.txt | cut -d' ' -f1)
+          if [ -f ILpage_previous.txt ]; then
+            prev_hash=$(sha256sum ILpage_previous.txt | cut -d' ' -f1)
           else
             prev_hash="none"
           fi
 
-          current_hash=$(sha256sum KSpage_current.txt | cut -d' ' -f1)
+          current_hash=$(sha256sum ILpage_current.txt | cut -d' ' -f1)
 
           if [ "${current_hash}" != "${prev_hash}" ]; then
             echo "CHANGED=true" >> "$GITHUB_ENV"
-            mv KSpage_current.txt KSpage_previous.txt
+            mv ILpage_current.txt ILpage_previous.txt
           else
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
@@ -99,20 +99,20 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           
-          git add KSheartbeat.txt
+          git add ILheartbeat.txt
 
           if [ "${FETCH_OK}" = "false" ]; then
-            git add KSpage_current.txt || true
-            git commit -m "KS RHT: Fetch failed (Access Denied)"
+            git add ILpage_current.txt || true
+            git commit -m "IL RHT: Fetch failed (Access Denied)"
           else
             if [ "${CHANGED}" = "true" ]; then
-              git add KSpage_previous.txt
-              git commit -m "ALARM: KS Content Change Detected"
+              git add ILpage_previous.txt
+              git commit -m "ALARM: IL Content Change Detected"
             else
-              git commit -m "KS RHT: No changes found"
+              git commit -m "IL RHT: No changes found"
             fi
           fi
 
-          # COLLISION PROTECTION: Sync with other state updates before pushing
+          # COLLISION PROTECTION: Sync before pushing
           git pull --rebase origin main
           git push
