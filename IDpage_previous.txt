@@ -13,8 +13,10 @@ Providers](https://healthandwelfare.idaho.gov/providers "For Providers") *
 211](https://healthandwelfare.idaho.gov/services-programs/211
 "Idaho 211") ![Image
 1](https://healthandwelfare.idaho.gov/themes/custom/idhw_skin/assets/icons/globe-solid.svg)
+Powered by [![Image 2: Google
+Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
 User account menu ----------------- Expand mobile
-navigation menu. Collapse mobile navigation menu. [![Image 2:
+navigation menu. Collapse mobile navigation menu. [![Image 3:
 Home](https://healthandwelfare.idaho.gov/themes/custom/idhw_skin/logo.svg)](https://healthandwelfare.idaho.gov/
 "Home") Main navigation triggers ------------------------ *
 Services & Programs * Health & Wellness * News & Notices Expand
@@ -214,8 +216,8 @@ Health](https://healthandwelfare.idaho.gov/health-wellness/womens-health-pregnan
 "Idaho Maternal and Child Health") * [Women's Cancer Screening (Women's Health
 Check)](https://healthandwelfare.idaho.gov/services-programs/medicaid-health/womens-health-fit-fall-quit-smoking/womens-health-check
 "Women's Cancer Screening (Women's Health Check)") * News & Notices *
-**Newsroom** * [DHW Blog](https://healthandwelfare.idaho.gov/dhw-voice
-"DHW Blog") * [For Media](https://healthandwelfare.idaho.gov/about-dhw/media
+**Newsroom** * [DHW Blog](https://healthandwelfare.idaho.gov/dhw-voice "DHW
+Blog") * [For Media](https://healthandwelfare.idaho.gov/about-dhw/media
 "For Media") * [News Articles](https://healthandwelfare.idaho.gov/news
 "News Articles") * **Public Meetings** * [View Notices and Proposed
 Rules](https://healthandwelfare.idaho.gov/about-dhw/public "View Notices
@@ -281,8 +283,8 @@ Assistance](https://healthandwelfare.idaho.gov/services-programs/financial-assis
 "Financial Assistance")Expand this accordion item.Collapse this
 accordion item. * [Aid to the Aged, Blind, and Disabled Cash Assistance
 (AABD)](https://healthandwelfare.idaho.gov/services-programs/financial-assistance/about-aabd-cash-assistance
-"Aid to the Aged, Blind, and Disabled
-Cash Assistance (AABD)") * [Community Services Block
+"Aid to the Aged, Blind, and Disabled Cash
+Assistance (AABD)") * [Community Services Block
 Grants](https://healthandwelfare.idaho.gov/services-programs/financial-assistance/about-community-services-block-grant
 "Community Services Block Grants") * [Home Heating and Utility
 Assistance](https://healthandwelfare.idaho.gov/services-programs/financial-assistance/home-heatingutility-assistance
@@ -416,31 +418,31 @@ About the Rural Health Transformation Program Grant
 =================================================== The Rural Health
 Transformation Program (RHTP) was authorized by the [One Big Beautiful Bill
 Act](https://www.congress.gov/bill/119th-congress/house-bill/1/text/enr
-"(opens in a new window)") (Section 71401 of Public Law 119-21) and empowers
-all states to strengthen rural communities by improving healthcare access,
-quality, and outcomes. Through innovative system-wide change, the RHTP invests
-in the rural healthcare delivery ecosystem. Rural Health Transformation
-Program Goals ----------------------------------------- 1. Make rural America
-healthy again - Innovation and new access points to promote preventative
-health and address root causes of diseases. 2. Sustainable access - Help
-rural providers become long-term access points for care by improving
-efficiency and sustainability. 3. Workforce development - Attract and
-retain a high-skilled health care workforce by strengthening recruitment and
-retention. 4. Innovative care - Spark the growth of innovative care models
-to improve health outcomes, coordinate care, and promote flexible care
-arrangements. 5. Tech innovation - Foster use of innovative technologies
+"(opens in a new window)") (Section 71401 of Public Law 119-21) and
+empowers all states to strengthen rural communities by improving healthcare
+access, quality, and outcomes. Through innovative system-wide change,
+the RHTP invests in the rural healthcare delivery ecosystem. Rural Health
+Transformation Program Goals ----------------------------------------- 1. Make
+rural America healthy again - Innovation and new access points to promote
+preventative health and address root causes of diseases. 2. Sustainable
+access - Help rural providers become long-term access points for care
+by improving efficiency and sustainability. 3. Workforce development -
+Attract and retain a high-skilled health care workforce by strengthening
+recruitment and retention. 4. Innovative care - Spark the growth of innovative
+care models to improve health outcomes, coordinate care, and promote flexible
+care arrangements. 5. Tech innovation - Foster use of innovative technologies
 that promote efficient care delivery, data security, and access to digital
 health tools by rural facilities, providers, and patients. ##### Questions
 or Comments Have additional questions or comments? Reach out to us. [Email
 the Rural Health Program](mailto:IdahoRHTP@dhw.idaho.gov) Rural Health
-Transformation Program Grant ----------------------------------------- The
-authorization for the program comes with funding totaling $50 billion for all
-states over five years. The funding is divided into two buckets. * **50% or
-$25B distributed equally among approved states.** If all states are approved,
-Idaho will receive $100M annually for five years, for a total $500M. * **50%
-or $25B distributed on the criteria below. Idaho could get up to an
-additional $100M annually if awarded.** * Population in rural areas
-* Proportion of rural healthcare facilities in the state compared
+Transformation Program Grant -----------------------------------------
+The authorization for the program comes with funding totaling $50 billion
+for all states over five years. The funding is divided into two buckets. *
+**50% or $25B distributed equally among approved states.** If all states
+are approved, Idaho will receive $100M annually for five years, for a total
+$500M. * **50% or $25B distributed on the criteria below. Idaho could get
+up to an additional $100M annually if awarded.** * Population in rural
+areas * Proportion of rural healthcare facilities in the state compared
 to national facilities * Financial health of rural hospitals * Other
 factors Idaho’s Collaborative Approach ------------------------------
 The Department of Health and Welfare (DHW) submitted Idaho’s grant
@@ -491,11 +493,11 @@ slides](https://publicdocuments.dhw.idaho.gov/WebLink/ElectronicFile.aspx?docid=
 "(opens in a new window)") [RHTP Task Force Meeting Discussion
 Summaries](https://publicdocuments.dhw.idaho.gov/WebLink/DocView.aspx?id=35132&dbid=0&repo=PUBLIC-DOCUMENTS
 "(opens in a new window)") **Page last updated:**11-12-2025
-![Image 3: Idaho Department of Health and Welfare
+![Image 4: Idaho Department of Health and Welfare
 logo.](https://healthandwelfare.idaho.gov/themes/custom/idhw_skin/assets/idhw-logo.png)![Image
-4: Idaho logo with
+5: Idaho logo with
 mountain.](https://healthandwelfare.idaho.gov/themes/custom/idhw_skin/assets/idaho-mtn-logo.svg)![Image
-5: Graphic of a map of the USA with Idaho
+6: Graphic of a map of the USA with Idaho
 hilighted.](https://healthandwelfare.idaho.gov/themes/custom/idhw_skin/assets/usa-idaho-map.svg)
 Footer Navigation ----------------- * [About
 Us](https://healthandwelfare.idaho.gov/about-dhw/about-dhw "About Us") *
@@ -543,7 +545,10 @@ DHW](https://healthandwelfare.idaho.gov/about-dhw/privacy-and-confidentiality
 "Privacy - DHW") * [Security](https://www.idaho.gov/about-us/security-policy/
 "Security (opens in a new window)") This site is powered by
 [CiviServ](https://www.govwebworks.com/methods/civiserv-citizen-portal
-"(opens in a new window)") ![Image 6: Idaho logo with
+"(opens in a new window)") ![Image 7: Idaho logo with
 mountain.](https://healthandwelfare.idaho.gov/themes/custom/idhw_skin/assets/idaho-mtn-logo.svg)![Image
-7: Graphic of a map of the USA with Idaho
+8: Graphic of a map of the USA with Idaho
 hilighted.](https://healthandwelfare.idaho.gov/themes/custom/idhw_skin/assets/usa-idaho-map.svg)
+![Image 9](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text Rate this translation Your feedback will be used to help
+improve Google Translate
