@@ -105,10 +105,10 @@ funding. * [Policies](https://portal.ct.gov/Policies/State-Privacy-Policy) *
 Media](https://portal.ct.gov/social_media) * [For State
 Employees](https://portal.ct.gov/for_state_employees_footer)
 * ![Image 2: United States
-Flag](https://portal.ct.gov/dss/-/media/connecticut-interactive/images/resources/usflag240.jpg?rev=e217d3de1f0743b5a0231d0286e85252&h=137&w=240&la=en&hash=8DC13A5CD0BEB9FABCED7343B3FDC63F)[United
+Flag](https://portal.ct.gov/dss/-/media/connecticut-interactive/images/resources/usflag240.jpg?rev=e217d3de1f0743b5a0231d0286e85252&la=en&h=137&w=240&hash=8DC13A5CD0BEB9FABCED7343B3FDC63F)[United
 States FULL](https://portal.ct.gov/governor/flag-status
 "United States flag status - FULL ") * ![Image 3: Connecticut
-Flag](https://portal.ct.gov/dss/-/media/connecticut-interactive/images/resources/ctflag240.jpg?rev=783695d23334484fadc8e9cf3352ad73&h=137&w=240&la=en&hash=AB7A9A999E323BF40901E3987A01AA71)[Connecticut
+Flag](https://portal.ct.gov/dss/-/media/connecticut-interactive/images/resources/ctflag240.jpg?rev=783695d23334484fadc8e9cf3352ad73&la=en&h=137&w=240&hash=AB7A9A999E323BF40901E3987A01AA71)[Connecticut
 FULL](https://portal.ct.gov/governor/flag-status
 "Connecticut state flag status - FULL ") © [2016 CT.gov |
 Connecticut's Official State Website](https://portal.ct.gov/
