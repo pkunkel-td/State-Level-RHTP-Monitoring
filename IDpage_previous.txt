@@ -1,7 +1,6 @@
 Title: About the Rural Health Transformation Program Grant URL Source:
 https://healthandwelfare.idaho.gov/providers/rural-health-transformation-program-grant/about-rural-health-transformation-program-grant
-Published Time: Fri, 09 Jan 2026 22:43:04 GMT Markdown
-Content: About the Rural Health Transformation Program
+Markdown Content: About the Rural Health Transformation Program
 Grant | Idaho Department of Health and Welfare =============== [Skip to main
 content](https://healthandwelfare.idaho.gov/providers/rural-health-transformation-program-grant/about-rural-health-transformation-program-grant#main-content)
 Header Utility Navigation ------------------------- * [For
