@@ -1,23 +1,6 @@
 Title: Rural Health Transformation Program URL Source:
-https://portal.ct.gov/dss/rural-health-transformation-program Markdown
-Content: Rural Health Transformation Program =============== [Skip to
-Content](https://portal.ct.gov/dss/rural-health-transformation-program#mainContent)[Skip
-to
-Chat](https://portal.ct.gov/dss/rural-health-transformation-program#chatContent)
-× Settings Menu * **Language** * **High Contrast**- [x] High Contrast Mode
-On or Off switch On Off * **Font Size**regular font size large font size *
-[Disclaimer](https://portal.ct.gov/portal/policies/disclaimer/#translate
-"See Translation Disclaimer") * Close **NOTE**: CT.gov websites
-will be undergoing maintenance on Saturday January 10. We
-appreciate your patience during this time. [![Image 1: CT.gov
-Logo](https://portal.ct.gov/Assets/Images/CT%20Gov%20Logo.svg)
-Connecticut's Official State Website](https://portal.ct.gov/
-"CT.gov Home") Search Bar for CT.gov Search Language + Settings
-[Top](https://portal.ct.gov/dss/rural-health-transformation-program#0) *
-[CT.gov Home](https://portal.ct.gov/) * [dss](https://portal.ct.gov/dss)
-* Current: Rural Health Transformation Program Rural Health
-Transformation Program ----------------------------------- *
-[Overview](https://portal.ct.gov/dss/rural-health-transformation-program
+https://portal.ct.gov/dss/rural-health-transformation-program Markdown Content:
+* [Overview](https://portal.ct.gov/dss/rural-health-transformation-program
 "Overview") * [Public
 Comment](https://portal.ct.gov/dss/rural-health-transformation-program/public-comment
 "Public Comment") *
@@ -60,34 +43,34 @@ rural health care providers furnish high-quality health care services as
 close to a patient’s home as is possible; * Outline strategies to manage
 long-term financial solvency and operating models of rural hospitals in
 the state; and * Identify specific causes driving the accelerating rate
-of stand-alone rural hospitals becoming at risk of closure, conversion, or
-service reduction. #### **Federal Requirements – Allowable Uses of Grant
-Funds** Federal law provides specific rules on the allowable uses of RHTP
-funds, which CMS grouped into five categories: * Make rural America healthy
-again * Sustainable access * Workforce development * Innovative care * Tech
-innovation Specifically, states must use RHTP funds for three or more of the
-approved uses of funds: * Promoting evidence-based, measurable interventions
-to improve prevention and chronic disease management. * Providing payments to
-health care providers for the provision of health care items or services, as
-specified by the Administrator. * Promoting consumer-facing, technology-driven
-solutions for the prevention and management of chronic diseases. * Providing
-training and technical assistance for the development and adoption of
-technology-enabled solutions that improve care delivery in rural hospitals,
-including remote monitoring, robotics, artificial intelligence, and other
-advanced technologies. * Recruiting and retaining clinical workforce talent
-to rural areas, with commitments to serve rural communities for a minimum
-of five years. * Providing technical assistance, software, and hardware for
-significant information technology advances designed to improve efficiency,
-enhance cybersecurity capability development, and improve patient health
-outcomes. * Assisting rural communities to right size their health care
-delivery systems by identifying needed preventive, ambulatory, pre-hospital,
-emergency, acute inpatient care, outpatient care, and post-acute care service
-lines. * Supporting access to opioid use disorder treatment services, other
-substance use disorder treatment services, and mental health services. *
-Developing projects that support innovative models of care that include
-value-based care arrangements and alternative payment models, as appropriate. *
-Additional uses designed to promote sustainable access to high quality
-rural health care services, as determined by the Administrator. For
+of stand-alone rural hospitals becoming at risk of closure, conversion,
+or service reduction. #### **Federal Requirements – Allowable Uses of
+Grant Funds** Federal law provides specific rules on the allowable uses of
+RHTP funds, which CMS grouped into five categories: * Make rural America
+healthy again * Sustainable access * Workforce development * Innovative
+care * Tech innovation Specifically, states must use RHTP funds for three or
+more of the approved uses of funds: * Promoting evidence-based, measurable
+interventions to improve prevention and chronic disease management. * Providing
+payments to health care providers for the provision of health care items or
+services, as specified by the Administrator. * Promoting consumer-facing,
+technology-driven solutions for the prevention and management of chronic
+diseases. * Providing training and technical assistance for the development
+and adoption of technology-enabled solutions that improve care delivery
+in rural hospitals, including remote monitoring, robotics, artificial
+intelligence, and other advanced technologies. * Recruiting and retaining
+clinical workforce talent to rural areas, with commitments to serve rural
+communities for a minimum of five years. * Providing technical assistance,
+software, and hardware for significant information technology advances
+designed to improve efficiency, enhance cybersecurity capability development,
+and improve patient health outcomes. * Assisting rural communities to right
+size their health care delivery systems by identifying needed preventive,
+ambulatory, pre-hospital, emergency, acute inpatient care, outpatient care,
+and post-acute care service lines. * Supporting access to opioid use disorder
+treatment services, other substance use disorder treatment services, and mental
+health services. * Developing projects that support innovative models of care
+that include value-based care arrangements and alternative payment models, as
+appropriate. * Additional uses designed to promote sustainable access to high
+quality rural health care services, as determined by the Administrator. For
 more information about federal rules for RHTP, including a link
 to the CMS Notice of Funding Opportunity, please see the CMS webpage at this
 [**link**](https://www.cms.gov/priorities/rural-health-transformation-rht-program/rural-health-transformation-rht-program).
@@ -97,21 +80,4 @@ residents living in the state’s rural areas, focused on interventions with
 long-term benefits; * Can be accomplished within the established demonstration
 period consistent with federal requirements for the RHTP; and * Demonstrate
 long-term scalability and financial sustainability, such as by maximizing
-other available resources and without necessarily requiring new state
-funding. * [Policies](https://portal.ct.gov/Policies/State-Privacy-Policy) *
-[Accessibility](https://portal.ct.gov/dss/-/media/sitecore-center/accessibility/it-accessibility-policy-final-for-release-07142025.pdf?rev=bd9ac94fd0bd4b5ea7ed11227682895a&hash=EAF8E1B9A17D5F2C97B571CEDB1AA90E)
-* [About CT](https://portal.ct.gov/About) *
-[Directories](https://portal.ct.gov/Directories) * [Social
-Media](https://portal.ct.gov/social_media) * [For State
-Employees](https://portal.ct.gov/for_state_employees_footer)
-* ![Image 2: United States
-Flag](https://portal.ct.gov/dss/-/media/connecticut-interactive/images/resources/usflag240.jpg?rev=e217d3de1f0743b5a0231d0286e85252&la=en&h=137&w=240&hash=8DC13A5CD0BEB9FABCED7343B3FDC63F)[United
-States FULL](https://portal.ct.gov/governor/flag-status
-"United States flag status - FULL ") * ![Image 3: Connecticut
-Flag](https://portal.ct.gov/dss/-/media/connecticut-interactive/images/resources/ctflag240.jpg?rev=783695d23334484fadc8e9cf3352ad73&la=en&h=137&w=240&hash=AB7A9A999E323BF40901E3987A01AA71)[Connecticut
-FULL](https://portal.ct.gov/governor/flag-status
-"Connecticut state flag status - FULL ") © [2016 CT.gov |
-Connecticut's Official State Website](https://portal.ct.gov/
-"Connecticut's Official State Website") [![Image 4: Connecticut
-Logo](https://portal.ct.gov/assets/images/Connecticut%20logo.svg)](http://www.ctvisit.com/
-"Connecticut Still Revolutionary")
+other available resources and without necessarily requiring new state funding.
