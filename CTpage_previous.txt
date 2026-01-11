@@ -7,9 +7,7 @@ Chat](https://portal.ct.gov/dss/rural-health-transformation-program#chatContent)
 × Settings Menu * **Language** * **High Contrast**- [x] High Contrast Mode
 On or Off switch On Off * **Font Size**regular font size large font size *
 [Disclaimer](https://portal.ct.gov/portal/policies/disclaimer/#translate
-"See Translation Disclaimer") * Close **NOTE**: CT.gov websites
-will be undergoing maintenance on Saturday January 10. We
-appreciate your patience during this time. [![Image 1: CT.gov
+"See Translation Disclaimer") * Close [![Image 1: CT.gov
 Logo](https://portal.ct.gov/Assets/Images/CT%20Gov%20Logo.svg)
 Connecticut's Official State Website](https://portal.ct.gov/
 "CT.gov Home") Search Bar for CT.gov Search Language + Settings
