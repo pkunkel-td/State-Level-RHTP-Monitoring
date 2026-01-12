@@ -297,7 +297,9 @@ Resources](https://www.in.gov/core/info_employees.html) State Information
 * [Awards](https://www.in.gov/core/awards.html)
 * [Accessibility Settings](javascript:void();
 "Open accessibility tools") * [Report Accessibility
-Issues](https://www.in.gov/core/accessibility-feedback.html) * Speak ![Image
+Issues](https://www.in.gov/core/accessibility-feedback.html) * [Screen Reader -
+Speak](https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/
+"Listen with the ReachDeck Toolbar") ![Image
 4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 Original text Rate this translation Your feedback will be used to help
 improve Google Translate
