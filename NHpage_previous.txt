@@ -1,7 +1,6 @@
 Title: Rural Health Transformation Program URL Source:
 https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program
-Published Time: Fri, 09 Jan 2026 21:26:01 GMT Markdown
-Content: Rural Health Transformation Program | New Hampshire
+Markdown Content: Rural Health Transformation Program | New Hampshire
 Department of Health and Human Services =============== [Skip to main
 content](https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program#content
 "Skip to main content") [A A A Change Text
@@ -14,16 +13,14 @@ Site](https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transforma
 [CLOSE](https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program#
 "close modal") MAKE TEXT SMALLER MAKE TEXT LARGER
 [CLOSE](https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program#
-"close modal") Powered by [![Image 3: Google
-Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
-Powered by:[![Image 4: Google
+"close modal") Powered by:[![Image 3: Google
 Translate](https://www.dhhs.nh.gov/themes/custom/state_of_nh_core/library/img/googleTranslate.png)](https://translate.google.com/)
 [Reset Language to
 English](https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program#
 "Reset Language to English")
 [CLOSE](https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program#
 "close modal") Search entire site by
-keyword or topic SEARCH [![Image 5: The logo image for the
+keyword or topic SEARCH [![Image 4: The logo image for the
 website](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/new-dhhs-logo-115.png)](https://www.dhhs.nh.gov/)
 * [Contact](https://www.dhhs.nh.gov/contact-directory) *
 [Careers](https://www.dhhs.nh.gov/about-dhhs/dhhs-human-resources) * [Forms
@@ -32,7 +29,7 @@ Facilities](https://www.dhhs.nh.gov/about-dhhs/locations-facilities)
 * [Report a Concern](https://www.dhhs.nh.gov/report-concern) *
 [](https://www.facebook.com/NHDepartmentOfHealthAndHumanServices/
 "Visit us on Facebook") * [](https://twitter.com/NHDHHSPIO
-"Visit us on Twitter") ![Image 6: New Hampshire state
+"Visit us on Twitter") ![Image 5: New Hampshire state
 seal](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/images/seal-no-laurels-live-free-125px.png)
 Main navigation --------------- OPEN MENU CLOSE
 MENU * [Home](https://www.dhhs.nh.gov/) * [About
@@ -77,10 +74,9 @@ Recovery](https://www.dhhs.nh.gov/programs-services/emergency-preparedness-respo
 Health](https://www.dhhs.nh.gov/programs-services/environmental-health-and-you)
 * [Financial
 Assistance](https://www.dhhs.nh.gov/financial-assistance-0) * [Food & Meals
-Assistance](https://www.dhhs.nh.gov/programs-services/food-meals-assistance)
-* [Health Care](https://www.dhhs.nh.gov/programs-services/health-care) *
-[Health Access](https://www.dhhs.nh.gov/programs-services/health-access) *
-[Homeless
+Assistance](https://www.dhhs.nh.gov/programs-services/food-meals-assistance) *
+[Health Care](https://www.dhhs.nh.gov/programs-services/health-care) * [Health
+Access](https://www.dhhs.nh.gov/programs-services/health-access) * [Homeless
 Services](https://www.dhhs.nh.gov/programs-services/homeless-services) *
 [Medicaid](https://www.dhhs.nh.gov/programs-services/medicaid) * [Mental
 Health](https://www.dhhs.nh.gov/programs-services/mental-health) * [Population
@@ -124,9 +120,9 @@ Calendar](https://www.dhhs.nh.gov/news-events/events-calendar) *
 [Press Releases](https://www.dhhs.nh.gov/news-events/press-releases) *
 [Public Notices](https://www.dhhs.nh.gov/news-events/public-notices)
 * [Contact](https://www.dhhs.nh.gov/contact-directory) *
-[Careers](https://www.dhhs.nh.gov/about-dhhs/dhhs-human-resources) * [Forms
-& Documents](https://www.dhhs.nh.gov/forms-documents-0) * [Locations &
-Facilities](https://www.dhhs.nh.gov/about-dhhs/locations-facilities)
+[Careers](https://www.dhhs.nh.gov/about-dhhs/dhhs-human-resources) *
+[Forms & Documents](https://www.dhhs.nh.gov/forms-documents-0) * [Locations
+& Facilities](https://www.dhhs.nh.gov/about-dhhs/locations-facilities)
 * [Report a Concern](https://www.dhhs.nh.gov/report-concern)
 * [Home](https://www.dhhs.nh.gov/) * [Programs &
 Services](https://www.dhhs.nh.gov/programs-services) *
@@ -136,7 +132,7 @@ Services](https://www.dhhs.nh.gov/programs-services) *
 Rural Health Transformation Program ===================================
 Information and resources about the Rural Health Transformation Program (RHTP)
 ------------------------------------------------------------------------------
-![Image 7: News
+![Image 6: News
 icon](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/styles/cta_information/public/media/module_image/news.png?h=07a49c3e&itok=Loh6G4X9)
 #### New Hampshire Awarded Over $204 Million to Transform Rural Health
 Care #### New Hampshire Awarded Over $204 Million to Transform Rural
@@ -152,40 +148,40 @@ Rural Health Transformation Grant program has been submitted
 to the U.S. Centers for Medicare and Medicaid Services
 (CMS). Read [Rural Health Transformation: Granite Strong. Future
 Ready.pdf](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents2/rht-summary.pdf)![Image
-8: .pdf
+7: .pdf
 Icon](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/styles/inline_icon/public/2019-12/icon-pdf.png?h=e77b622d&itok=QwOzQFit)
 for more information on the State’s planned approach. ### Overview:
 The One Big Beautiful Bill Act (Section 71401) This landmark legislation
-establishes the Rural Health Transformation Grants Program, administered by
-the Centers for Medicare and Medicaid Services (CMS). The program dedicates
-$50 billion nationwide between 2026 and 2030—an annual investment of $10
-billion. **To access these funds, each state must submit a Rural Health
-Transformation Plan to CMS by November 5, 2025.** For New Hampshire, this
-means an expected allocation of approximately $100 million per year, totaling
-$500 million over five years, to strengthen rural health care access, quality,
-and long-term sustainability. * [About
+establishes the Rural Health Transformation Grants Program, administered
+by the Centers for Medicare and Medicaid Services (CMS). The program
+dedicates $50 billion nationwide between 2026 and 2030—an annual
+investment of $10 billion. **To access these funds, each state must
+submit a Rural Health Transformation Plan to CMS by November 5, 2025.**
+For New Hampshire, this means an expected allocation of approximately $100
+million per year, totaling $500 million over five years, to strengthen
+rural health care access, quality, and long-term sustainability. * [About
 RHTP](https://www.dhhs.nh.gov/programs-services/medicaid/rural-health-transformation-program/about-rural-health-transformation)
 * [Rural Health Transformation Project Narrative
 .pdf](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/inline-documents/sonh/rhtc-project-narrative.pdf)![Image
-9: .pdf
+8: .pdf
 Icon](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/styles/inline_icon/public/2019-12/icon-pdf.png?h=e77b622d&itok=QwOzQFit)
 * [Rural Health Transformation Program Summary
 .pdf](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents2/rht-summary.pdf)![Image
-10: .pdf
+9: .pdf
 Icon](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/styles/inline_icon/public/2019-12/icon-pdf.png?h=e77b622d&itok=QwOzQFit)
 * [CMS Rural Health Transformation
 Program](https://www.cms.gov/priorities/rural-health-transformation-rht-program/rural-health-transformation-rht-program)
 * [CMS RHTP Frequently Asked Questions
 .pdf](https://www.cms.gov/files/document/rural-health-transformation-frequently-asked-questions.pdf)![Image
-11: .pdf
+10: .pdf
 Icon](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/styles/inline_icon/public/2019-12/icon-pdf.png?h=e77b622d&itok=QwOzQFit)
 * [North Country Rural Health Transformation Summit Presentation
 .pdf](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents2/rural-health-summit-09042025.pdf)![Image
-12: .pdf
+11: .pdf
 Icon](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/styles/inline_icon/public/2019-12/icon-pdf.png?h=e77b622d&itok=QwOzQFit)
 * [Safety Net Healthcare Programs Map
 .pdf](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/inline-documents/sonh/rhtf-map.pdf)![Image
-13: .pdf
+12: .pdf
 Icon](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/styles/inline_icon/public/2019-12/icon-pdf.png?h=e77b622d&itok=QwOzQFit)
 ### Make Rural America Healthy Again Support rural health initiatives and
 new access points to promote preventative health and address root causes of
@@ -193,9 +189,9 @@ diseases. Projects will use evidence-based, outcomes-driven interventions
 to improve disease management, behavioral health, and prenatal care. ###
 Sustainable Access Help rural providers become long-term access points for
 care by improving efficiency and sustainability. With RHT Program support,
-rural facilities work together - or with high-quality regional systems - to
-share or coordinate operations, technology, primary and specialty care, and
-emergency services. ### Innovative Care Spark the growth of innovative care
+rural facilities work together - or with high-quality regional systems -
+to share or coordinate operations, technology, primary and specialty care,
+and emergency services. ### Innovative Care Spark the growth of innovative care
 models to improve health outcomes, coordinate care, and promote flexible care
 arrangements. Develop and implement payment mechanisms incentivizing providers
 or Accountable Care Organizations (ACOs) to reduce health care costs, improve
@@ -213,9 +209,9 @@ patients navigate the healthcare system. ### Contact Information List Content
 [Rural Health Transformation Program](https://www.dhhs.nh.gov/node/127091
 "View the profile page for Rural Health Transformation Program")
 Email Address: [rhtf@dhhs.nh.gov](mailto:rhtf@dhhs.nh.gov)
-1 [Escape Site](https://www.weather.com/) ![Image 14: scroll to
+1 [Escape Site](https://www.weather.com/) ![Image 13: scroll to
 top](https://www.dhhs.nh.gov/themes/custom/state_of_nh_core/library/img/scrollToTop.svg)
-[![Image 15: The logo image for the
+[![Image 14: The logo image for the
 website](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/new-dhhs-logo-115.png)](https://www.dhhs.nh.gov/)
 TDD Access: Relay NH [1-800-735-2964](tel:+18007352964 "TDD Access
 Relay NH phone number") Footer - Agency Links ---------------------
@@ -237,8 +233,5 @@ Tourism") * [NH Web Portal - NH.gov](https://www.nh.gov/ "NH Web Portal
 2026 State of New Hampshire • All rights reserved * [Accessibility
 Policy](https://www.nh.gov/policies/accessibility-policy
 "Accessibility Policy") * [DHHS Privacy
-Policy](https://www.dhhs.nh.gov/dhhs-website-privacy-statement "DHHS
-Privacy Policy") An official NEW HAMPSHIRE government website ![Image
-16](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text Rate this translation Your feedback will be used to help
-improve Google Translate
+Policy](https://www.dhhs.nh.gov/dhhs-website-privacy-statement "DHHS Privacy
+Policy") An official NEW HAMPSHIRE government website
