@@ -2,9 +2,12 @@ Title: Indiana Rural Health Transformation
 Program Grant Application Working Group URL Source:
 https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/
 Published Time: 2025-08-26T16:06:10-04:00 Markdown Content: FSSA:
-Indiana Rural Health Transformation Program Grant Application
-Working Group =============== [An official website of the Indiana State
-Government](https://www.in.gov/) [Accessibility Settings](javascript:void(0);)
+Indiana Rural Health Transformation Program Grant Application Working
+Group =============== Press Option+1 for screen-reader mode, Option+0 to
+cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New
+window](https://accessibe.com/blog/knowledgebase/screen-reader-guide) [An
+official website of the Indiana State Government](https://www.in.gov/)
+[Accessibility Settings](javascript:void(0);)
 Language Translation Powered by [![Image 1: Google
 Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
 [Governor Mike Braun](https://www.in.gov/gov) * [![Image 2: FSSA
@@ -80,8 +83,8 @@ Updates](https://www.in.gov/fssa/rulemaking-notices-and-updates) *
 [Public Notices](https://www.in.gov/fssa/public-notices) * [Security
 Policies](https://www.in.gov/fssa/security-policies) * [FSSA Data &
 Analytics](https://www.in.gov/fssa/fssa-data-and-analytics) * [Medicaid/Public
-Assistance Fraud](https://www.in.gov/fssa/medicaidpublic-assistance-fraud) *
-[Indiana Behavioral Health
+Assistance Fraud](https://www.in.gov/fssa/medicaidpublic-assistance-fraud)
+* [Indiana Behavioral Health
 Commission](https://www.in.gov/fssa/dmha/indiana-behavioral-health-commission)
 * [Contact Us](https://www.in.gov/fssa/contact-us)
 * [Learn More](javascript:void(0);) * [Online Services - Click to
@@ -95,7 +98,21 @@ Portal](https://portal.indianamedicaid.com/hcp/Default.aspx?alias=portal.indiana
 Services](http://www.in.gov/services.htm) * [IN.gov Subscriber
 Center](http://www.in.gov/subscriber_center.htm) * [Top FAQs - Click to
 Expand](https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/#)Toggle
-menu Close Menu Sidebar ======= Side Navigation --------------- [FSSA
+menu * [How does a Medicaid member arrange for
+transportation?](https://faqs.in.gov/hc/en-us/articles/360042519011-How-does-a-Medicaid-member-arrange-for-transportation)
+* [What types of gambling treatment services are
+available?](https://faqs.in.gov/hc/en-us/articles/360042092432-What-types-of-gambling-treatment-services-are-available)
+* [How does someone qualify for gambling disorder
+treatment?](https://faqs.in.gov/hc/en-us/articles/360042092392--How-does-someone-qualify-for-gambling-disorder-treatment)
+* [What is problem gambling/gambling
+disorder?](https://faqs.in.gov/hc/en-us/articles/360042518931-What-is-problem-gambling-gambling-disorder)
+* [Are there additional resources for a gambling
+problem?](https://faqs.in.gov/hc/en-us/articles/360042518851-Are-there-additional-resources-for-a-gambling-problem)
+* [Where can I get help with a gambling
+problem?](https://faqs.in.gov/hc/en-us/articles/360042092312-Where-can-I-get-help-with-a-gambling-problem)
+* [More FAQs
+>](https://ingov.zendesk.com/hc/en-us/sections/115000627786-Family-Social-Services-Administration)
+Close Menu Sidebar ======= Side Navigation --------------- [FSSA
 Home](https://www.in.gov/fssa) ------------------------------------ * [About
 FSSA - Click to Expand](https://www.in.gov/fssa/about-fssa)Toggle menu * [FSSA
 Mission and Vision](https://www.in.gov/fssa/about-fssa/fssa-mission-vision) *
@@ -162,8 +179,8 @@ Updates](https://www.in.gov/fssa/rulemaking-notices-and-updates) *
 [Public Notices](https://www.in.gov/fssa/public-notices) * [Security
 Policies](https://www.in.gov/fssa/security-policies) * [FSSA Data &
 Analytics](https://www.in.gov/fssa/fssa-data-and-analytics) * [Medicaid/Public
-Assistance Fraud](https://www.in.gov/fssa/medicaidpublic-assistance-fraud) *
-[Indiana Behavioral Health
+Assistance Fraud](https://www.in.gov/fssa/medicaidpublic-assistance-fraud)
+* [Indiana Behavioral Health
 Commission](https://www.in.gov/fssa/dmha/indiana-behavioral-health-commission)
 * [Contact Us](https://www.in.gov/fssa/contact-us)
 Learn More * [Online Services - Click to
@@ -177,7 +194,21 @@ Portal](https://portal.indianamedicaid.com/hcp/Default.aspx?alias=portal.indiana
 Services](http://www.in.gov/services.htm) * [IN.gov Subscriber
 Center](http://www.in.gov/subscriber_center.htm) * [Top FAQs - Click to
 Expand](https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/#)Toggle
-menu Breadcrumbs =========== * [FSSA](https://www.in.gov/fssa) *
+menu * [How does a Medicaid member arrange for
+transportation?](https://faqs.in.gov/hc/en-us/articles/360042519011-How-does-a-Medicaid-member-arrange-for-transportation)
+* [What types of gambling treatment services are
+available?](https://faqs.in.gov/hc/en-us/articles/360042092432-What-types-of-gambling-treatment-services-are-available)
+* [How does someone qualify for gambling disorder
+treatment?](https://faqs.in.gov/hc/en-us/articles/360042092392--How-does-someone-qualify-for-gambling-disorder-treatment)
+* [What is problem gambling/gambling
+disorder?](https://faqs.in.gov/hc/en-us/articles/360042518931-What-is-problem-gambling-gambling-disorder)
+* [Are there additional resources for a gambling
+problem?](https://faqs.in.gov/hc/en-us/articles/360042518851-Are-there-additional-resources-for-a-gambling-problem)
+* [Where can I get help with a gambling
+problem?](https://faqs.in.gov/hc/en-us/articles/360042092312-Where-can-I-get-help-with-a-gambling-problem)
+* [More FAQs
+>](https://ingov.zendesk.com/hc/en-us/sections/115000627786-Family-Social-Services-Administration)
+Breadcrumbs =========== * [FSSA](https://www.in.gov/fssa) *
 [Policies/Info/Forms](https://www.in.gov/fssa/policiesinfoforms) * Current:
 Indiana Rural Health Transformation Program Grant Application Working Group
 Indiana Rural Health Transformation Program Grant Application Working Group
@@ -296,9 +327,7 @@ Resources](https://www.in.gov/core/info_employees.html) State Information
 * [Awards](https://www.in.gov/core/awards.html)
 * [Accessibility Settings](javascript:void();
 "Open accessibility tools") * [Report Accessibility
-Issues](https://www.in.gov/core/accessibility-feedback.html) * [Screen Reader -
-Speak](https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/
-"Listen with the ReachDeck Toolbar") ![Image
+Issues](https://www.in.gov/core/accessibility-feedback.html) * Speak ![Image
 4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 Original text Rate this translation Your feedback will be used to help
 improve Google Translate
