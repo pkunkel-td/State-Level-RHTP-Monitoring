@@ -54,15 +54,16 @@ jobs:
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # ENHANCED NORMALIZATION:
+            # DE-NOISING & ENHANCED NORMALIZATION:
             # 1. Strip HTML/Scripts/Styles
-            # 2. Collapse all whitespace and newlines into single spaces (tr -s)
-            # 3. Force wrap at 80 characters (fmt)
-            # This ensures only actual word changes trigger an alert.
+            # 2. Specifically strip dynamic timestamps (Published Time, etc.)
+            # 3. Collapse all whitespace/newlines into single spaces (tr -s)
+            # 4. Force wrap at 80 characters (fmt) for clean GitHub Diff
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | sed '/Textise/d' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
@@ -113,6 +114,6 @@ jobs:
             fi
           fi
 
-          # Sync with the latest from the repo to prevent push failures
+          # COLLISION PROTECTION: Sync before pushing to avoid fast-forward errors
           git pull --rebase origin main
           git push
