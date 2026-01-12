@@ -37,15 +37,17 @@ jobs:
 
           if [ "${FETCH_OK}" = "true" ]; then
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
-            # ENHANCED CLEANING:
-            # 1. Strip all HTML/Scripts/Styles
-            # 2. Convert all whitespace (tabs, newlines) to single spaces
-            # 3. Strip special characters that often fluctuate (optional)
-            # 4. Use fmt to force consistent wrapping for the comparison
+            
+            # ENHANCED NORMALIZATION:
+            # 1. Strips HTML tags
+            # 2. STRIPS DYNAMIC TIMESTAMPS (Published Time, etc.)
+            # 3. Collapses all whitespace into single spaces
+            # 4. Consistent 80-char wrapping
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
+              | sed -E 's/Published Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
