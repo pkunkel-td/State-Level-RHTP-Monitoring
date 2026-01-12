@@ -204,14 +204,11 @@ providers, and patients. Projects support access to remote care, improve data
 sharing, and strengthen cybersecurity, and invest in emerging technologies. ###
 Workforce Development Attract and retain a high-skilled health care workforce
 by strengthening recruitment and retention of healthcare providers in rural
-communities. Help rural providers practice at the top of their license and
-develop a broader set of providers to serve a rural community's needs, such
-as community health workers, pharmacists, and individuals trained to help
-patients navigate the healthcare system. ### Contact Information List Content
-[Rural Health Transformation Program](https://www.dhhs.nh.gov/node/127091
-"View the profile page for Rural Health Transformation Program")
-Email Address: [rhtf@dhhs.nh.gov](mailto:rhtf@dhhs.nh.gov)
-1 [Escape Site](https://www.weather.com/) ![Image 14: scroll to
+communities. Help rural providers practice at the top of their license
+and develop a broader set of providers to serve a rural community's needs,
+such as community health workers, pharmacists, and individuals trained to
+help patients navigate the healthcare system. ### Contact Information List
+Content Loading [Escape Site](https://www.weather.com/) ![Image 14: scroll to
 top](https://www.dhhs.nh.gov/themes/custom/state_of_nh_core/library/img/scrollToTop.svg)
 [![Image 15: The logo image for the
 website](https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/new-dhhs-logo-115.png)](https://www.dhhs.nh.gov/)
