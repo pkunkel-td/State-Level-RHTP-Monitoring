@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      URL: "https://dch.georgia.gov/great-health-program-georgias-rural-health-transformation-program"
+      URL: "https://dch.georgia.gov/rural-hospital-transformation-program"
       UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
@@ -26,7 +26,6 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Mirrors for bypass
           MIRRORS=(
             "https://r.jina.ai/${URL}"
             "https://www.textise.org/showtext.aspx?strURL=${URL}"
@@ -41,14 +40,12 @@ jobs:
 
           for MIRROR in "${MIRRORS[@]}"; do
             echo "Attempting mirror: ${MIRROR}"
-            if ! curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
-              continue
+            if curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
+              if ! is_blocked raw.txt; then
+                FETCH_OK=true
+                break
+              fi
             fi
-            if is_blocked raw.txt; then
-              continue
-            fi
-            FETCH_OK=true
-            break
           done
 
           if [ "${FETCH_OK}" = "false" ]; then
@@ -57,14 +54,12 @@ jobs:
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # NORMALIZATION & LINE WRAPPING:
-            # - Strips HTML/Scripts
-            # - Collapses whitespace
-            # - Wraps at 80 chars for clean Side-by-Side GitHub Diff view
+            # DE-NOISING & ENHANCED NORMALIZATION:
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | sed '/Textise/d' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
@@ -115,6 +110,5 @@ jobs:
             fi
           fi
 
-          # Sync with other state updates before pushing
           git pull --rebase origin main
           git push
