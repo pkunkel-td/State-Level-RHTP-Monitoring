@@ -57,8 +57,8 @@ jobs:
             # ENHANCED NORMALIZATION:
             # 1. Strip HTML/Scripts/Styles
             # 2. Collapse all whitespace and newlines into single spaces (tr -s)
-            # 3. Re-wrap at 80 characters (fmt)
-            # This creates a "canonical" version of the text that ignores layout shifts.
+            # 3. Force wrap at 80 characters (fmt)
+            # This ensures only actual word changes trigger an alert.
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
@@ -113,6 +113,6 @@ jobs:
             fi
           fi
 
-          # COLLISION PROTECTION: Sync before pushing
+          # Sync with the latest from the repo to prevent push failures
           git pull --rebase origin main
           git push
