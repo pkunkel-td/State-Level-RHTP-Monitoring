@@ -54,15 +54,12 @@ jobs:
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # ENHANCED NORMALIZATION:
-            # 1. Strip HTML/Scripts/Styles
-            # 2. Collapse all whitespace and newlines into single spaces (tr -s)
-            # 3. Force wrap at 80 characters (fmt)
-            # This creates a "clean" text stream that ignores layout shifts.
+            # DE-NOISING & ENHANCED NORMALIZATION:
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | sed '/Textise/d' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
@@ -113,6 +110,5 @@ jobs:
             fi
           fi
 
-          # COLLISION PROTECTION: Sync with other state updates before pushing
           git pull --rebase origin main
           git push
