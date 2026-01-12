@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      URL: "https://hcai.ca.gov/workforce/health-workforce/california-state-office-of-rural-health/"
+      URL: "https://hcai.ca.gov/facilitating-health-care-delivery/grants-and-scholarships/rural-health-transformation-program/"
       UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
@@ -21,10 +21,32 @@ jobs:
           fetch-depth: 0
 
       - name: Fetch and Wrap Page
+        id: fetch
+        shell: bash
         run: |
-          if curl -sL -A "${UA}" "https://r.jina.ai/${URL}" > raw.txt; then
+          set -euo pipefail
+          MIRRORS=("https://r.jina.ai/${URL}" "https://www.textise.org/showtext.aspx?strURL=${URL}")
+          FETCH_OK=false
+          for MIRROR in "${MIRRORS[@]}"; do
+            if curl -sL --fail --retry 3 -A "${UA}" "${MIRROR}" > raw.txt; then
+              if ! grep -qiE "Access Denied|403 Forbidden" raw.txt; then
+                FETCH_OK=true; break
+              fi
+            fi
+          done
+
+          if [ "${FETCH_OK}" = "true" ]; then
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
-            cat raw.txt | sed -E 's/<script[^>]*>.*<\/script>//gI; s/<style[^>]*>.*<\/style>//gI; s/<[^>]*>//g' | tr -s '[:space:]' ' ' | fmt -w 80 > CApage_current.txt
+            # DE-NOISING: Strips tags, dynamic timestamps, and collapses whitespace
+            cat raw.txt \
+              | sed -E 's/<script[^>]*>.*<\/script>//gI' \
+              | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+              | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              | tr -s '[:space:]' ' ' \
+              | fmt -w 80 \
+              | sed 's/^ //;s/ $//' \
+              > CApage_current.txt
           else
             echo "FETCH_OK=false" >> "$GITHUB_ENV"
           fi
@@ -36,11 +58,15 @@ jobs:
           curr=$(sha256sum CApage_current.txt | cut -d' ' -f1)
           if [ "$curr" != "$prev" ]; then echo "CHANGED=true" >> "$GITHUB_ENV"; mv CApage_current.txt CApage_previous.txt; else echo "CHANGED=false" >> "$GITHUB_ENV"; fi
 
-      - name: Commit and Push
+      - name: Commit and Push (Collision Protection)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add CAheartbeat.txt
-          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then git add CApage_previous.txt && git commit -m "ALARM: CA Content Change"; else git commit -m "CA RHT: Heartbeat"; fi
+          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then 
+            git add CApage_previous.txt && git commit -m "ALARM: CA Content Change"
+          else 
+            git commit -m "CA RHT: Heartbeat"
+          fi
           git pull --rebase origin main
           git push
