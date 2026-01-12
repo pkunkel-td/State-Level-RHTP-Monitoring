@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      URL: "https://healthandwelfare.idaho.gov/providers/rural-health-transformation-program-grant/about-rural-health-transformation-program-grant"
+      URL: "https://healthandwelfare.idaho.gov/about-dhw/office-rural-health/rural-health-transformation-program"
       UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
@@ -54,14 +54,12 @@ jobs:
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # NORMALIZATION & LINE WRAPPING:
-            # - Strips HTML/Scripts
-            # - Collapses whitespace
-            # - Wraps at 80 chars for clean Side-by-Side GitHub Diff view
+            # DE-NOISING & ENHANCED NORMALIZATION:
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | sed '/Textise/d' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
@@ -94,24 +92,4 @@ jobs:
       - name: Commit and Push (Collision Protection)
         shell: bash
         run: |
-          set -euo pipefail
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          
-          git add IDheartbeat.txt
-
-          if [ "${FETCH_OK}" = "false" ]; then
-            git add IDpage_current.txt || true
-            git commit -m "ID RHT: Fetch failed (Access Denied)"
-          else
-            if [ "${CHANGED}" = "true" ]; then
-              git add IDpage_previous.txt
-              git commit -m "ALARM: ID Content Change Detected"
-            else
-              git commit -m "ID RHT: No changes found"
-            fi
-          fi
-
-          # Sync with other state updates before pushing to prevent non-fast-forward errors
-          git pull --rebase origin main
-          git push
+          set -euo
