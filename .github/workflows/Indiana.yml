@@ -54,14 +54,12 @@ jobs:
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # NORMALIZATION & LINE WRAPPING:
-            # - Strips HTML/Scripts
-            # - Collapses whitespace
-            # - Wraps at 80 chars for clean Side-by-Side GitHub Diff view
+            # DE-NOISING & ENHANCED NORMALIZATION:
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | sed '/Textise/d' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
@@ -112,6 +110,5 @@ jobs:
             fi
           fi
 
-          # Sync with other state updates before pushing
           git pull --rebase origin main
           git push
