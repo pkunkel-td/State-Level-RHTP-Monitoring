@@ -1,9 +1,9 @@
-name: Monitor Missouri Rural Health Page
+name: Monitor IN Rural Health Page
 
 on:
   schedule:
     - cron: "0 * * * *"   # Runs hourly
-  workflow_dispatch:      # Manual trigger
+  workflow_dispatch:      # Manual trigger for testing
 
 jobs:
   monitor:
@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      URL: "https://mydss.mo.gov/mhd/rural-health"
+      URL: "https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/"
       UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
@@ -20,11 +20,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Fetch Page (Bypass & Render)
+      - name: Fetch and Wrap Page
         id: fetch
         shell: bash
         run: |
           set -euo pipefail
+
           MIRRORS=(
             "https://r.jina.ai/${URL}"
             "https://www.textise.org/showtext.aspx?strURL=${URL}"
@@ -38,36 +39,32 @@ jobs:
           > raw.txt || true
 
           for MIRROR in "${MIRRORS[@]}"; do
-            if ! curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
-              continue
+            echo "Attempting mirror: ${MIRROR}"
+            if curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
+              if ! is_blocked raw.txt; then
+                FETCH_OK=true
+                break
+              fi
             fi
-            if is_blocked raw.txt; then
-              continue
-            fi
-            FETCH_OK=true
-            break
           done
 
           if [ "${FETCH_OK}" = "false" ]; then
-            echo "FETCH_FAILED" > MOpage_current.txt
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > INpage_current.txt
             echo "FETCH_OK=false" >> "$GITHUB_ENV"
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # IMPROVED NORMALIZATION: 
-            # 1. Strip tags/scripts
-            # 2. Convert to lowercase for stable matching
-            # 3. Use 'fmt' to wrap text at 80 characters
-            # This makes GitHub's Diff view show clean, readable lines.
+            # DE-NOISING & ENHANCED NORMALIZATION:
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | sed '/Textise/d' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
-              > MOpage_current.txt
+              > INpage_current.txt
           fi
 
       - name: Compare and Heartbeat
@@ -75,16 +72,19 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          echo "Last checked at: $(date -u)" > MOheartbeat.txt
-          if [ -f MOpage_previous.txt ]; then
-            prev_hash=$(sha256sum MOpage_previous.txt | cut -d' ' -f1)
+          echo "Last checked at: $(date -u)" > INheartbeat.txt
+          
+          if [ -f INpage_previous.txt ]; then
+            prev_hash=$(sha256sum INpage_previous.txt | cut -d' ' -f1)
           else
             prev_hash="none"
           fi
-          current_hash=$(sha256sum MOpage_current.txt | cut -d' ' -f1)
+
+          current_hash=$(sha256sum INpage_current.txt | cut -d' ' -f1)
+
           if [ "${current_hash}" != "${prev_hash}" ]; then
             echo "CHANGED=true" >> "$GITHUB_ENV"
-            mv MOpage_current.txt MOpage_previous.txt
+            mv INpage_current.txt INpage_previous.txt
           else
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
@@ -95,17 +95,20 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add MOheartbeat.txt
+          
+          git add INheartbeat.txt
+
           if [ "${FETCH_OK}" = "false" ]; then
-            git add MOpage_current.txt || true
-            git commit -m "MO RHT: Fetch failed"
+            git add INpage_current.txt || true
+            git commit -m "IN RHT: Fetch failed (Access Denied)"
           else
             if [ "${CHANGED}" = "true" ]; then
-              git add MOpage_previous.txt
-              git commit -m "ALARM: MO Content Change Detected"
+              git add INpage_previous.txt
+              git commit -m "ALARM: IN Content Change Detected"
             else
-              git commit -m "MO RHT: No changes"
+              git commit -m "IN RHT: No changes found"
             fi
           fi
+
           git pull --rebase origin main
           git push
