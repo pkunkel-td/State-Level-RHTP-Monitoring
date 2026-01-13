@@ -332,10 +332,8 @@ Liaisons](https://ldh.la.gov/medicaid/mco-judicial-liaisons)
 * [Justice Involved Pre-Release
 Program](https://ldh.la.gov/medicaid/justice-involved-prerelease-enrollment-program)
 * [Reentry 1115 Demonstration
-Waiver](https://ldh.la.gov/medicaid/reentry-1115-waiver)
-* SNAP Back**SNAP** * [Program Statistics
-2025-2026](https://ldh.la.gov/supplemental-nutrition-assistance-program/program-statistics-2025-2026)
-* [Supplemental Nutrition Assistance Program
+Waiver](https://ldh.la.gov/medicaid/reentry-1115-waiver) *
+SNAP Back**SNAP** * [Supplemental Nutrition Assistance Program
 (SNAP)](https://ldh.la.gov/supplemental-nutrition-assistance-program) Back
 _SNAP_**Supplemental Nutrition Assistance Program (SNAP)** * [Able-Bodied
 Adult Without Dependents (ABAWD)](https://ldh.la.gov/page/5514)
@@ -345,7 +343,9 @@ Adult Without Dependents (ABAWD)](https://ldh.la.gov/page/5514)
 (eHIP)](https://ldh.la.gov/supplemental-nutrition-assistance-program/ehip)
 * [Family Independence Temporary Assistance Program
 (FITAP)](https://ldh.la.gov/page/5526) * [LaCAP](https://ldh.la.gov/page/5554)
-* [Kinship Care Subsidy Program (KCSP)](https://ldh.la.gov/page/5527)
+* [Kinship Care Subsidy Program (KCSP)](https://ldh.la.gov/page/5527) *
+[Program Statistics
+2025-2026](https://ldh.la.gov/supplemental-nutrition-assistance-program/program-statistics-2025-2026)
 * [Replacement SNAP Benefits](https://ldh.la.gov/page/5510) *
 [Report SNAP Fraud](https://ldh.la.gov/page/5531) * [SUN
 Bucks](https://ldh.la.gov/page/5495) * [Skimming: What
