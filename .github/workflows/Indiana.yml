@@ -54,12 +54,16 @@ jobs:
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # DE-NOISING & ENHANCED NORMALIZATION:
+            # REINFORCED DE-NOISING:
+            # 1. Strip all HTML/Scripts/Styles
+            # 2. Targeted regex for dynamic timestamps, session IDs, and generator strings
+            # 3. Collapse all whitespace into single spaces (tr -s)
+            # 4. Standardized line wrapping at 80 chars
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
-              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              | sed -E 's/(Published|Updated|Last Modified|Page generated on|Session ID): [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | sed '/Textise/d' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
@@ -110,5 +114,6 @@ jobs:
             fi
           fi
 
+          # CRITICAL: Collision protection to sync with main before push
           git pull --rebase origin main
           git push
