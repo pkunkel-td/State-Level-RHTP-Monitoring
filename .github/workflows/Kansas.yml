@@ -1,0 +1,119 @@
+name: Monitor KS Rural Health Page
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs hourly
+  workflow_dispatch:      # Manual trigger for testing
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      URL: "https://www.kdhe.ks.gov/2361/Rural-Health-Transformation-Program"
+      UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch and Wrap Page
+        id: fetch
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          MIRRORS=(
+            "https://r.jina.ai/${URL}"
+            "https://www.textise.org/showtext.aspx?strURL=${URL}"
+          )
+
+          is_blocked() {
+            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission" "$1"
+          }
+
+          FETCH_OK=false
+          > raw.txt || true
+
+          for MIRROR in "${MIRRORS[@]}"; do
+            echo "Attempting mirror: ${MIRROR}"
+            if curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
+              if ! is_blocked raw.txt; then
+                FETCH_OK=true
+                break
+              fi
+            fi
+          done
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > KSpage_current.txt
+            echo "FETCH_OK=false" >> "$GITHUB_ENV"
+          else
+            echo "FETCH_OK=true" >> "$GITHUB_ENV"
+            
+            # DE-NOISING & ENHANCED NORMALIZATION:
+            # 1. Strip all HTML/Scripts/Styles
+            # 2. Targeted regex for dynamic timestamps and generator strings
+            # 3. Collapse all whitespace into single spaces (tr -s)
+            # 4. Standardized line wrapping at 80 chars
+            cat raw.txt \
+              | sed -E 's/<script[^>]*>.*<\/script>//gI' \
+              | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+              | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified|Page generated on|Session ID): [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              | sed '/Textise/d' \
+              | tr -s '[:space:]' ' ' \
+              | fmt -w 80 \
+              | sed 's/^ //;s/ $//' \
+              > KSpage_current.txt
+          fi
+
+      - name: Compare and Heartbeat
+        id: check
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "Last checked at: $(date -u)" > KSheartbeat.txt
+          
+          if [ -f KSpage_previous.txt ]; then
+            prev_hash=$(sha256sum KSpage_previous.txt | cut -d' ' -f1)
+          else
+            prev_hash="none"
+          fi
+
+          current_hash=$(sha256sum KSpage_current.txt | cut -d' ' -f1)
+
+          if [ "${current_hash}" != "${prev_hash}" ]; then
+            echo "CHANGED=true" >> "$GITHUB_ENV"
+            mv KSpage_current.txt KSpage_previous.txt
+          else
+            echo "CHANGED=false" >> "$GITHUB_ENV"
+          fi
+
+      - name: Commit and Push (Collision Protection)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          
+          git add KSheartbeat.txt
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            git add KSpage_current.txt || true
+            git commit -m "KS RHT: Fetch failed (Access Denied)"
+          else
+            if [ "${CHANGED}" = "true" ]; then
+              git add KSpage_previous.txt
+              git commit -m "ALARM: KS Content Change Detected"
+            else
+              git commit -m "KS RHT: No changes found"
+            fi
+          fi
+
+          # COLLISION PROTECTION: Sync with other state updates before pushing
+          git pull --rebase origin main
+          git push
