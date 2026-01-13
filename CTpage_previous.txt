@@ -6,18 +6,18 @@ Content](https://portal.ct.gov/dph/office-of-health-equity/primary-care--office/
 to
 Chat](https://portal.ct.gov/dph/office-of-health-equity/primary-care--office/rural-health-transformation-program#chatContent)
 [Report an accessibility issue.](javascript:void(0);) ![Image
-4](https://portal.ct.gov/dph/-/media/ctgov/feature/content/alert/alert_icon_white.svg?rev=f34ae5d29cf245ec9e3ec885b88da1f8)
+1](https://portal.ct.gov/dph/-/media/ctgov/feature/content/alert/alert_icon_white.svg?rev=f34ae5d29cf245ec9e3ec885b88da1f8)
 **NOTE**: CT.gov websites will be undergoing maintenance
 on Monday January 12th at 11pm EST. We appreciate your
-patience during this time. [![Image 5: Connecticut’s Official State Website
+patience during this time. [![Image 2: Connecticut’s Official State Website
 Logo](https://portal.ct.gov/dph/-/media/ctgov/feature/global/header/ctgov-logo-without-business-name.svg?rev=f0cc4286c5124e958cc22ceec4f96652&la=en&hash=D51254D420196648DC38903D8DBA6522)State
 of Connecticut](https://portal.ct.gov/)
 [×](javascript:void(0) "Clear search box") ![Image
-6](https://portal.ct.gov/dph/-/media/ctgov/feature/global/header/search-outline-white.svg?rev=54de92f8396d4345b13a0c401444cf84&la=en&hash=B035B64F2C93F8C451D62A644C355298)
-Search ![Image 7: Close
+3](https://portal.ct.gov/dph/-/media/ctgov/feature/global/header/search-outline-white.svg?rev=54de92f8396d4345b13a0c401444cf84&la=en&hash=B035B64F2C93F8C451D62A644C355298)
+Search ![Image 4: Close
 Search](https://portal.ct.gov/dph/-/media/ctgov/feature/search/search/close-outline-white.svg?rev=cc30841e197f4423b2bb31dc50adb200&la=en&hash=018E743F66A9B90967735F3192EE6310)
 ![Image
-8](https://portal.ct.gov/-/media/CtGov/Feature/Global/Header/globe-outline-white.svg)
+5](https://portal.ct.gov/-/media/CtGov/Feature/Global/Header/globe-outline-white.svg)
 Language * [Arabic](javascript:void(0);) *
 [Chinese (Simplified)](javascript:void(0);) * [Chinese
 (Traditional)](javascript:void(0);) * [English](javascript:void(0);)
@@ -28,19 +28,17 @@ Language * [Arabic](javascript:void(0);) *
 * [Portuguese (Brazil)](javascript:void(0);) *
 [Russian](javascript:void(0);) * [Spanish](javascript:void(0);) *
 [Filipino](javascript:void(0);) * [Ukrainian](javascript:void(0);)
-* [Vietnamese](javascript:void(0);) Powered by [![Image 9: Google
-Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
-Department of Public Health ![Image 10: C
+* [Vietnamese](javascript:void(0);) Department of Public Health ![Image 6: C
 Logo](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/home-hero-banner/c-logo.svg?rev=422c9096c39840ddb79716b21793b61f&la=en&hash=7CAEA55BFA95D197729806A1E9A67097)
-Department of Public Health * [![Image 11: external
+Department of Public Health * [![Image 7: Facebook external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/fb.svg?rev=54744f26dcb64eb58126547a380e8211)](https://www.facebook.com/CTPublicHealth)
-* [![Image 12: external
+* [![Image 8: Instagram external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/instagram.svg?rev=9233cbf17bab430684985273b3a58ecb)](https://www.instagram.com/ctdph/)
-* [![Image 13: external
+* [![Image 9: X external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/twitter.svg?rev=2494326773034716b8bd46f39a1e5a9a)](https://www.facebook.com/CTPublicHealth)
-* [![Image 14: external
+* [![Image 10: YouTube external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/youtube.svg?rev=0f7e26ac0f0a448a8810d70ec19d6384)](https://www.youtube.com/user/ctdph)
-* [![Image 15: external
+* [![Image 11: Linkedin external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/linkedin.svg?rev=bb130d352fa349da9c37dc22f3898479)](https://www.linkedin.com/company/connecticut-department-of-public-health/)
 Department of Public Health ☰Department of Public Health Main
 Menu × Close ⮐ Back ⮐ Back * [Home](https://portal.ct.gov/dph) *
@@ -68,8 +66,8 @@ Prevention](https://portal.ct.gov/dph/programs/disease-and-prevention)
 Environment](https://portal.ct.gov/dph/programs/health-and-the-environment) *
 [Providers](https://portal.ct.gov/dph/providers) * [Emergency Medical Services
 (EMS)](https://portal.ct.gov/dph/providers/emergency-medical-services) *
-[Resources & Records](https://portal.ct.gov/dph/resources-and-records)
-* [Data, statistics, and
+[Resources & Records](https://portal.ct.gov/dph/resources-and-records) *
+[Data, statistics, and
 research](https://portal.ct.gov/dph/resources-and-records/data-research) *
 [Licensing](https://portal.ct.gov/dph/resources-and-records/licensing) * [Vital
 Records](https://portal.ct.gov/dph/resources-and-records/vital-records)
@@ -92,17 +90,17 @@ the new [Department of Public Health website](https://portal.ct.gov/dph)
 Not looking for the Department of Public Health? * Go to the [CT.gov
 homepage](https://portal.ct.gov/) * Find the appropriate [Department or
 Agency](https://portal.ct.gov/government/departments-and-agencies/departments-and-agencies)
-Department of Public Health [![Image 16: external
+Department of Public Health [![Image 12: Facebook external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/fb.svg?rev=54744f26dcb64eb58126547a380e8211)](https://www.facebook.com/CTPublicHealth)[![Image
-17: external
+13: Instagram external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/instagram.svg?rev=9233cbf17bab430684985273b3a58ecb)](https://www.instagram.com/ctdph/)[![Image
-18: external
+14: X external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/twitter.svg?rev=2494326773034716b8bd46f39a1e5a9a)](https://www.facebook.com/CTPublicHealth)[![Image
-19: external
+15: YouTube external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/youtube.svg?rev=0f7e26ac0f0a448a8810d70ec19d6384)](https://www.youtube.com/user/ctdph)[![Image
-20: external
+16: Linkedin external
 link](https://portal.ct.gov/dph/-/media/ctgov/project/agencyscaffolding/footer/linkedin.svg?rev=bb130d352fa349da9c37dc22f3898479)](https://www.linkedin.com/company/connecticut-department-of-public-health/)
-410 Capitol Avenue Hartford, CT 06134 [![Image 21: ct.gov logo with flag
+410 Capitol Avenue Hartford, CT 06134 [![Image 17: ct.gov logo with flag
 embelishment](https://portal.ct.gov/dph/-/media/ctgov/feature/global/footer/ctgov-logo.svg?rev=f58db612552644c1b309e7dff3e11828&la=en&hash=4944FE4B7E33424985BF070A383216C4)](https://portal.ct.gov/)
 * [About CT](https://portal.ct.gov/About)
 * [Policies](https://portal.ct.gov/Policies/State-Privacy-Policy) *
@@ -111,13 +109,10 @@ embelishment](https://portal.ct.gov/dph/-/media/ctgov/feature/global/footer/ctgo
 [Directories](https://portal.ct.gov/Directories) * [Social
 Media](https://portal.ct.gov/social_media) * [For State
 Employees](https://portal.ct.gov/government/for-state-employees)
-![Image 22: US Flag Status
+![Image 18: US Flag Status
 icon](https://portal.ct.gov/dph/-/media/ctgov/feature/global/footer/us_flag_color.jpg?rev=56b36237a9d84ebb8e4fb4b93856cb5e&la=en&h=27&w=48&hash=A28A568BB892B0E3282ECB0265699501)
 [United States **Mast:**(Full)](https://portal.ct.gov/governor/flag-status)
-![Image 23: CT Flag Status
+![Image 19: CT Flag Status
 icon](https://portal.ct.gov/dph/-/media/ctgov/feature/global/footer/ct_flag_color.jpg?rev=d397ede0229f440d86cbdc42c8cf207b&la=en&h=27&w=48&hash=072724BD0A541C6D61317011A6328007)
-[Connecticut **Mast:**(Full)](https://portal.ct.gov/governor/flag-status) ©
-2026 CT.gov - Connecticut's Official State Website [Top](javascript:void(0);)
-![Image 24](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text Rate this translation Your feedback will be used to help
-improve Google Translate
+[Connecticut **Mast:**(Full)](https://portal.ct.gov/governor/flag-status)
+© 2026 CT.gov - Connecticut's Official State Website
