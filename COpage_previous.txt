@@ -19,8 +19,12 @@ Transformation Program ============================================
 [CMS Announces $50 Billion In Awards to Strengthen Rural Health In All 50
 States!](https://www.cms.gov/newsroom/press-releases/cms-announces-50-billion-awards-strengthen-rural-health-all-50-states)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The Rural Health Transformation Program (RHTP)
-was authorized by [H.R. 1 Section 71401 of Public Law
+### The Department of Health Care Policy & Financing is happy to
+announce that Colorado will receive just over $200 million in RHTP grant
+funds for the first year of the 5-year program. Please see HCPF’s
+[press release](https://hcpf.colorado.gov/newsroom#newsreleases)
+for more information. The Rural Health Transformation Program
+(RHTP) was authorized by [H.R. 1 Section 71401 of Public Law
 119-21](https://www.congress.gov/bill/119th-congress/house-bill/1), to
 provide grants totaling $50 billion in federal funds from Federal Fiscal Year
 (FFY) 2026 through FFY 2030 ($10 billion per year) to States (territories
@@ -63,102 +67,80 @@ recruitment and retention of healthcare providers in rural communities. *
 **Innovative Care** - Spark the growth of innovative care models to improve
 health outcomes, coordinate care, and promote flexible care arrangements. *
 **Tech Innovation** - Foster use of innovative technologies that promote
-efficient care delivery, data security, and access to digital health tools
-by rural facilities, providers, and patients. Rural Health Transformation
-Program Funds Structure ---------------------------------------------------
-The federal funds include $50 billion that will be allocated to approved States
-over five fiscal years and will be split into $10 billion allocations to be
-distributed annually from Federal Fiscal Year (FFY) 2026 to FFY 2030. All
-50 states are eligible to apply. * Each year, 50% of the $10 billion will
-be distributed evenly to all states with an approved application. * The
-remaining 50% of the annual funding amount will be allocated by CMS based
-on a variety of factors including rural population, the proportion of rural
-health facilities in the State, the situation of certain hospitals in the
-State, and other factors to be specified by CMS and the Notice of Funding
-Opportunity (NOFO), with fund distribution available for no less than 25
-percent of approved states. * States are not allowed to use this funding as
-a source of state match for additional federal dollars. Timeline -------- *
-December 31, 2025 award announcement. * January 2026 - funds distributed to
-approved states. * January 2026 - states meet with assigned CMS team member. *
-Enter into a cooperative agreement: details are unknown. * Negotiate funding
-distribution: fund amount is unknown. * Negotiate program implementation
-timeline. * Any decisions of funding distribution and timing cannot be made
-until Colorado meets with CMS and the cooperative agreement is final. *
-Funding for Year 1: December 31, 2025 - September 30, 2027. Application
-Information Included: --------------------------------- * Rural health
-transformation plan with goals delineated in H.R. 1. * Strategies to manage
-long-term financial solvency for rural hospitals. * Identification of specific
-causes driving the accelerating rate of standalone rural hospitals becoming
-at risk of closure, conversion, or service reduction. * A plan to use the
-funds to carry out three or more activities as outlined in the Bill. *
-CMS will provide updates on the application as needed and the FAQs on their
-website will be updated weekly. Next Steps: ----------- * Develop the grantee
-Intent to Apply and Request for Application (RFA) materials. * Continue to
-assemble the RHTP Advisory Committee. * The RHTP Advisory Committee will make
-recommendations for the implementation of the approved grant activities from
-CMS. Allowed Providers ----------------- * [Eligible Rural Health Providers and
+efficient care delivery, data security, and access to digital health tools by
+rural facilities, providers, and patients. Rural Health Transformation Program
+Funds Structure --------------------------------------------------- The federal
+funds include $50 billion that will be allocated to approved States over five
+fiscal years and will be split into $10 billion allocations to be distributed
+annually from Federal Fiscal Year (FFY) 2026 to FFY 2030. All 50 states are
+eligible to apply. * Each year, 50% of the $10 billion will be distributed
+evenly to all states with an approved application. * The remaining 50% of the
+annual funding amount will be allocated by CMS based on a variety of factors
+including rural population, the proportion of rural health facilities in the
+State, the situation of certain hospitals in the State, and other factors to
+be specified by CMS and the Notice of Funding Opportunity (NOFO), with fund
+distribution available for no less than 25 percent of approved states. *
+States are not allowed to use this funding as a source of state match for
+additional federal dollars. Timeline -------- * December 31, 2025 - Award
+announcement. * January 2026 - Notice of Award received from CMS. * January
+2026 - States work with CMS to enter into a cooperative agreement: details
+are unknown. * Any decisions of funding distribution and timing cannot be made
+until Colorado meets with CMS and the cooperative agreement is final. * Funding
+for Year 1: December 31, 2025 - September 30, 2027. Application Information
+Included: --------------------------------- * Rural health transformation plan
+with goals delineated in H.R. 1. * Strategies to manage long-term financial
+solvency for rural hospitals. * Identification of specific causes driving the
+accelerating rate of standalone rural hospitals becoming at risk of closure,
+conversion, or service reduction. * A plan to use the funds to carry out
+three or more activities as outlined in the Bill. * CMS will provide updates
+on the application as needed and the FAQs on their website will be updated
+weekly. Next Steps: ----------- * Develop the grantee Intent to Apply and
+Request for Application (RFA) materials. * Continue to assemble the RHTP
+Advisory Committee. * The RHTP Advisory Committee will make recommendations
+for the implementation of the approved grant activities from CMS. Proposed
+Committee(s) Information: ---------------------------------- * The membership
+of the Committees is currently being determined. * The stakeholder comment
+period for the proposed committee governance structure closed at 8:00 p.m. on
+January 7th. Twenty-six responses were received, and the following key themes
+emerged: * Committee Size and Effectiveness * Balance of Representation
+(Rural vs. State / Non-Rural) * Eligibility-Based Membership and Insurance
+Participation * Clarity of Governance Structure and Decision Authority * Gaps
+in Subject-Matter Expertise * Community Health Center (CHC) Representation *
+Consumer Representation and Geographic Diversity * Tribal Representation
+and Sovereignty * Support for Certain Existing Elements Stakeholders
+consistently frame their recommendations as intended to strengthen, not
+complicate, the Committees’ ability to fulfill its charge. * [RHTP Committees
+Memo](https://drive.google.com/file/d/1w-SWJCX1sVWByFDS5v2lTkslu7uTcotx/view?usp=drive_link)
+Meeting Schedule and Handouts ----------------------------- The meeting
+schedule for the Committee will be posted when it is approved. Allowed
+Providers ----------------- * [Eligible Rural Health Providers and
 Partners](https://hcpf.colorado.gov/sites/hcpf/files/Eligible%20Rural%20Health%20Providers%20and%20Partners_121015%20%28for%20public%29.pdf)
 - Updated December 2025 * [Colorado's Rural and Frontier
 Counties](https://hcpf.colorado.gov/sites/hcpf/files/52%20Rural%20%26%20Frontier%20Counties%20%28for%20publication%29.pdf)
-Colorado's Permissible Uses --------------------------- * **Prevention and
-Chronic Disease**: Promoting evidence-based, measurable interventions to
-improve prevention and chronic disease management. * Includes Consumer
-Tech Solutions: Providing technical assistance, software, and hardware
-for significant information technology advances designed to improve
-efficiency, enhance cybersecurity capability development, and improve
-patient health outcomes. * **Fostering Collaboration**: Initiating,
-fostering, and strengthening local and regional strategic partnerships
-between rural facilities and other health care providers to promote
-quality improvement, improve financial stability of rural facilities,
-and expand access to care. * Includes Developing the Workforce: Recruiting
-and retaining clinical workforce talent to rural areas, with commitments
-to serve rural communities for a minimum of 5 years. * **Appropriate Care
-Availability**: Assisting rural communities to right size their health care
-delivery systems by identifying needed preventative, ambulatory, pre-hospital,
-emergency, acute inpatient care, outpatient care, and post-acute care service
-lines. * **Innovative Models of Care**: Developing projects that support
-innovative models of care that include value-based care arrangements and
-alternative payment models, as appropriate. External Stakeholder Meetings
------------------------------ * [9/23/2025 Stakeholder Meeting Slide
-Deck](https://drive.google.com/file/d/12tiJrJEkoT8d147NjYXONe7Q3-MXCUGz/view)
-* [9/23/2025 Recording of Stakeholder
-Meeting](https://us02web.zoom.us/rec/play/EpihMVxAb3txweHHI0K03CRBuD0KZAIrJJIXPH59G1OwEUD2Ei6jbfCIe3uueSk1gJSYGY_lQwe8mbbn.jpc7WkpXE5JrNw7q?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FnRJVUriOIDwiOSF93exKkrhj8abXg67omkqWQIL68f6WdaSKvla77mxTVfGILJQ.jcVvfFK40ym4Y6T_)
-* [10/2/2025 Stakeholder Meeting Slide
-Deck](https://drive.google.com/file/d/1F44NjDwhb42iyTe8QQriJUdxx-Gq4dYa/view?usp=sharing)
-* [10/2/2025 Morning
-Recording](https://drive.google.com/file/d/1knATmsZFT6PpkIWZO4Yzvt4fWGrJWEDd/view)
-* [10/2/2025 Afternoon
-Recording](https://drive.google.com/file/d/1JEklGmT9QVsDaSWAGZ9UCKLrXvstWb2y/view?usp=sharing)
-* 12/2/25 Stakeholder Webinar * There were 1,289 attendees. * [Webinar Slide
-Deck](https://hcpf.colorado.gov/sites/hcpf/files/Rural%20Health%20Transformation%20Webinar%2012.2.25_0.pdf)
-* Webinar Recordings * [English](https://www.youtube.com/watch?v=BMGzn76-8xY)
-* [ASL](https://www.youtube.com/watch?v=CTj9b4d7Vls) *
-[Spanish](https://www.youtube.com/watch?v=NsyR9Lpxuvo) Committee
-Information --------------------- The membership of the Advisory
-Committee is currently being determined. In the meantime, here is a
-[link](https://hcpf.colorado.gov/sites/hcpf/files/RHTP%20Advisory%20Committee%20Memo%20%281%29.pdf)
-to our draft governance structure. We are requesting any feedback to the
-governance structure by **January 7, 2026.** Feedback can be provided to the
-email address [HCPF_rhtp@state.co.us](mailto:HCPF_rhtp@state.co.us). Please
-include “Governance Structure” in the title of your email. ### 2025 Meeting
-Schedule and Handouts The meeting schedule for the board will be posted when
-it is approved. Additional Resources -------------------- * [Understanding the
-Impact of Federal Changes to Medicaid](https://hcpf.colorado.gov/impact) *
-[H.R.1 Bill](https://www.congress.gov/bill/119th-congress/house-bill/1) *
-[RHTP Press Release](https://hcpf.colorado.gov/newsroom#newsreleases)
-### Newsletters * [January 12, 2026](https://conta.cc/49s8VD8)
-* [January 5, 2026](https://conta.cc/4phdAxy) *
-[December 24, 2025](https://conta.cc/44FVFcx) * [December 22,
-2025](https://conta.cc/4p5V3Er) * [December 15, 2025](https://conta.cc/44JqHAr)
-* [December 8, 2025](https://conta.cc/44GxLxr) * [December 1,
-2025](https://conta.cc/3KkvroR) * [November 24, 2025](https://conta.cc/4idHOzN)
-* [November 17, 2025](https://conta.cc/4i9lxTK) * [November 5,
-2025](https://conta.cc/4ohlZRW) * [October 27, 2025](https://conta.cc/4qkJDhP)
-* [October 20, 2025](https://conta.cc/3Jhr2T9) * [October 13,
-2025](https://conta.cc/4he2188) * [October 6, 2025](https://conta.cc/42Uh9kW) *
-[September 29, 2025](https://conta.cc/4gJ9ADv) * [September
-22, 2025](https://conta.cc/46yj6od) * [September 15,
-2025](https://conta.cc/3IphogK) Contact Us ---------- [Sign up for our
+Colorado's Permissible Uses --------------------------- * **Prevention
+and Chronic Disease**: Promoting evidence-based, measurable interventions
+to improve prevention and chronic disease management. * Includes Consumer
+Tech Solutions: Providing technical assistance, software, and hardware for
+significant information technology advances designed to improve efficiency,
+enhance cybersecurity capability development, and improve patient
+health outcomes. * **Fostering Collaboration**: Initiating, fostering,
+and strengthening local and regional strategic partnerships between rural
+facilities and other health care providers to promote quality improvement,
+improve financial stability of rural facilities, and expand access to care. *
+Includes Developing the Workforce: Recruiting and retaining clinical workforce
+talent to rural areas, with commitments to serve rural communities for a
+minimum of 5 years. * **Appropriate Care Availability**: Assisting rural
+communities to right size their health care delivery systems by identifying
+needed preventative, ambulatory, pre-hospital, emergency, acute inpatient
+care, outpatient care, and post-acute care service lines. * **Innovative
+Models of Care**: Developing projects that support innovative models of care
+that include value-based care arrangements and alternative payment models,
+as appropriate. Additional Resources -------------------- * [Understanding
+the Impact of Federal Changes to Medicaid](https://hcpf.colorado.gov/impact)
+* [H.R.1 Bill](https://www.congress.gov/bill/119th-congress/house-bill/1) *
+[RHTP Press Release](https://hcpf.colorado.gov/newsroom#newsreleases) ###
+Newsletters * [January 12, 2026](https://conta.cc/49s8VD8) * [January 5,
+2026](https://conta.cc/4phdAxy) Contact Us ---------- [Sign up for our
 newsletter here!](https://lp.constantcontactpages.com/sl/KXa7PZ5) **Where to
 Direct Questions** To ensure a timely response to your RHTP correspondence,
 email: [hcpf_RHTP@state.co.us](mailto:hcpf_rhtp@state.co.us)
