@@ -4,11 +4,13 @@ https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-pr
 Published Time: 2025-08-26T16:06:10-04:00 Markdown Content: FSSA:
 Indiana Rural Health Transformation Program Grant Application Working
 Group =============== Press Option+1 for screen-reader mode, Option+0 to
-cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting |
-New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
-[An official website of the Indiana State Government](https://www.in.gov/)
-[Accessibility Settings](javascript:void(0);) Language Translation
-[Governor Mike Braun](https://www.in.gov/gov) * [![Image 1: FSSA
+cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New
+window](https://accessibe.com/blog/knowledgebase/screen-reader-guide) [An
+official website of the Indiana State Government](https://www.in.gov/)
+[Accessibility Settings](javascript:void(0);)
+Language Translation Powered by [![Image 1: Google
+Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
+[Governor Mike Braun](https://www.in.gov/gov) * [![Image 2: FSSA
 logo](https://www.in.gov/fssa/images/FSSA_1C_RGB.png)](https://www.in.gov/fssa)
 * [Family and Social Services Administration](https://www.in.gov/fssa) * *
 Start voice input * **Frequent Searches** * >Submit text search MENU [FSSA
@@ -111,10 +113,9 @@ problem?](https://faqs.in.gov/hc/en-us/articles/360042092312-Where-can-I-get-hel
 * [More FAQs
 >](https://ingov.zendesk.com/hc/en-us/sections/115000627786-Family-Social-Services-Administration)
 Close Menu Sidebar ======= Side Navigation --------------- [FSSA
-Home](https://www.in.gov/fssa) ------------------------------------ *
-[About FSSA - Click to Expand](https://www.in.gov/fssa/about-fssa)Toggle
-menu * [FSSA Mission and
-Vision](https://www.in.gov/fssa/about-fssa/fssa-mission-vision) *
+Home](https://www.in.gov/fssa) ------------------------------------ * [About
+FSSA - Click to Expand](https://www.in.gov/fssa/about-fssa)Toggle menu * [FSSA
+Mission and Vision](https://www.in.gov/fssa/about-fssa/fssa-mission-vision) *
 [History/Overview](https://www.in.gov/fssa/about-fssa/historyoverview) * [About
 the Secretary](https://www.in.gov/fssa/about-fssa/about-the-secretary)
 * [FSSA Organizational
@@ -270,7 +271,7 @@ at 344 N Main St, Sullivan, IN 47882 **Audience:** Hospital CEOs and
 leaders from surrounding rural communities, Rural Health Centers, FQHCs,
 EMS leadership, and others engaged in rural healthcare | Note: Schedule is
 subject to change as details of applications and deadlines are released
-by CMS. ![Image 2: FSSA Logo](https://www.in.gov/fssa/images/FSSA_W.png)
+by CMS. ![Image 3: FSSA Logo](https://www.in.gov/fssa/images/FSSA_W.png)
 Family and Social Services Administration Social Media ------------ *
 [YouTube](https://www.youtube.com/channel/UCVVvNG3e1fW4gf8ZZYoZNVg "YouTube") *
 [Email](https://cloud.subscription.in.gov/signup?depid=546006736 "Email") *
@@ -295,5 +296,7 @@ Resources](https://www.in.gov/core/info_employees.html) State Information
 [Indiana Administrative Code](http://www.in.gov/legislative/iac/)
 * [Awards](https://www.in.gov/core/awards.html) * [Accessibility
 Settings](javascript:void(); "Open accessibility tools") * [Report
-Accessibility Issues](https://www.in.gov/core/accessibility-feedback.html)
-* Speak
+Accessibility Issues](https://www.in.gov/core/accessibility-feedback.html) *
+![Image 4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text Rate this translation Your feedback will be used to help
+improve Google Translate
