@@ -1,7 +1,8 @@
-Title: Rural Health Transformation Program | Department of Health and Human
-Services URL Source: https://www.maine.gov/dhhs/ruralhealth Markdown Content:
-Rural Health Transformation Program -----------------------------------
-Maine Awarded $190 million for Year 1 -------------------------------------
+Title: Rural Health Transformation Program | Department of Health
+and Human Services URL Source: https://www.maine.gov/dhhs/ruralhealth
+Published Time: Tue, 13 Jan 2026 20:10:28 GMT Markdown Content: Rural
+Health Transformation Program ----------------------------------- Maine
+Awarded $190 million for Year 1 -------------------------------------
 On December 29, 2025 the State of Maine received [official notification
 (PDF)](https://www.maine.gov/dhhs/sites/maine.gov.dhhs/files/inline-files/NOA_Maines%20Rural%20Health%20Transformation%20Plan.pdf)from
 the U.S. Centers for Medicare & Medicaid Services (CMS) of a $190 million
@@ -69,13 +70,13 @@ and technology-driven solutions that help rural hospitals and other rural
 health care providers provide high-quality health care services as close
 to a person's home as is possible * Outline strategies to manage long-term
 financial solvency and operating models of rural hospitals in the state *
-Identify specific causes that drive the increased rate of stand-alone rural
-hospitals becoming at risk of closure, conversion, or service reduction ###
-States must also commit to using RHTP funds to support three or more of
-the following 10 allowable activities: 1. Promoting evidence-based,
-measurable interventions to improve prevention and chronic disease
-management. 2. Providing payments to health care providers for the
-provision of health care items or services, as specified by the CMS
+Identify specific causes that drive the increased rate of stand-alone
+rural hospitals becoming at risk of closure, conversion, or service
+reduction ### States must also commit to using RHTP funds to support
+three or more of the following 10 allowable activities: 1. Promoting
+evidence-based, measurable interventions to improve prevention and chronic
+disease management. 2. Providing payments to health care providers for
+the provision of health care items or services, as specified by the CMS
 Administrator. 3. Promoting consumer-facing, technology-driven solutions
 for the prevention and management of chronic diseases. 4. Providing
 training and technical assistance for the development and adoption of
