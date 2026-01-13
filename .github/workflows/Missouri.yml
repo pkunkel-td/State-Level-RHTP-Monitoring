@@ -1,4 +1,4 @@
-name: Monitor IN Rural Health Page
+name: Monitor MO Rural Health Page
 
 on:
   schedule:
@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      URL: "https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/"
+      URL: "https://health.mo.gov/living/families/ruralhealth/transformation-program.php"
       UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
@@ -49,7 +49,7 @@ jobs:
           done
 
           if [ "${FETCH_OK}" = "false" ]; then
-            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > INpage_current.txt
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > MOpage_current.txt
             echo "FETCH_OK=false" >> "$GITHUB_ENV"
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
@@ -64,7 +64,7 @@ jobs:
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
-              > INpage_current.txt
+              > MOpage_current.txt
           fi
 
       - name: Compare and Heartbeat
@@ -72,19 +72,19 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          echo "Last checked at: $(date -u)" > INheartbeat.txt
+          echo "Last checked at: $(date -u)" > MOheartbeat.txt
           
-          if [ -f INpage_previous.txt ]; then
-            prev_hash=$(sha256sum INpage_previous.txt | cut -d' ' -f1)
+          if [ -f MOpage_previous.txt ]; then
+            prev_hash=$(sha256sum MOpage_previous.txt | cut -d' ' -f1)
           else
             prev_hash="none"
           fi
 
-          current_hash=$(sha256sum INpage_current.txt | cut -d' ' -f1)
+          current_hash=$(sha256sum MOpage_current.txt | cut -d' ' -f1)
 
           if [ "${current_hash}" != "${prev_hash}" ]; then
             echo "CHANGED=true" >> "$GITHUB_ENV"
-            mv INpage_current.txt INpage_previous.txt
+            mv MOpage_current.txt MOpage_previous.txt
           else
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
@@ -96,17 +96,17 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           
-          git add INheartbeat.txt
+          git add MOheartbeat.txt
 
           if [ "${FETCH_OK}" = "false" ]; then
-            git add INpage_current.txt || true
-            git commit -m "IN RHT: Fetch failed (Access Denied)"
+            git add MOpage_current.txt || true
+            git commit -m "MO RHT: Fetch failed (Access Denied)"
           else
             if [ "${CHANGED}" = "true" ]; then
-              git add INpage_previous.txt
-              git commit -m "ALARM: IN Content Change Detected"
+              git add MOpage_previous.txt
+              git commit -m "ALARM: MO Content Change Detected"
             else
-              git commit -m "IN RHT: No changes found"
+              git commit -m "MO RHT: No changes found"
             fi
           fi
 
