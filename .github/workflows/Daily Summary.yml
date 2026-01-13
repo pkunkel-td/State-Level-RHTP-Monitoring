@@ -1,0 +1,68 @@
+name: Daily ALARM Commit Summary
+
+on:
+  schedule:
+    - cron: "10 0 * * *"   # Daily at 00:10 UTC
+  workflow_dispatch:
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Collect ALARM commits from last 24 hours
+        id: collect
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const since = new Date();
+            since.setUTCDate(since.getUTCDate() - 1);
+            since.setUTCHours(0,0,0,0);
+
+            const until = new Date();
+            until.setUTCHours(23,59,59,999);
+
+            const commits = await github.paginate(
+              github.rest.repos.listCommits,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                since: since.toISOString(),
+                until: until.toISOString()
+              }
+            );
+
+            const alarms = commits.filter(c =>
+              c.commit.message.includes("ALARM")
+            );
+
+            if (alarms.length === 0) {
+              core.setOutput("found", "false");
+              return;
+            }
+
+            const lines = alarms.map(c => {
+              const msg = c.commit.message.split('\n')[0];
+              return `- ${msg} (${c.sha.substring(0,7)})`;
+            });
+
+            core.setOutput("found", "true");
+            core.setOutput("summary", lines.join("\n"));
+            core.setOutput("count", alarms.length);
+
+      - name: Stop if no ALARM commits
+        if: steps.collect.outputs.found == 'false'
+        run: echo "No ALARM commits found in last 24 hours."
+
+      - name: Create daily summary file
+        if: steps.collect.outputs.found == 'true'
+        run: |
+          DATE=$(date -u +%F)
