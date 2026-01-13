@@ -294,10 +294,9 @@ Resources](https://www.in.gov/core/info_employees.html) State Information
 * [Email Updates](https://www.in.gov/core/gov-delivery.html) *
 [Indiana Code](https://iga.in.gov/laws/current/ic/titles/1) *
 [Indiana Administrative Code](http://www.in.gov/legislative/iac/)
-* [Awards](https://www.in.gov/core/awards.html)
-* [Accessibility Settings](javascript:void();
-"Open accessibility tools") * [Report Accessibility
-Issues](https://www.in.gov/core/accessibility-feedback.html) * Speak ![Image
-4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+* [Awards](https://www.in.gov/core/awards.html) * [Accessibility
+Settings](javascript:void(); "Open accessibility tools") * [Report
+Accessibility Issues](https://www.in.gov/core/accessibility-feedback.html) *
+![Image 4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 Original text Rate this translation Your feedback will be used to help
 improve Google Translate
