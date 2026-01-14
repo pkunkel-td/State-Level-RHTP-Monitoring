@@ -1,0 +1,120 @@
+name: Monitor VT Rural Health Page
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Runs hourly
+  workflow_dispatch:      # Manual trigger for testing
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      URL: "https://healthcarereform.vermont.gov/hr1rural-health-transformation-fund"
+      UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch and Wrap Page
+        id: fetch
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          MIRRORS=(
+            "https://r.jina.ai/${URL}"
+            "https://www.textise.org/showtext.aspx?strURL=${URL}"
+          )
+
+          is_blocked() {
+            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission" "$1"
+          }
+
+          FETCH_OK=false
+          > raw.txt || true
+
+          for MIRROR in "${MIRRORS[@]}"; do
+            echo "Attempting mirror: ${MIRROR}"
+            if curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
+              if ! is_blocked raw.txt; then
+                FETCH_OK=true
+                break
+              fi
+            fi
+          done
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > VTpage_current.txt
+            echo "FETCH_OK=false" >> "$GITHUB_ENV"
+          else
+            echo "FETCH_OK=true" >> "$GITHUB_ENV"
+            
+            # REINFORCED DE-NOISING & ENHANCED NORMALIZATION:
+            # 1. Strip all HTML/Scripts/Styles
+            # 2. Targeted regex for Vermont dynamic timestamps (e.g. "January 14, 2026")
+            # 3. Filter out "Agency of Administration" sidebar and global state footer noise
+            # 4. Collapse all whitespace into single spaces (tr -s)
+            cat raw.txt \
+              | sed -E 's/<script[^>]*>.*<\/script>//gI' \
+              | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+              | sed 's/<[^>]*>//g' \
+              | sed -E 's/(Published|Updated|Last Modified|Page generated on|Session ID|Date): [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              | sed -E 's/[A-Z][a-z]{2,8} [0-9]{1,2}, 20[2-9][0-9]//g' \
+              | sed '/Textise/d' \
+              | grep -vE '^[[:space:]]*[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{2,4}[[:space:]]*$' \
+              | tr -s '[:space:]' ' ' \
+              | fmt -w 80 \
+              | sed 's/^ //;s/ $//' \
+              > VTpage_current.txt
+          fi
+
+      - name: Compare and Heartbeat
+        id: check
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo "Last checked at: $(date -u)" > VTheartbeat.txt
+          
+          if [ -f VTpage_previous.txt ]; then
+            prev_hash=$(sha256sum VTpage_previous.txt | cut -d' ' -f1)
+          else
+            prev_hash="none"
+          fi
+
+          current_hash=$(sha256sum VTpage_current.txt | cut -d' ' -f1)
+
+          if [ "${current_hash}" != "${prev_hash}" ]; then
+            echo "CHANGED=true" >> "$GITHUB_ENV"
+            mv VTpage_current.txt VTpage_previous.txt
+          else
+            echo "CHANGED=false" >> "$GITHUB_ENV"
+          fi
+
+      - name: Commit and Push (Collision Protection)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          
+          git add VTheartbeat.txt
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            git add VTpage_current.txt || true
+            git commit -m "VT RHT: Fetch failed (Access Denied)"
+          else
+            if [ "${CHANGED}" = "true" ]; then
+              git add VTpage_previous.txt
+              git commit -m "ALARM: VT Content Change Detected"
+            else
+              git commit -m "VT RHT: No changes found"
+            fi
+          fi
+
+          git pull --rebase origin main
+          git push
