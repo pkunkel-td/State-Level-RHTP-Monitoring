@@ -2,8 +2,8 @@ name: Monitor ME Rural Health Page
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Runs hourly
-  workflow_dispatch:      # Manual trigger for testing
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   monitor:
@@ -39,7 +39,6 @@ jobs:
           > raw.txt || true
 
           for MIRROR in "${MIRRORS[@]}"; do
-            echo "Attempting mirror: ${MIRROR}"
             if curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
               if ! is_blocked raw.txt; then
                 FETCH_OK=true
@@ -49,22 +48,24 @@ jobs:
           done
 
           if [ "${FETCH_OK}" = "false" ]; then
-            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > MEpage_current.txt
+            echo "FETCH_FAILED: Access Denied" > MEpage_current.txt
             echo "FETCH_OK=false" >> "$GITHUB_ENV"
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # DE-NOISING & ENHANCED NORMALIZATION:
+            # REINFORCED DE-NOISING:
             # 1. Strip all HTML/Scripts/Styles
-            # 2. Targeted regex for Maine.gov dynamic timestamps/footers
-            # 3. Collapse all whitespace into single spaces (tr -s)
-            # 4. Standardized line wrapping at 80 chars
+            # 2. Targeted regex for varied timestamp formats (e.g., "Jan 14, 2026", "01/14/26")
+            # 3. Filter out lines that look like standalone dates
+            # 4. Collapse all whitespace (tr -s)
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
-              | sed -E 's/(Published|Updated|Last Modified|Page generated on|Session ID): [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              | sed -E 's/(Published|Updated|Last Modified|Page generated on|Session ID|Date): [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              | sed -E 's/[A-Z][a-z]{2} [0-9]{1,2}, 20[2-9][0-9]//g' \
               | sed '/Textise/d' \
+              | grep -vE '^[[:space:]]*[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{2,4}[[:space:]]*$' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
@@ -93,27 +94,18 @@ jobs:
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
 
-      - name: Commit and Push (Collision Protection)
+      - name: Commit and Push
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          
           git add MEheartbeat.txt
-
-          if [ "${FETCH_OK}" = "false" ]; then
-            git add MEpage_current.txt || true
-            git commit -m "ME RHT: Fetch failed (Access Denied)"
+          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then
+            git add MEpage_previous.txt
+            git commit -m "ALARM: ME Content Change Detected"
           else
-            if [ "${CHANGED}" = "true" ]; then
-              git add MEpage_previous.txt
-              git commit -m "ALARM: ME Content Change Detected"
-            else
-              git commit -m "ME RHT: No changes found"
-            fi
+            git commit -m "ME RHT: No changes found"
           fi
-
-          # COLLISION PROTECTION: Sync with other state updates before pushing
           git pull --rebase origin main
           git push
