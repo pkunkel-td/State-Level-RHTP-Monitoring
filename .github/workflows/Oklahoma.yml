@@ -2,8 +2,8 @@ name: Monitor OK Rural Health Page
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Runs hourly
-  workflow_dispatch:      # Manual trigger for testing
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch:
 
 jobs:
   monitor:
@@ -25,97 +25,61 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-
-          MIRRORS=(
-            "https://r.jina.ai/${URL}"
-            "https://www.textise.org/showtext.aspx?strURL=${URL}"
-          )
-
-          is_blocked() {
-            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission" "$1"
-          }
-
+          # Using multiple mirrors to bypass potential bot-blocking
+          MIRRORS=("https://r.jina.ai/${URL}" "https://www.textise.org/showtext.aspx?strURL=${URL}")
           FETCH_OK=false
-          > raw.txt || true
-
           for MIRROR in "${MIRRORS[@]}"; do
-            echo "Attempting mirror: ${MIRROR}"
-            if curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
-              if ! is_blocked raw.txt; then
-                FETCH_OK=true
-                break
+            if curl -sL --fail --retry 3 -A "${UA}" "${MIRROR}" > raw.txt; then
+              if ! grep -qiE "Access Denied|403 Forbidden" raw.txt; then
+                FETCH_OK=true; break
               fi
             fi
           done
 
-          if [ "${FETCH_OK}" = "false" ]; then
-            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > OKpage_current.txt
-            echo "FETCH_OK=false" >> "$GITHUB_ENV"
-          else
+          if [ "${FETCH_OK}" = "true" ]; then
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # REINFORCED DE-NOISING & ENHANCED NORMALIZATION:
-            # 1. Strip all HTML/Scripts/Styles
-            # 2. Targeted regex for Oklahoma.gov dynamic timestamps (e.g., "December 29, 2025")
-            # 3. Filter out standalone dates and "Governor Kevin Stitt" newsroom sidebar noise
-            # 4. Collapse all whitespace into single spaces (tr -s)
+            # NORMALIZATION FOR OKLAHOMA.GOV:
+            # 1. Strips scripts and styles
+            # 2. Removes HTML tags
+            # 3. Strips specific Oklahoma.gov header/footer noise (Like "Published Time" or "Last Modified")
+            # 4. Collapses whitespace and wraps at 80 chars
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
-              | sed -E 's/(Published|Updated|Last Modified|Page generated on|Session ID|Date): [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
-              | sed -E 's/[A-Z][a-z]{2,8} [0-9]{1,2}, 20[2-9][0-9]//g' \
-              | sed '/Textise/d' \
-              | grep -vE '^[[:space:]]*[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{2,4}[[:space:]]*$' \
+              | sed -E 's/(Published Time|Last Modified|Updated): [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
               > OKpage_current.txt
+          else
+            echo "FETCH_OK=false" >> "$GITHUB_ENV"
           fi
 
       - name: Compare and Heartbeat
-        id: check
-        shell: bash
         run: |
-          set -euo pipefail
-          echo "Last checked at: $(date -u)" > OKheartbeat.txt
+          echo "Last checked: $(date -u)" > OKheartbeat.txt
+          [ -f OKpage_previous.txt ] && prev=$(sha256sum OKpage_previous.txt | cut -d' ' -f1) || prev="none"
+          curr=$(sha256sum OKpage_current.txt | cut -d' ' -f1)
           
-          if [ -f OKpage_previous.txt ]; then
-            prev_hash=$(sha256sum OKpage_previous.txt | cut -d' ' -f1)
-          else
-            prev_hash="none"
-          fi
-
-          current_hash=$(sha256sum OKpage_current.txt | cut -d' ' -f1)
-
-          if [ "${current_hash}" != "${prev_hash}" ]; then
+          if [ "$curr" != "$prev" ]; then 
             echo "CHANGED=true" >> "$GITHUB_ENV"
             mv OKpage_current.txt OKpage_previous.txt
-          else
+          else 
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
 
-      - name: Commit and Push (Collision Protection)
-        shell: bash
+      - name: Commit and Push
         run: |
-          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          
           git add OKheartbeat.txt
-
-          if [ "${FETCH_OK}" = "false" ]; then
-            git add OKpage_current.txt || true
-            git commit -m "OK RHT: Fetch failed (Access Denied)"
-          else
-            if [ "${CHANGED}" = "true" ]; then
-              git add OKpage_previous.txt
-              git commit -m "ALARM: OK Content Change Detected"
-            else
-              git commit -m "OK RHT: No changes found"
-            fi
+          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then 
+            git add OKpage_previous.txt 
+            git commit -m "ALARM: OK Rural Health Content Change"
+          else 
+            git commit -m "OK RHT: Heartbeat"
           fi
-
-          # Sync with other state updates before pushing
           git pull --rebase origin main
           git push
