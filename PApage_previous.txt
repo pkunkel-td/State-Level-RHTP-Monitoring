@@ -3,9 +3,9 @@ https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-
 Published Time: Wed, 14 Jan 2026 22:48:06 GMT Markdown Content: Rural
 Health Transformation Plan | Department of Human Services | Commonwealth of
 Pennsylvania =============== Opens in a new window Opens an external website
-Opens an external website in a new window We use cookies to ensure that
-we give you the best experience on our website. Learn more about cookie
-data in our [Privacy Policy](https://www.pa.gov/privacy-policy/)
+Opens an external website in a new window We use cookies to ensure that we give
+you the best experience on our website. Learn more about cookie data in our
+[Privacy Policy(opens in a new tab)](https://www.pa.gov/privacy-policy/)
 Accept All Deny Non-Essential [Skip to agency
 navigation](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#agencynav)
 [Skip to main
@@ -15,18 +15,59 @@ Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/bannerimage.
 Official website Official website of the
 Commonwealth of Pennsylvania [![Image 2: Commonwealth of Pennsylvania
 Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg)](https://www.pa.gov/)
-Translate * [Services](https://www.pa.gov/services) *
-[Agency Directory](https://www.pa.gov/agencies) * Your
-Government * [The Governor](https://www.pa.gov/governor)
-* [Lt. Governor](https://www.pa.gov/ltgovernor) *
-[Legislation](https://www.palegis.us/) * [Courts](https://www.pacourts.us/)
-* [State House](https://www.palegis.us/house) * [State
-Senate](https://www.palegis.us/senate) * [Attorney
-General](https://www.attorneygeneral.gov/) * [Auditor
-General](https://www.paauditor.gov/) * [Treasurer](https://www.patreasury.gov/)
-* [Visit PA](https://visitpa.com/) * [News](https://pacast.com/) The
-.gov means it's official. ----------------------------- Local, state,
-and federal government websites often end in .gov. Commonwealth of
+Translate *
+[Arabic](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Bengali](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+* [Chinese
+(Simplified)](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+* [Chinese
+(Traditional)](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[English](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[French](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[German](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Gujarati](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+* [Haitian
+Creole](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Italian](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Khmer](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Korean](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Nepali](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Polish](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+* [Portuguese
+(Brazil)](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Russian](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Spanish](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+*
+[Vietnamese](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#)
+Powered by [![Image 3: Google
+Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate(opens
+in a new tab)](https://translate.google.com/) *
+[Services](https://www.pa.gov/services) * [Agency
+Directory](https://www.pa.gov/agencies) * Your
+Government * [The Governor](https://www.pa.gov/governor) *
+[Lt. Governor](https://www.pa.gov/ltgovernor) * [Legislation
+(opens in a new tab)](https://www.palegis.us/) * [Courts (opens in
+a new tab)](https://www.pacourts.us/) * [State House (opens in a
+new tab)](https://www.palegis.us/house) * [State Senate (opens in a
+new tab)](https://www.palegis.us/senate) * [Attorney General (opens
+in a new tab)](https://www.attorneygeneral.gov/) * [Auditor General
+(opens in a new tab)](https://www.paauditor.gov/) * [Treasurer (opens
+in a new tab)](https://www.patreasury.gov/) * [Visit PA(opens in a new
+tab)](https://visitpa.com/) * [News(opens in a new tab)](https://pacast.com/)
+The .gov means it's official. ----------------------------- Local,
+state, and federal government websites often end in .gov. Commonwealth of
 Pennsylvania government websites and email systems use "pennsylvania.gov"
 or "pa.gov" at the end of the address. Before sharing sensitive
 or personal information, make sure you're on an official state
@@ -1006,7 +1047,7 @@ to improve care and efficiency and lower costs. We will invest in digital
 and informational technology infrastructure to allow for clinical integration
 of electronic health records (EHRs). * * * [Download PA's Rural Transformation
 Plan](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/rural-health/pa-rural-health-transformation-plan.pdf)
-Return to top [![Image 3: Commonwealth of Pennsylvania
+Double-click to edit... Return to top [![Image 4: Commonwealth of Pennsylvania
 Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg)](https://www.pa.gov/en)
 Proudly founded in 1681 as a place of tolerance and
 freedom. * [Commonwealth of Pennsylvania Social Media Follow on
@@ -1032,13 +1073,20 @@ a DMV](https://www.pa.gov/agencies/dmv/find-a-location) * [Get a Birth
 Certificate](https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates)
 * [Join the Veterans
 Registry](https://www.pa.gov/services/dmva/subscribe-to-veterans--registry-and-monthly-publication)
-* [PAyback](https://payback.pa.gov/Home/Who) PA.gov ------ * [Careers
-& Internships](https://www.pa.gov/agencies/employment/open-jobs) *
-[PennWatch](https://pennwatch.pa.gov/Pages/default.aspx) * [Right-to-Know
-Law](https://www.openrecords.pa.gov/RTKL/CitizensGuide.cfm) Copyright
-© 2025 Commonwealth of Pennsylvania. All rights reserved. *
-[Accessibility](https://www.pa.gov/accessibility-policy) *
-[Privacy & Disclaimers](https://www.pa.gov/privacy-policy) *
+* [PAyback(opens in a new tab)](https://payback.pa.gov/Home/Who) PA.gov ------
+* [Careers & Internships](https://www.pa.gov/agencies/employment/open-jobs) *
+[PennWatch(opens in a new tab)](https://pennwatch.pa.gov/Pages/default.aspx)
+* [Right-to-Know Law(opens in a new
+tab)](https://www.openrecords.pa.gov/RTKL/CitizensGuide.cfm)
+Copyright © 2025 Commonwealth of Pennsylvania. All rights
+reserved. * [Accessibility](https://www.pa.gov/accessibility-policy)
+* [Privacy & Disclaimers](https://www.pa.gov/privacy-policy) *
 [Translation Disclaimer](https://www.pa.gov/translation-disclaimer) *
 [Security](https://www.pa.gov/security-policy) * [Social Media Policy &
-Disclaimer](https://www.pa.gov/social-media-policy-and-disclaimer) Loading ...
+Disclaimer](https://www.pa.gov/social-media-policy-and-disclaimer) ![Image
+5](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text Rate this translation Your feedback will
+be used to help improve Google Translate Loading ... ![Image 6:
+Cancel](https://siteintercept.qualtrics.com/WRQualtricsShared/Graphics/siteintercept/remove_screen_capture.png)![Image
+7](https://siteintercept.qualtrics.com/WRQualtricsShared/Graphics/siteintercept/building_preview.gif)
+Building Preview ...
