@@ -1,6 +1,7 @@
 Title: Rural Health Transformation Program | NCDHHS URL Source:
 https://www.ncdhhs.gov/divisions/office-rural-health/rural-health-transformation-program
-Markdown Content: On Dec. 29, 2025, the Centers for Medicare and
+Published Time: Wed, 14 Jan 2026 22:43:39 GMT Markdown
+Content: On Dec. 29, 2025, the Centers for Medicare and
 Medicaid Services (CMS) [awarded North Carolina over $213 million in federal
 funding](https://www.ncdhhs.gov/news/press-releases/2025/12/29/north-carolina-awarded-213-million-rural-health-transformation-program)
 through the Rural Health Transformation Program (RHTP). North Carolina
