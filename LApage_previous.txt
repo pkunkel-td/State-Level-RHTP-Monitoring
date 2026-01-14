@@ -1,12 +1,9 @@
-Title: Rural Health Transformation Program | Louisiana Department of Health URL
-Source: https://ldh.la.gov/page/rural-health-transformation-program Markdown
-Content: Rural Health Transformation Program (RHTP) | Louisiana Department
-of Health =============== Press Option+1 for screen-reader mode, Option+0 to
-cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting |
-New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
-An official website of the State of Louisiana. Here’s how
-you know Language Accessibility ![Image 3: State of Louisiana
-Seal](https://ldh.la.gov/build/img/state-seal-grey.svg)_Official
+Title: Rural Health Transformation Program | Louisiana Department of Health
+URL Source: https://ldh.la.gov/page/rural-health-transformation-program
+Markdown Content: Rural Health Transformation Program (RHTP) | Louisiana
+Department of Health =============== An official website of the State of
+Louisiana. Here’s how you know Language Accessibility ![Image 3: State of
+Louisiana Seal](https://ldh.la.gov/build/img/state-seal-grey.svg)_Official
 Louisiana State Websites use .la.gov_ A .la.gov website belongs
 to an official government organization in Louisiana. ![Image 4:
 Lock icon image](https://ldh.la.gov/build/img/lock.svg)_Secure
@@ -347,15 +344,9 @@ Adult Without Dependents (ABAWD)](https://ldh.la.gov/page/5514)
 * [Family Independence Temporary Assistance Program
 (FITAP)](https://ldh.la.gov/page/5526) * [LaCAP](https://ldh.la.gov/page/5554)
 * [Kinship Care Subsidy Program (KCSP)](https://ldh.la.gov/page/5527) *
-[Program Statistics
-2025-2026](https://ldh.la.gov/supplemental-nutrition-assistance-program/program-statistics-2025-2026)
-* [Replacement SNAP Benefits](https://ldh.la.gov/page/5510) *
-[Report SNAP Fraud](https://ldh.la.gov/page/5531) * [SUN
-Bucks](https://ldh.la.gov/page/5495) * [Skimming: What
-to Know](https://ldh.la.gov/page/5509) * [SNAP Community
+[SUN Bucks](https://ldh.la.gov/page/5495) * [SNAP Community
 Partners](https://ldh.la.gov/page/5511) * [SNAP Eligibility &
-Application](https://ldh.la.gov/page/5498) * [SNAP for College
-Students](https://ldh.la.gov/page/5505) * [Temporary Assistance
+Application](https://ldh.la.gov/page/5498) * [Temporary Assistance
 for Needy Families (TANF)](https://ldh.la.gov/page/5528)
 * Vital Records Back**Vital Records** * [Birth & Death
 Certificates](https://ldh.la.gov/vital-records/request-a-birth-or-death-certificate)
