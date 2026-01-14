@@ -1,7 +1,37 @@
 Title: Rural Health Transformation Program – New Mexico Health Care Authority
 URL Source: https://www.hca.nm.gov/rural-health-transformation-program/
-Markdown Content: Rural Health Transformation Program
-– New Mexico Health Care Authority =============== [Skip To
+Markdown Content: Rural Health Transformation Program – New Mexico Health
+Care Authority =============== Manage Cookie Consent We use cookies to
+collect site usage statistics and provide helpful (but not necessary) site
+functionality. Your may may permit or deny cookies on our Cookie Policy
+page. Functional- [x] Functional Always active The technical storage
+or access is strictly necessary for the legitimate purpose of enabling
+the use of a specific service explicitly requested by the subscriber
+or user, or for the sole purpose of carrying out the transmission of a
+communication over an electronic communications network. Preferences- [x]
+Preferences The technical storage or access is necessary for the legitimate
+purpose of storing preferences that are not requested by the subscriber or
+user. Statistics- [x] Statistics The technical storage or access that is
+used exclusively for statistical purposes.The technical storage or access
+that is used exclusively for anonymous statistical purposes. Without
+a subpoena, voluntary compliance on the part of your Internet Service
+Provider, or additional records from a third party, information stored
+or retrieved for this purpose alone cannot usually be used to identify
+you. Marketing- [x] Marketing The technical storage or access is required
+to create user profiles to send advertising, or to track the user on a
+website or across several websites for similar marketing purposes. * [Manage
+options](https://www.hca.nm.gov/cookie-policy-us/#cmplz-manage-consent-container)
+* [Manage
+services](https://www.hca.nm.gov/cookie-policy-us/#cmplz-cookies-overview)
+* [Manage {vendor_count}
+vendors](https://www.hca.nm.gov/cookie-policy-us/#cmplz-tcf-wrapper) * [Read
+more about these purposes](https://cookiedatabase.org/tcf/purposes/)
+Accept Deny View preferences Save preferences[View
+preferences](https://www.hca.nm.gov/cookie-policy-us/#cmplz-manage-consent-container)
+* [Cookie Policy](https://www.hca.nm.gov/cookie-policy-us/) *
+[Privacy Statement](https://www.hca.nm.gov/privacy-statement-us-2/) *
+[{title}](https://www.hca.nm.gov/rural-health-transformation-program/#)
+[Skip To
 Content](https://www.hca.nm.gov/rural-health-transformation-program/#et-main-area)
 Main site header ---------------- **[APPLY FOR
 BENEFITS](https://www.yes.state.nm.us/yesnm/home/index "APPLY FOR BENEFITS")**
@@ -48,10 +78,10 @@ for Assistance](https://www.hca.nm.gov/lookingforassistance/) *
 [Looking for Information](https://www.hca.nm.gov/lookingforinformation/) *
 [News](https://www.hca.nm.gov/public-information-and-communications/newsroom/)
 * [Providers](https://www.hca.nm.gov/providers/) * [SUN
-Bucks](https://www.hca.nm.gov/lookingforassistance/sun-bucks/)
-Search * [2025 Data Book](https://www.hca.nm.gov/2025-data-book/) *
-[Looking for Assistance](https://www.hca.nm.gov/lookingforassistance/) *
-[Looking for Information](https://www.hca.nm.gov/lookingforinformation/) *
+Bucks](https://www.hca.nm.gov/lookingforassistance/sun-bucks/) Search *
+[2025 Data Book](https://www.hca.nm.gov/2025-data-book/) * [Looking for
+Assistance](https://www.hca.nm.gov/lookingforassistance/) * [Looking
+for Information](https://www.hca.nm.gov/lookingforinformation/) *
 [News](https://www.hca.nm.gov/public-information-and-communications/newsroom/)
 * [Providers](https://www.hca.nm.gov/providers/) * [SUN
 Bucks](https://www.hca.nm.gov/lookingforassistance/sun-bucks/)
@@ -228,8 +258,8 @@ Program](https://www.hca.nm.gov/rural-health-transformation-program/)
 (CARA)](https://www.hca.nm.gov/comprehensive-addiction-and-recovery-act-cara/)
 * [Food is Medicine](https://www.hca.nm.gov/food-is-medicine/)
 * [Food is Medicine
-Provider-Vendors](https://www.hca.nm.gov/food-is-medicine-provider-vendors/)
-* [Office of General
+Provider-Vendors](https://www.hca.nm.gov/food-is-medicine-provider-vendors/) *
+[Office of General
 Counsel](https://www.hca.nm.gov/about_the_department/office_of_general_counsel/)
 * [Office of Inspector
 General](https://www.hca.nm.gov/about_the_department/office_of_inspector_general/)
@@ -308,11 +338,11 @@ and management of chronic diseases, or 10. Promote evidence-based, measurable
 intervention to improve prevention and chronic disease management. For more
 details on national program goals, visit CMS’s [**Rural Health Transformation
 homepage**](https://www.cms.gov/priorities/rural-health-transformation-rht-program/rural-health-transformation-rht-program?utm_source=chatgpt.com).
-**What This Means for New Mexico** * New Mexico must create a Rural
-Health Transformation Plan by fall 2025. * With endorsement from the
-Governor, HCA intends to apply for this opportunity to bring federal
-resources to our rural counties and support the providers and communities
-who care for them. * If awarded, funding will be used to expand rural
+**What This Means for New Mexico** * New Mexico must create a Rural Health
+Transformation Plan by fall 2025. * With endorsement from the Governor,
+HCA intends to apply for this opportunity to bring federal resources
+to our rural counties and support the providers and communities who
+care for them. * If awarded, funding will be used to expand rural
 health services, stabilize critical access hospitals and clinics, grow
 workforce, and introduce technology solutions intended to improve care
 and coordination. * The HCA is working with the Governor’s Office
@@ -392,32 +422,4 @@ Statement](https://www.hca.nm.gov/wp-content/uploads/Files/Confidentiality-Priva
 * [Cookie Policy (US)](https://www.hca.nm.gov/cookie-policy-us/) * [Privacy
 Statement (US)](https://www.hca.nm.gov/privacy-statement-us/) Copyright 2012
 Designed and Developed by [RealTimeSolutions](https://www.rtsolutions.com/)
-Manage Cookie Consent We use cookies to collect site usage statistics and
-provide helpful (but not necessary) site functionality. Your may may permit
-or deny cookies on our Cookie Policy page. Functional- [x] Functional Always
-active The technical storage or access is strictly necessary for the legitimate
-purpose of enabling the use of a specific service explicitly requested by the
-subscriber or user, or for the sole purpose of carrying out the transmission
-of a communication over an electronic communications network. Preferences- [x]
-Preferences The technical storage or access is necessary for the legitimate
-purpose of storing preferences that are not requested by the subscriber or
-user. Statistics- [x] Statistics The technical storage or access that is
-used exclusively for statistical purposes.The technical storage or access
-that is used exclusively for anonymous statistical purposes. Without
-a subpoena, voluntary compliance on the part of your Internet Service
-Provider, or additional records from a third party, information stored
-or retrieved for this purpose alone cannot usually be used to identify
-you. Marketing- [x] Marketing The technical storage or access is required
-to create user profiles to send advertising, or to track the user on a
-website or across several websites for similar marketing purposes. * [Manage
-options](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[Manage services](https://www.hca.nm.gov/rural-health-transformation-program/#)
-* [Manage {vendor_count}
-vendors](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
-Accept Deny View preferences Save preferences[View
-preferences](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[{title}](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[{title}](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[{title}](https://www.hca.nm.gov/rural-health-transformation-program/#)
 Manage consent
