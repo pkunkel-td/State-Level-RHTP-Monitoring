@@ -205,6 +205,10 @@ Data](https://www.scdhhs.gov/partners/managed-care/program-all-inclusive-care-el
 Data](https://www.scdhhs.gov/partners/managed-care/dual-special-needs-plans-d-snp/program-data)
 *
 [Regulatory](https://www.scdhhs.gov/partners/managed-care/dual-special-needs-plans-d-snp/regulatory)
+* [Managed Care
+Carve-in](https://www.scdhhs.gov/partners/managed-care/managed-care-carve)
+* [Managed Care Carve-in
+FAQs](https://www.scdhhs.gov/partners/managed-care/managed-care-carve/managed-care-carve-faqs)
 * [Apply for Medicaid](https://apply.scdhhs.gov/) Header Navigation
 ----------------- * [Claims](https://www.scdhhs.gov/providers/claims)
 * [Communications](https://www.scdhhs.gov/communications)
@@ -237,8 +241,8 @@ Slides](https://www.scdhhs.gov/sites/dhhs/files/Stakeholder%20PowerPoint%2011.18
 ### South Carolina’s RHTP Application * [Application for Federal
 Assistance](https://www.scdhhs.gov/sites/dhhs/files/Form%20SF-424.pdf)
 * [Budget
-Narrative](https://www.scdhhs.gov/sites/dhhs/files/Budget%20Narrative.pdf) *
-[Budget Information for Non-Construction
+Narrative](https://www.scdhhs.gov/sites/dhhs/files/Budget%20Narrative.pdf)
+* [Budget Information for Non-Construction
 Programs](https://www.scdhhs.gov/sites/dhhs/files/Form%20SF424%20A.pdf)
 * [Disclosure of Lobbying
 Activities](https://www.scdhhs.gov/sites/dhhs/files/Disclosure%20of%20Lobby%20Activities.pdf)
