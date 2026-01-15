@@ -246,7 +246,9 @@ Homes](https://www.tn.gov/health/cedep/environmental/healthy-homes.html
 "Healthy Homes") * [Ready
 TN](https://www.tn.gov/tema/ready-tn.html "Ready TN") * [CDC Travel
 Vaccines](https://www.tn.gov/health/cedep/immunization-program/ip/travelers-safety/travel-vaccines.html
-"CDC Travel Vaccines") TDH Data Dashboards * [Birth Defects
+"CDC Travel Vaccines") [TDH Data
+Dashboards](https://data.tn.gov/t/Public/views/BirthDefectsDataDashboard/CountCountyFinal?%3Aembed=y&%3Atoolbar=no
+"TDH Data Dashboards") * [Birth Defects
 Surveillance](https://data.tn.gov/t/Public/views/BirthDefectsDataDashboard/CountCountyFinal?%3Aembed=y&%3Atoolbar=no
 "Birth Defects Surveillance") * [County Health Assessment
 Priorities](https://www.tn.gov/health/health-program-areas/county-health-councils/cha-chip-resources/cha-priority-dashboard.html
