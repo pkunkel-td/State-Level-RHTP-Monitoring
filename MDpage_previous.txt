@@ -1,7 +1,7 @@
 Title: Pages - Rural Health Transformation Program URL Source:
 https://health.maryland.gov/pophealth/Pages/Rural-Health-Transformation-Program.aspx
-Markdown Content: Pages - Rural Health
-Transformation Program =============== ![Image
+Published Time: Thu, 15 Jan 2026 20:49:45 GMT Markdown Content:
+Pages - Rural Health Transformation Program =============== ![Image
 2](https://health.maryland.gov/_layouts/15/MDH/img/favicon.ico?v=1&rev=43)![Image
 3](https://health.maryland.gov/_layouts/15/images/spcommon.png?rev=43)![Image
 4](https://health.maryland.gov/pophealth/_layouts/15/MDH/img/logo.png?rev=43)
@@ -84,8 +84,8 @@ Locator](https://maryland.maps.arcgis.com/apps/opsdashboard/index.html#/11b2b73c
 [Substance Use Treatment](https://health.maryland.gov/bha/Pages/HELP.aspx)
 Women, Infants & Children Program (WIC) Back Support
 Services Women, Infants & Children Program (WIC) *
-[Benefits](https://health.maryland.gov/phpa/wic/Pages/wic-benefits.aspx)
-* [Eligibility](https://health.maryland.gov/phpa/wic/Pages/wic-eligible.aspx)
+[Benefits](https://health.maryland.gov/phpa/wic/Pages/wic-benefits.aspx) *
+[Eligibility](https://health.maryland.gov/phpa/wic/Pages/wic-eligible.aspx)
 * [Enrollment](https://health.maryland.gov/phpa/wic/Pages/wic-apply.aspx) *
 [Program Information](https://health.maryland.gov/phpa/wic/Pages/Home.aspx)
 Prevention & Health Promotion Back Support Services
