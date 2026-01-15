@@ -1,7 +1,6 @@
-Title: 404 - Page Cannot be Found URL Source:
-https://dphhs.mt.gov/RuralHealthTransformationProgramRFI
-Warning: Target URL returned error 404: Not Found Markdown
-Content: 404 Error Page =============== [Skip to main
+Title: Index URL Source:
+https://dphhs.mt.gov/RuralHealthTransformationProgramRFI Published Time: Thu,
+15 Jan 2026 16:54:43 GMT Markdown Content: Index =============== [Skip to main
 content](https://dphhs.mt.gov/RuralHealthTransformationProgramRFI#main)
 [![Image 1: State of Montana Home
 Page](https://dphhs.mt.gov/_files/images/montanalogo.png)](https://mt.gov/)
@@ -139,42 +138,137 @@ Living](https://dphhs.mt.gov/publichealth/healthyliving) * [Injury, –
 Violence and Safety](https://dphhs.mt.gov/publichealth/InjuryViolenceandSafety)
 * [Injury Prevention](https://dphhs.mt.gov/publichealth/emsts/prevention) *
 [Laboratory](https://dphhs.mt.gov/publichealth/LaboratoryServices/index)
-* [A-Z Index](https://dphhs.mt.gov/A-Z) **DPHHS is offering
+* [A-Z Index](https://test-dphhs.mt.gov/A-Z) **DPHHS is offering
 one-time incentive payments to recruit employees at Montana’s
 state-run health care facilities. For more information go to
-[Work4DPHHS.com](https://work4dphhs.com/)** 1. 404 - Page Cannot be Found
-404 - Page Cannot be Found ========================== Oops! Something went
-wrong! --------------------------- The Department of Public Health and
-Human Services has launched a redesigned website on a new server with new
-technology. As a result, bookmarked links may need to be updated. To find
-what you are looking for: * Please search the "**I am looking for**" and
-"**I am a**" menu lists * Search the[A to Z index](https://dphhs.mt.gov/A-Z)
-* Use the **"Search DPHHS"**function in the heading. If you are unable
-to find your information using one of these methods, there should
-be a contact link on specific program pages. Feel free to fill out
-the online form to provide feedback. Your input is appreciated. We
-want to make sure your experience visiting our site is enjoyable. *
-[LANGUAGE ASSISTANCE](https://dphhs.mt.gov/languageassistance)
+[Work4DPHHS.com](https://work4dphhs.com/)** 1. [Rural Health Transformation
+Program](https://dphhs.mt.gov/index) 2. Index Rural Health Transformation
+Program =================================== Governor Greg Gianforte and
+Department of Public Health and Human Services (DPHHS) Director Charlie
+Brereton announced in December 2025 a historic $233 million investment
+from the Trump administration to stabilize and modernize rural health
+care delivery throughout Montana. Awarded by the Centers for Medicare &
+Medicaid Services (CMS) Rural Health Transformation Program (RHTP), these
+funds will support improving Montana’s rural health care providers
+in delivering sustainable high-quality affordable care. This investment
+reflects the first-year award of a five-year federal grant program, with
+Montana currently set to receive up to $1.2 billion over the life of the
+program. The announcement follows the [successful approval of Montana’s
+application](https://dphhs.mt.gov/assets/RuralHealthTransformation/RHTP-Plan.pdf)
+to CMS, which was submitted by DPHHS in November 2025. The state received
+the fourth-highest funding award among all 50 states, signaling the
+quality and strength of Montana’s application. **Next Steps** DPHHS will
+collaborate with rural providers, hospitals, community organizations, and
+other health care stakeholders to deliver five core initiatives tailored
+to Montana's rural health care challenges. The five core initiatives
+are **Workforce Development,****Sustainable Access**, **Innovative
+Care Models**, **Community Health and Prevention**, and **Technology
+Innovation**. DPHHS will now submit a revised budget to CMS that aligns
+with the award and partner with the Montana Office of Rural Health to host
+biannual RHTP Advisory Committee meetings, ensuring ongoing input from the
+public. The first RHTP Advisory Committee meeting will be Thursday, Jan. 22,
+2026 at Montana State University. For questions about this project, please
+email[HHSRuralHealthTransformation@mt.gov](mailto:HHSRuralHealthTransformation@mt.gov).
+[RHTP Frequently Asked
+Questions](https://dphhs.mt.gov/assets/RuralHealthTransformation/RHTPFrequentlyAskedQuestions.pdf)
+RHTP Plan and Project Summary * [RHTP
+Plan](https://dphhs.mt.gov/assets/RuralHealthTransformation/RHTP-Plan.pdf)
+* [RHTP Project
+Summary](https://dphhs.mt.gov/assets/RuralHealthTransformation/RHTP-Project-Summary.pdf)
+Background Established by President Trump’s Working Families Tax Cuts
+legislation, the RHTP provides up to $50 billion nationally through 2030 to
+help states stabilize, transform, and restructure rural health systems and
+support essential health care providers with sustainability. H.R. 1, enacted
+on , established a federal $50 billion Rural Health Transformation Program
+(RHTP) to stabilize and strengthen rural health care delivery systems,
+including hospitals and other providers. To receive funding from the RHTP,
+states had to submit a rural health transformation plan to CMS. In November
+2025, Montana applied for funding from the Centers for Medicare and Medicaid
+Services (CMS), and on Dec. 29, 2025, DPHHS was awarded a historic $233
+million in funds to stabilize and modernize rural health care delivery
+throughout Montana. DPHHS will now allocate funds to eligible entities in
+accordance with Montana’s approved rural health transformation plan. Prior
+to submitting the plan, DPHHS conducted several weeks of public outreach to
+Montana’s hospitals, over 20 rural health stakeholders, all eight tribal
+nations and Urban Indian Organizations, and other state agencies. DPHHS
+also integrated feedback from a 900-registrant webinar and over 300 formal
+responses to an agency-led Request for Information. The plan reflects this
+input. H.R. 1 created a $50 billion fund for states with an approved rural
+health transformation plan, with $10 billion available per year from FFY 2026
+through FFY 2030. Half of the funding will be split evenly between states
+with an approved transformation plan, and the other half will be distributed
+to states at CMS’ discretion based on each state’s rural population,
+rural health facilities, and other CMS-defined characteristics. The plan
+had to describe how the state will use program funds to: * Improve access to
+hospitals, other health care providers, and health care items and services
+furnished to rural residents of the state; * Improve health care outcomes for
+rural residents; * Prioritize the use of new and emerging technologies that
+emphasize prevention and chronic disease management; * Initiate, foster, and
+strengthen local and regional strategic partnerships between rural hospitals
+and other health care providers to promote measurable quality improvement,
+increase financial stability, maximize economies of scale, and share best
+practices in care delivery; * Enhance economic opportunity for, and the
+supply of, health care clinicians through improved recruitment and training
+strategies; * Prioritize data- and technology-driven solutions that help rural
+hospitals and other rural health care providers furnish high-quality care as
+close to patients’ homes as possible; * Outline strategies to manage the
+long-term financial solvency and operating models of rural hospitals in the
+state; and * Identify specific factors driving the increasing rate of closures,
+conversions, or service reductions among stand-alone rural hospitals. Funds
+must be used for three or more of the allowable activities, including: *
+Promoting evidence-based, measurable interventions to improve prevention and
+chronic disease management; * Providing payments to health care providers for
+furnishing health care items or services, as specified by the Administrator;
+* Promoting consumer-facing, technology-driven solutions for the prevention
+and management of chronic conditions; * Providing training and technical
+assistance to support the development and adoption of technology-enabled
+care delivery models—such as remote monitoring, robotics, artificial
+intelligence, and other advanced technologies; * Recruiting and retaining
+clinical workforce talent in rural areas, with a minimum five-year service
+commitment to rural communities; * Providing technical assistance, software,
+and hardware to support significant information technology advancements that
+enhance efficiency, cybersecurity, and patient health outcomes; * Assisting
+rural communities in right-sizing their health care delivery systems by
+identifying appropriate service lines—including preventative, ambulatory,
+pre-hospital, emergency, acute inpatient, outpatient, and post-acute care
+services; * Supporting access to opioid use disorder treatment services, other
+substance use disorder treatments, and mental health services; * Developing
+projects that support innovative models of care, including value-based care
+arrangements and alternative payment models, as appropriate; and * Supporting
+additional uses that promote sustainable access to high-quality rural health
+care services, as determined by the Administrator. RHTP Public Webinar
+[Rural Health Transformation Program Webinar PowerPoint Slides - October 2
+2025](https://dphhs.mt.gov/assets/RuralHealthTransformation/RHTWebinarOct22025.pdf)
+Collapse Menu Stay Engaged ------------ Email Updates To sign up for updates
+or to access your subscriber preferences, please enter your contact information
+below. 1. ![Image 8](https://content.govdelivery.com/images/required.gif)Email
+Address Montana’s Application --------------------- * [RHTP
+Plan](https://test-dphhs.mt.gov/assets/RuralHealthTransformation/RHTP-Plan.pdf)
+* [RHTP Project
+Summary](https://test-dphhs.mt.gov/assets/RuralHealthTransformation/RHTP-Project-Summary.pdf)
+* [Rural Health Transformation Program legislative presentation, Jan. 13,
+2026](https://archive.legmt.gov/content/Committees/Interim/2025-2026/CFHHS/Meetings/January_13_2026/1d-DPHHS-Slides.pdf)
+* [LANGUAGE ASSISTANCE](https://dphhs.mt.gov/languageassistance)
 * [NOTICE OF USE OF PROTECTED HEALTH
-INFORMATION](https://dphhs.mt.gov/AboutUs/LegalResources/HIPAA)
+INFORMATION](https://test-dphhs.mt.gov/AboutUs/LegalResources/HIPAA)
 * [LEGISLATURE](https://dphhs.mt.gov/legislature/Index) *
 [CAREERS](https://dphhs.mt.gov/AboutUs/Careeropportunities)
 * [NONDISCRIMINATION NOTICE /
 POLICY](https://dphhs.mt.gov/NondiscriminationPolicy/index) * [CONTACT
 WEBMASTER](https://mt.accessgov.com/dphhs/Forms/Page/tsd/contactwebmaster)
 * [ACCESSIBILITY, DISCLAIMER AND WEB
-STANDARDS](https://mt.gov/discover/disclaimer) [![Image 8:
+STANDARDS](https://mt.gov/discover/disclaimer) [![Image 9:
 Facebook](https://dphhs.mt.gov/_files/images/Facebook.svg)](https://www.facebook.com/MTDPHHS)[![Image
-9:
-X](https://dphhs.mt.gov/_files/images/Twitter.svg)](https://twitter.com/DPHHSMT)[![Image
 10:
+X](https://dphhs.mt.gov/_files/images/Twitter.svg)](https://twitter.com/DPHHSMT)[![Image
+11:
 YouTube](https://dphhs.mt.gov/_files/images/YouTube.svg)](https://www.youtube.com/user/MontanaDPHHS)
 * [PRIVACY & SECURITY](https://mt.gov/1240-X06.pdf) *
 [ACCESSIBILITY](https://mt.gov/discover/disclaimer.aspx#accessibility)
-[![Image 11: Montana Official State
+[![Image 12: Montana Official State
 Website](https://dphhs.mt.gov/_files/images/montanalogo.svg)](https://mt.gov/)
 [](https://dphhs.mt.gov/RuralHealthTransformationProgramRFI# "Back To Top")
-![Image 12](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+![Image 13](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 Original text Rate this translation Your feedback will be used to help
 improve Google Translate The state of Montana uses Google Analytics We use
 cookies to improve your browsing experience and analyze our traffic with the
