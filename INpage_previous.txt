@@ -1,8 +1,11 @@
 Title: Indiana Rural Health Transformation
 Program Grant Application Working Group URL Source:
 https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/
-Published Time: 2025-08-26T16:06:10-04:00 Markdown Content: FSSA: Indiana Rural
-Health Transformation Program Grant Application Working Group ===============
+Published Time: 2025-08-26T16:06:10-04:00 Markdown Content: FSSA:
+Indiana Rural Health Transformation Program Grant Application Working
+Group =============== Press Option+1 for screen-reader mode, Option+0 to
+cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting |
+New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
 [An official website of the Indiana State Government](https://www.in.gov/)
 [Accessibility Settings](javascript:void(0);) Language Translation
 [Governor Mike Braun](https://www.in.gov/gov) * [![Image 1: FSSA
@@ -81,8 +84,8 @@ Analytics](https://www.in.gov/fssa/fssa-data-and-analytics) * [Medicaid/Public
 Assistance Fraud](https://www.in.gov/fssa/medicaidpublic-assistance-fraud)
 * [Indiana Behavioral Health
 Commission](https://www.in.gov/fssa/dmha/indiana-behavioral-health-commission)
-* [Contact Us](https://www.in.gov/fssa/contact-us) *
-[Learn More](javascript:void(0);) * [Online Services - Click to
+* [Contact Us](https://www.in.gov/fssa/contact-us)
+* [Learn More](javascript:void(0);) * [Online Services - Click to
 Expand](https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/#)Toggle
 menu * [Find Child Care](http://www.in.gov/fssa/childcarefinder) * [Apply for
 Services](https://www.in.gov/fssa/dfr/ebt-hoosier-works-card/find-my-local-dfr-office)
@@ -108,9 +111,10 @@ problem?](https://faqs.in.gov/hc/en-us/articles/360042092312-Where-can-I-get-hel
 * [More FAQs
 >](https://ingov.zendesk.com/hc/en-us/sections/115000627786-Family-Social-Services-Administration)
 Close Menu Sidebar ======= Side Navigation --------------- [FSSA
-Home](https://www.in.gov/fssa) ------------------------------------ * [About
-FSSA - Click to Expand](https://www.in.gov/fssa/about-fssa)Toggle menu * [FSSA
-Mission and Vision](https://www.in.gov/fssa/about-fssa/fssa-mission-vision) *
+Home](https://www.in.gov/fssa) ------------------------------------ *
+[About FSSA - Click to Expand](https://www.in.gov/fssa/about-fssa)Toggle
+menu * [FSSA Mission and
+Vision](https://www.in.gov/fssa/about-fssa/fssa-mission-vision) *
 [History/Overview](https://www.in.gov/fssa/about-fssa/historyoverview) * [About
 the Secretary](https://www.in.gov/fssa/about-fssa/about-the-secretary)
 * [FSSA Organizational
@@ -157,8 +161,8 @@ Plan](https://www.in.gov/fssa/home-and-community-based-services-spending-plan)
 * [Quarterly Financial
 Reporting](https://www.in.gov/fssa/Quarterly-Financial-Reporting)
 * [Find Your Local Office - Click to
-Expand](https://www.in.gov/fssa/find-your-local-office)Toggle menu *
-[Bureau of Better Aging
+Expand](https://www.in.gov/fssa/find-your-local-office)Toggle
+menu * [Bureau of Better Aging
 Services](https://www.in.gov/fssa/ddars/bba/area-agencies-on-aging)
 * [Bureau of Disability Services
 Contact](https://www.in.gov/fssa/ddars/bds/bureau-of-disabilities-services)
