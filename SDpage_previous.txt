@@ -12,7 +12,9 @@ Health](https://doh.sd.gov/images/logo-mobile-@2x.png)](https://doh.sd.gov/)
 With Us](https://doh.sd.gov/work-with-us/)
 * [Contact Us](https://doh.sd.gov/contacts/)
 [Search](https://doh.sd.gov/healthcare-professionals/rural-health/rural-health-transformation-project/#searchCollapse)
-Search Submit Search Menu Site navigation *
+Search Submit Search Menu Powered by [![Image 4: Google
+Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
+Site navigation *
 [Topics](https://doh.sd.gov/healthcare-professionals/rural-health/rural-health-transformation-project/#)
 Back to Menu Topics Topics ------ Find topics meant to equip people
 and providers in South Dakota with the information they need to
@@ -160,7 +162,7 @@ Videos](https://doh.sd.gov/news-statutes/public-health-educational-videos/) *
 Subscriptions](https://doh.sd.gov/news-statutes/email-subscriptions/) *
 [Health Holidays](https://doh.sd.gov/news-statutes/health-holidays/)
 In this section ![Image
-4](https://doh.sd.gov/media/03tp4jlc/rural-sd.jpg?width=768&height=394&v=1dc4f6150652460)
+5](https://doh.sd.gov/media/03tp4jlc/rural-sd.jpg?width=768&height=394&v=1dc4f6150652460)
 1. [Home](https://doh.sd.gov/) 2. [Healthcare
 Professionals](https://doh.sd.gov/healthcare-professionals/) 3. [Rural
 Health](https://doh.sd.gov/healthcare-professionals/rural-health/) Rural Health
@@ -212,7 +214,9 @@ System](https://doh.sd.gov/media/tvnp2tlq/integrated-behavioral-health-system.pd
 [Enhancing Sustainable Emergency Medical Services
 (EMS)](https://doh.sd.gov/media/iwpcowyd/enhancing-sustainable-emergency-medical-services-ems.pdf
 "Enhancing Sustainable Emergency Medical Services
-EMS") ### South Dakota's Application * [Project
+EMS") ### South Dakota's Application * [Notice of Funding
+Opportunity](https://doh.sd.gov/media/gvjbboxo/sd-rht-notice-of-funding-opportunity.pdf
+"SD RHT Notice Of Funding Opportunity") * [Project
 Narrative](https://doh.sd.gov/media/lyfbrd2k/sd_rhtproject-narrative-final.pdf
 "South Dakota Rural Health Transformation Project Narrative") * [Project
 Summary](https://doh.sd.gov/media/luupn231/project-summary.pdf "Project
@@ -278,14 +282,16 @@ provider networks 1. **Develop the workforce** Recruit, retain, and
 expand provider capacity in rural areas 1. **Encourage innovation**
 Support new care models and flexible payment systems 1. **Leverage
 technology** Expand telehealth, data sharing, and cybersecurity tools ![Image
-5](https://doh.sd.gov/media/qfcfm53y/rht-timeline_web.png?rmode=max&width=732&height=530)
-### Why This Matters Together, these goals create a more connected, capable,
-and resilient rural health system to improve access, quality, and outcomes for
-all South Dakotans. ### Stay Connected This project is not just about immediate
-improvements. It is a long-term investment in the health and resilience of
-South Dakota’s rural communities. As the project moves forward, we will
-continue sharing updates, resources, and stories from the people and providers
-making a difference. Have questions or want to get involved? [Contact
+6](https://doh.sd.gov/media/qfcfm53y/rht-timeline_web.png?rmode=max&width=732&height=530)[View
+the RHT Project Timeline](https://doh.sd.gov/media/20cdqpl2/rht-timeline.pdf
+"RHT Timeline") ### Why This Matters Together, these goals create a more
+connected, capable, and resilient rural health system to improve access,
+quality, and outcomes for all South Dakotans. ### Stay Connected This
+project is not just about immediate improvements. It is a long-term
+investment in the health and resilience of South Dakota’s rural
+communities. As the project moves forward, we will continue sharing
+updates, resources, and stories from the people and providers making
+a difference. Have questions or want to get involved? [Contact
 us to learn more.](https://doh.sd.gov/contacts/staff-directory/
 "Staff Directory") #### Rural Health * [Rural Health Transformation
 Project](https://doh.sd.gov/healthcare-professionals/rural-health/rural-health-transformation-project/)
@@ -333,14 +339,14 @@ FAQ](https://doh.sd.gov/healthcare-professionals/rural-health/j-1-visa-waiver-pr
 Resources](https://doh.sd.gov/healthcare-professionals/rural-health/j-1-visa-waiver-program/resources/)
 * [Rural Health Staff
 Directory](https://doh.sd.gov/healthcare-professionals/rural-health/rural-health-staff-directory/)
-![Image 6](https://doh.sd.gov/images/logo-vector.svg) South Dakota Department
+![Image 7](https://doh.sd.gov/images/logo-vector.svg) South Dakota Department
 of Health --------------------------------- 600 East Capitol Avenue Pierre,
 SD 57501-2536 [(605) 773-3361](tel:6057733361 "SD DOH main telephone line")
-[DOH.info@state.sd.us](mailto:DOH.Info@state.sd.us "SD DOH Information
-Email") Media Relations: [DOHmedia@state.sd.us](mailto:DOHmedia@state.sd.us
-"SD DOH Media Relations Email") _**Department Secretary:Melissa Magstadt**_
-### Quick Links * [DOH Home](https://doh.sd.gov/) *
-[SD DOH About](https://doh.sd.gov/about/) * [SD
+[DOH.info@state.sd.us](mailto:DOH.Info@state.sd.us "SD DOH Information Email")
+Media Relations: [DOHmedia@state.sd.us](mailto:DOHmedia@state.sd.us
+"SD DOH Media Relations Email") _**Department Secretary:Melissa
+Magstadt**_ ### Quick Links * [DOH Home](https://doh.sd.gov/)
+* [SD DOH About](https://doh.sd.gov/about/) * [SD
 DOH News](https://doh.sd.gov/press-releases/) * [SD
 DOH Work With Us](https://doh.sd.gov/work-with-us/) *
 [DOH Intranet](https://intranetdoh.sd.gov/) * [Request Public
@@ -350,4 +356,7 @@ Policy](https://www.sd.gov/cs?id=kb_article_view&sysparm_article=KB0010219)
 * [Privacy
 Policy](https://www.sd.gov/cs?id=kb_article_view&sysparm_article=KB0010220) *
 [Disclaimer](https://www.sd.gov/cs?id=kb_article_view&sysparm_article=KB0010221)
-* [HIPAA Notice](https://doh.sd.gov/media/atjkli3y/hipaanotice.pdf)
+* [HIPAA Notice](https://doh.sd.gov/media/atjkli3y/hipaanotice.pdf) ![Image
+8](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text Rate this translation Your feedback will be used to help
+improve Google Translate
