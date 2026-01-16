@@ -1,9 +1,8 @@
 Title: Rural Health Transformation Program URL Source:
-https://dphhs.mt.gov/RuralHealthTransformationProgramRFI Published Time:
-Fri, 16 Jan 2026 17:27:48 GMT Markdown Content: Governor Greg Gianforte
-and Department of Public Health and Human Services (DPHHS) Director
-Charlie Brereton announced in December 2025 a historic $233 million
-investment from the Trump administration to stabilize and modernize
+https://dphhs.mt.gov/RuralHealthTransformationProgramRFI Markdown Content:
+Governor Greg Gianforte and Department of Public Health and Human Services
+(DPHHS) Director Charlie Brereton announced in December 2025 a historic $233
+million investment from the Trump administration to stabilize and modernize
 rural health care delivery throughout Montana. Awarded by the Centers for
 Medicare & Medicaid Services' (CMS) Rural Health Transformation Program
 (RHTP), these funds will support improving Montana’s rural health care
@@ -88,11 +87,12 @@ and decision-making body for the Rural Health CoE. In that role, the CoE
 Governing Board may provide facility-specific optional recommendations
 to participating hospitals, informed by data, best practices, and rural
 health expertise. The RHTP Stakeholder Advisory Committee (SAC) will serve
-in an advisory role, offering input and perspectives from a broad range
-of stakeholders. However, it will not have decision-making authority or
-issue recommendations to individual facilities. Appointments to the CoE
-Governing Board will be finalized in the coming months, pending CMS budget
-approval. The Department aims to balance rural health experience with
+in an advisory role, offering input and perspectives from a broad range of
+stakeholders. However, it will not have decision-making authority or issue
+recommendations to individual facilities. The Department will finish appointing
+members to the Rural Health CoE Governing Board over the next few months,
+subject to the timing of Centers for Medicare & Medicaid Services’ (CMS)
+budget approval. The Department aims to balance rural health experience with
 subject-matter expertise to ensure a qualified, representative board. The
 RHTP receives annual funding over five budget periods. Funds must be used
 by the end of the following period or they will be redistributed to other
