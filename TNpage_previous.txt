@@ -3,8 +3,8 @@ Tennessee's Future URL Source: https://www.tn.gov/health/rural.html
 Markdown Content: Tennessee Department of Health Rural Health
 Access for Tennessee's Future =============== [Skip to Main
 Content](https://www.tn.gov/health/rural.html#main) [](https://www.tn.gov/)
-[Go to TN.gov](https://www.tn.gov/) [![Image 1: State of
-Tennessee](https://www.tn.gov/content/dam/headers/health.png)](https://www.tn.gov/health.html)
+[Go to TN.gov](https://www.tn.gov/) [![Image 1: State of Tennessee,
+Health](https://www.tn.gov/content/dam/headers/health.png)](https://www.tn.gov/health.html)
 [Go to TN.gov](https://www.tn.gov/) Section *
 [Go to Health](https://www.tn.gov/health.html) *
 [Careers](https://www.tn.gov/health/career-opportunities.html) *
