@@ -3,9 +3,8 @@ https://oklahoma.gov/health/rhtp.html Markdown Content:
 Rural Health Transformation Program =============== [Skip to main
 content](https://oklahoma.gov/health/rhtp.html#main) [![Image 2: Oklahoma.gov
 Home](https://oklahoma.gov/content/dam/ok/en/global/images/branding/OK_Logo_Symbol_FlatWhite_RGB.svg)](https://oklahoma.gov/)
-* Translate Powered by [![Image 3: Google
-Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
-* [State Agencies](https://oklahoma.gov/stateagency.html) [![Image 4: Health
+* Translate * [State
+Agencies](https://oklahoma.gov/stateagency.html) [![Image 3: Health
 Home](https://oklahoma.gov/content/dam/ok/en/health/images/master-osdh-logo-color.png)](https://oklahoma.gov/health.html)
 [](https://oklahoma.gov/health.html) * Services * [Birth and Death
 Certificates](https://oklahoma.gov/health/services/birth-and-death-certificates.html)
@@ -83,8 +82,8 @@ Health](https://oklahoma.gov/health/services/personal-health.html) *
 [Adolescents](https://oklahoma.gov/health/services/personal-health/adolescents.html)
 *
 [Immunizations](https://oklahoma.gov/health/services/personal-health/immunizations.html)
-* [Men](https://oklahoma.gov/health/services/personal-health/men.html) *
-[Sexual
+*
+[Men](https://oklahoma.gov/health/services/personal-health/men.html) * [Sexual
 Health](https://oklahoma.gov/health/services/personal-health/sexual-health-and-harm-reduction-service.html)
 * [Tobacco
 Prevention](https://oklahoma.gov/health/services/personal-health/tobacco-prevention.html)
@@ -428,8 +427,8 @@ Overdose](https://oklahoma.gov/health/health-education/injury-prevention-service
 * [Oklahoma Violent Death Reporting
 System](https://oklahoma.gov/health/health-education/injury-prevention-service/oklahoma-violent-death-reporting-system.html)
 * [Personal
-Health](https://oklahoma.gov/health/health-education/personal-health.html)
-* [Substance
+Health](https://oklahoma.gov/health/health-education/personal-health.html) *
+[Substance
 Use](https://oklahoma.gov/health/health-education/personal-health/opioid-and-substance-abuse.html)
 * [Sexual
 Health](https://oklahoma.gov/health/health-education/personal-health/sexual-health.html)
@@ -487,7 +486,7 @@ Commission](https://oklahoma.gov/health/about-us/oklahoma-state-athletic-commiss
 Transformation Program Oklahoma Rural Health Transformation Program
 ============================================ Rural Health Transformation
 Program (RHTP) ==========================================
-![Image 5: Oklahoma Rural Health Transformation
+![Image 4: Oklahoma Rural Health Transformation
 Program](https://oklahoma.gov/health/rhtp/_jcr_content/responsivegrid-second/image_copy.coreimg.100.2048.png/1762808315182/rhtp-webheader-1.png)
 **Oklahoma has officially secured $223.5 million for the first year of
 a five-year grant through the Rural Health Transformation (RHT) Program,
@@ -509,28 +508,28 @@ hometown. ### Care moves faster when it matters most. For stroke, pregnancy
 complications or mental health emergencies, quick action saves lives. These
 investments help rural hospitals connect instantly with specialists so
 treatment can begin right away. ### Getting to appointments is easier. New
-ride scheduling tools and local driver programs make it simpler to get to
-care, helping people keep appointments and stay on track with follow-up
-visits. ### More care is available close to home. Services like behavioral
-health care, high-risk pregnancy support and more are available locally
-through telehealth, shared staff and better technology. ### Communities gain
-more doctors, nurses and counselors. These programs train local students,
-bring providers to rural towns and support them in staying long term,
-leading to shorter waits and stronger relationships with care teams. ###
-Health care spending works smarter. By sharing services, buying together and
-focusing on value-based care, clinics can operate more efficiently, helping
-local hospitals stay stable and care remain affordable. ### Pregnant moms
-and babies get extra support. Tools like home blood pressure monitoring,
-telehealth with specialists and better care coordination help spot concerns
-early and support healthy pregnancies and births. ### Schools and kids are
-supported. Investments in physical education, school-based health services
-and Medicaid billing help schools promote student health while keeping
-resources focused on learning. ### Local hospitals stay strong. With better
-staffing, technology and coordination, rural hospitals are better positioned
-to keep their doors open, support local jobs and continue serving their
-communities. ### Bottom line: For people living in rural Oklahoma, this means
-easier access to care, simpler visits, faster help in emergencies and more
-services available nearby. 1. You don’t have to repeat your story every time
+ride scheduling tools and local driver programs make it simpler to get to care,
+helping people keep appointments and stay on track with follow-up visits. ###
+More care is available close to home. Services like behavioral health care,
+high-risk pregnancy support and more are available locally through telehealth,
+shared staff and better technology. ### Communities gain more doctors, nurses
+and counselors. These programs train local students, bring providers to
+rural towns and support them in staying long term, leading to shorter waits
+and stronger relationships with care teams. ### Health care spending works
+smarter. By sharing services, buying together and focusing on value-based
+care, clinics can operate more efficiently, helping local hospitals stay
+stable and care remain affordable. ### Pregnant moms and babies get extra
+support. Tools like home blood pressure monitoring, telehealth with specialists
+and better care coordination help spot concerns early and support healthy
+pregnancies and births. ### Schools and kids are supported. Investments
+in physical education, school-based health services and Medicaid billing
+help schools promote student health while keeping resources focused on
+learning. ### Local hospitals stay strong. With better staffing, technology
+and coordination, rural hospitals are better positioned to keep their
+doors open, support local jobs and continue serving their communities. ###
+Bottom line: For people living in rural Oklahoma, this means easier access
+to care, simpler visits, faster help in emergencies and more services
+available nearby. 1. You don’t have to repeat your story every time
 you see a doctor. 2. Care moves faster when it matters most. 3. Getting to
 appointments is easier. 4. More care is available close to home. 5. Communities
 gain more doctors, nurses and counselors. 6. Health care spending works
@@ -581,22 +580,22 @@ and programs receiving funding can be viewed in the [RHTP Initiatives Summary
 Packet.](https://oklahoma.gov/content/dam/ok/en/health/health2/aem-documents/health-promotion/rhtp/RHTP_InitiativeFundingSummary.pdf)
 1. Innovating the Care Model 2. Moving Upstream 3. Growing the Next-Gen of
 Rural Talent 4. Facilitating Regional Collaboration 5. Shifting to Value
-6. Building Health Data Utility ### Innovating the Care Model Bringing
-care closer to home. This includes telehealth, transportation support,
-expanded care teams and investments in local health infrastructure. ###
-Moving Upstream Strengthening community-led prevention and wellness. This
-includes chronic disease prevention and management programs and supports that
-help people stay healthy. ### Growing the Next Generation of Rural Talent
-Building a stronger workforce pipeline. This includes “grow your own”
-initiatives, training placements and recruitment efforts that bring more
-providers to rural communities. ### Facilitating Regional Collaboration
-Helping local partners share resources and work together on operations,
-technology and coordinated care. ### Shifting to Value Supporting the
-transition to value-based care through technical assistance, infrastructure
-development and quality incentive programs. ### Building Health Data Utility
-Investing in technology that improves data sharing and care coordination,
-including EHR upgrades, interoperability and advanced analytics tools. How
-Oklahoma Shaped the Plan ---------------------------- The RHTP plan reflects
+6. Building Health Data Utility ### Innovating the Care Model Bringing care
+closer to home. This includes telehealth, transportation support, expanded
+care teams and investments in local health infrastructure. ### Moving Upstream
+Strengthening community-led prevention and wellness. This includes chronic
+disease prevention and management programs and supports that help people
+stay healthy. ### Growing the Next Generation of Rural Talent Building a
+stronger workforce pipeline. This includes “grow your own” initiatives,
+training placements and recruitment efforts that bring more providers to
+rural communities. ### Facilitating Regional Collaboration Helping local
+partners share resources and work together on operations, technology
+and coordinated care. ### Shifting to Value Supporting the transition to
+value-based care through technical assistance, infrastructure development
+and quality incentive programs. ### Building Health Data Utility Investing
+in technology that improves data sharing and care coordination, including
+EHR upgrades, interoperability and advanced analytics tools. How Oklahoma
+Shaped the Plan ---------------------------- The RHTP plan reflects
 extensive outreach across the state to better understand needs, priorities
 and opportunities. **Engagement included:** * More than 400 responses to
 a statewide Request for Information * Four listening sessions in regional
@@ -623,7 +622,7 @@ Narrative](https://oklahoma.gov/content/dam/ok/en/health/health2/aem-documents/h
 Narrative](https://oklahoma.gov/content/dam/ok/en/health/health2/aem-documents/health-promotion/rhtp/Project%20Narrative.pdf)
 Contact Information -------------------
 **Email**:[OklahomaRHTP@health.ok.gov](mailto:OklahomaRHTP@health.ok.gov)
-[![Image 6: Health
+[![Image 5: Health
 Home](https://oklahoma.gov/content/dam/ok/en/health/images/homepage-images/OK_Logo_GS_Neg_RGB_Health.png)](https://oklahoma.gov/health.html)[Back
 to top](https://oklahoma.gov/health/rhtp.html# "back-to-top") **Mailing
 Address:** Oklahoma State Department of Health 123 Robert S. Kerr Ave.,
@@ -647,11 +646,8 @@ latest news and events.** Sign Up * [Oklahoma.gov](https://oklahoma.gov/)
 * [Policies](https://oklahoma.gov/about/policy-disclaimers.html) *
 [Accessibility](https://oklahoma.gov/about/accessibility-policy.html)
 * [Feedback](https://oklahoma.gov/about/contactus.html)
-Copyright ©2026 State of Oklahoma ![Image 7:
+Copyright ©2026 State of Oklahoma ![Image 6:
 true](https://insight.adsrvr.org/track/conv/?adv=kwjv59h&ct=0:u3t9nna&fmt=3)![Image
-8:
+7:
 true](https://insight.adsrvr.org/track/evnt/?adv=kwjv59h&ct=0:6163w5g&fmt=3)![Image
-9](https://jelly.mdhv.io/v1/star.gif?pid=TTYBtScSU5dmw8xb744R0zjy8ZoC&src=mh&evt=hi)
-![Image 10](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text Rate this translation Your feedback will be used to help
-improve Google Translate
+8](https://jelly.mdhv.io/v1/star.gif?pid=TTYBtScSU5dmw8xb744R0zjy8ZoC&src=mh&evt=hi)
