@@ -5,8 +5,6 @@ Markdown Content: Rural Health Transformation Program | Ohio Department
 of Health =============== Skip to Main Content Skip to Navigation
 IBM WebSphere Portal An official State of Ohio site.[Here’s how you
 know](https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/rural-health-transformation-program/!ut/p/z1/jY9NC4JAEIZ_Sz9AZo1c8rgIiR9rhEq2l5hDfoDuymQd-vUt3oTK5jbD8w7vAwoqUBqfXYNTZzT2dr8ofs38ULhuwrKQpz47HWURu0xGLOBwXgL7whMW4GWYHPKo2Hmg_smzLyPYWj5eA6zBlmQgG1AjTq3T6dpARQ_C3mlv2NvTRKjvtaFhtnZGMg3hYKup5fMPcjPwo_04lNUrrfNIbDZv6MiB4A!!/#)
-[Learn
-More](https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/rural-health-transformation-program/!ut/p/z1/jY9NC4JAEIZ_Sz9AZo1c8rgIiR9rhEq2l5hDfoDuymQd-vUt3oTK5jbD8w7vAwoqUBqfXYNTZzT2dr8ofs38ULhuwrKQpz47HWURu0xGLOBwXgL7whMW4GWYHPKo2Hmg_smzLyPYWj5eA6zBlmQgG1AjTq3T6dpARQ_C3mlv2NvTRKjvtaFhtnZGMg3hYKup5fMPcjPwo_04lNUrrfNIbDZv6MiB4A!!/#top)
 Language Translation Language Preferences * English This modal enables
 the user to select the language in which to view the content. More
 Languages ### Official websites use Ohio.gov An Ohio.gov website
@@ -20,8 +18,8 @@ standards. Close [Ohio Department of Health![Image 1: Ohio Department of
 Health](https://odh.ohio.gov/static/assets/Logo_Assets/Ohio-Agency-Logo-Department-of-Health-HORZ-RGB_v2.png)![Image
 2: Ohio Department of
 Health](https://odh.ohio.gov/static/assets/Logo_Assets/Ohio-Agency-Logo-Department-of-Health-HORZ-RGB_v2.png)](https://odh.ohio.gov/wps/portal/gov/odh/home)
-Menu * [Home](https://odh.ohio.gov/wps/portal/gov/odh/home) * [Who We Are
-About Us](https://odh.ohio.gov/wps/portal/gov/odh/about-us) * [Information &
+Menu * [Home](https://odh.ohio.gov/wps/portal/gov/odh/home) * [Who We Are About
+Us](https://odh.ohio.gov/wps/portal/gov/odh/about-us) * [Information &
 Programs](https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs)
 * [Health Rules Laws &
 Forms](https://odh.ohio.gov/wps/portal/gov/odh/health-rules-laws-and-forms)
@@ -43,7 +41,7 @@ Content Viewer [![Image
 * [ODH](https://odh.ohio.gov/wps/portal/gov/odh/home) * [Information &
 Programs](https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs)
 * Rural Health Transformation Program ![Image
-5](https://odh.ohio.gov/wps/wcm/connect/gov/4fcc7d36-7412-4e9a-901b-888f040bca36/stetescope---rht.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_K9I401S01H7F40QBNJU3SO1F56-4fcc7d36-7412-4e9a-901b-888f040bca36-pKPukx.)
+5](https://odh.ohio.gov/wps/wcm/connect/gov/4fcc7d36-7412-4e9a-901b-888f040bca36/stetescope---rht.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_JQGCH4S04P41206HNUKVF31000-4fcc7d36-7412-4e9a-901b-888f040bca36-pKPukx.)
 *
 [Welcome](https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/rural-health-transformation-program/welcome)
 * [Solicitation
@@ -53,7 +51,7 @@ Invitations](https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/rural-hea
 * [Join the Rural Health Transformation Project
 Listserv](https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/rural-health-transformation-program/join-rht-project-listserv)
 Rural Health Transformation Pro... ![Image 6: A picture of rural
-Ohio.](https://odh.ohio.gov/wps/wcm/connect/gov/37f505f8-f5ac-4d98-9fe7-7d881083d6ed/rht-banner.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_K9I401S01H7F40QBNJU3SO1F56-37f505f8-f5ac-4d98-9fe7-7d881083d6ed-pKPO7k.)
+Ohio.](https://odh.ohio.gov/wps/wcm/connect/gov/37f505f8-f5ac-4d98-9fe7-7d881083d6ed/rht-banner.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_JQGCH4S04P41206HNUKVF31000-37f505f8-f5ac-4d98-9fe7-7d881083d6ed-pKPO7k.)
 Rural Health Transformation Program ===================================
 The Ohio Rural Health Transformation Program focuses on improving the
 health of rural communities through innovation, strategic partnerships,
@@ -159,7 +157,7 @@ Districts](https://odh.ohio.gov/wps/portal/gov/odh/find-local-health-districts)
 [Medical Records Price
 Index](https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/medical-records-price-index/medicalrecordspriceindex)
 * Powered by![Image 9: Innovate Ohio
-Platform](https://odh.ohio.gov/wps/wcm/connect/gov/41ea7b4e-16cb-4918-b97e-3e7012a6411e/IOP-logo-white%281%29.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_K9I401S01H7F40QBNJU3SO1F56-41ea7b4e-16cb-4918-b97e-3e7012a6411e-op-Qw14)
+Platform](https://odh.ohio.gov/wps/wcm/connect/gov/41ea7b4e-16cb-4918-b97e-3e7012a6411e/IOP-logo-white%281%29.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_JQGCH4S04P41206HNUKVF31000-41ea7b4e-16cb-4918-b97e-3e7012a6411e-op-Qw14)
 * [Privacy Notice and
 Policies](https://odh.ohio.gov/wps/portal/gov/odh/help-center/privacy-notice-and-policies)
 *
