@@ -1,10 +1,9 @@
 Title: Rural Health Transformation URL Source:
-https://www.hhr.virginia.gov/initiatives/rural-health/ Published Time:
-Mon, 24 Nov 2025 19:09:16 GMT Markdown Content: Virginia's Rural Health
-Care Transformation -------------------------------------------
-**About the Initiative** ------------------------
-The **Rural Health Care Transformation**initiative is a
-statewide effort to strengthen health care in Virginia’s rural
+https://www.hhr.virginia.gov/initiatives/rural-health/
+Markdown Content: Virginia's Rural Health Care Transformation
+------------------------------------------- **About the Initiative**
+------------------------ The **Rural Health Care Transformation**initiative
+is a statewide effort to strengthen health care in Virginia’s rural
 communities. Launched under Governor Glenn Youngkin’s [**Executive Directive
 Twelve**](https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/ed/ED-12-Transforming-Rural-Health-and-Supporting-Health-Care-Providers.pdf),
 the initiative will guide Virginia’s application for up to **$1
