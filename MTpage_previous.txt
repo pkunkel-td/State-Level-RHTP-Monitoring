@@ -1,9 +1,8 @@
 Title: Rural Health Transformation Program URL Source:
-https://dphhs.mt.gov/RuralHealthTransformationProgramRFI Published Time:
-Fri, 16 Jan 2026 19:32:39 GMT Markdown Content: Governor Greg Gianforte
-and Department of Public Health and Human Services (DPHHS) Director
-Charlie Brereton announced in December 2025 a historic $233 million
-investment from the Trump administration to stabilize and modernize
+https://dphhs.mt.gov/RuralHealthTransformationProgramRFI Markdown Content:
+Governor Greg Gianforte and Department of Public Health and Human Services
+(DPHHS) Director Charlie Brereton announced in December 2025 a historic $233
+million investment from the Trump administration to stabilize and modernize
 rural health care delivery throughout Montana. Awarded by the Centers for
 Medicare & Medicaid Services' (CMS) Rural Health Transformation Program
 (RHTP), these funds will support improving Montana’s rural health care
@@ -31,11 +30,12 @@ its budget to prioritize high-impact programs with the capacity to absorb
 additional funding. Once the budget is finalized, most funds will be awarded
 through competitive bidding at [bids.mt.gov](https://bids.mt.gov/). Other
 methods include grant applications or inter-agency contracts (e.g.,
-with the Department of Labor & Industry). All funding opportunities will
-be announced at [ruralhealth.mt.gov](https://ruralhealth.mt.gov/)as
-they become available. Next Steps ---------- DPHHS will collaborate
-with rural providers, hospitals, community organizations, and
-other health care stakeholders to deliver five core initiatives
+with the Department of Labor & Industry). If direct funding opportunities
+for communities and providers become available, they will be announced at
+[ruralhealth.mt.gov](https://dphhs.mt.gov/RuralHealthTransformationProgram/ApprovedRHTPInitiatives).
+Next Steps ---------- DPHHS will collaborate with rural
+providers, hospitals, community organizations, and other
+health care stakeholders to deliver five core initiatives
 tailored to Montana's rural health care challenges. The [five core
 initiatives](https://dphhs.mt.gov/RuralHealthTransformationProgram/ApprovedRHTPInitiatives
 "https://test-dphhs.mt.gov/RuralHealthTransformationProgram/ApprovedRHTPInitiatives")
@@ -70,13 +70,13 @@ Health Resources and Services Administration (HRSA) standards, classifying
 within the five metropolitan counties (Cascade, Gallatin, Lewis and Clark,
 Missoula, and Yellowstone) may also qualify. While initiatives must focus
 on rural health, they can include non-rural areas if they significantly
-benefit rural populations. Yes, provided the work demonstrably benefits rural
-communities. Initiatives must focus on rural health but can include non-rural
-regions if the rural impact is clear. Yes. The Department of Public Health
-and Human Services (DPHHS) initiatives submitted on Nov. 5, 2025 are final
-and funded as awarded. Per CMS rules, initiatives cannot be added or removed,
-though the state may adjust funding, goals,
-and timelines within them. [Part of the second
+benefit rural populations. Yes, provided the work demonstrably benefits
+rural communities. Initiatives must focus on rural health but can include
+non-rural regions if the rural impact is clear. Yes. The Department of
+Public Health and Human Services (DPHHS) initiatives submitted on Nov. 5,
+2025 are final and funded as awarded. Per CMS rules, initiatives
+cannot be added or removed, though the state may adjust
+funding, goals, and timelines within them. [Part of the second
 initiative](https://dphhs.mt.gov/RuralHealthTransformationProgram/ApprovedRHTPInitiatives),
 the CoE is a time-bound program providing data-backed, tailored recommendations
 to improve rural health facility sustainability and care delivery. Facilities
