@@ -1,21 +1,5 @@
 Title: Colorado Rural Health Transformation Program URL Source:
-https://hcpf.colorado.gov/rural-health-transformation-program Markdown
-Content: Colorado Rural Health Transformation Program | Department
-of Health Care Policy and Financing =============== [Skip to main
-content](https://hcpf.colorado.gov/rural-health-transformation-program#main-content)
-[![Image 1: Department of Health Care Policy and
-Financing](https://hcpf.colorado.gov/sites/hcpf/files/logo.svg)](https://hcpf.colorado.gov/
-"Department of Health Care Policy and Financing") Search
-Search Menu * [Home](https://hcpf.colorado.gov/home) * [For
-Our Members](https://hcpf.colorado.gov/our-members) * [For Our
-Providers](https://hcpf.colorado.gov/our-providers) * [For Our
-Stakeholders](https://hcpf.colorado.gov/our-stakeholders) * [About
-Us](https://hcpf.colorado.gov/about-us) 1 1. [Home](https://hcpf.colorado.gov/)
-2. [For Our Stakeholders](https://hcpf.colorado.gov/our-stakeholders)
-3. [Committees, Boards, and
-Collaboration](https://hcpf.colorado.gov/committees-boards-and-collaboration)
-4. Colorado Rural Health Transformation Program Colorado Rural Health
-Transformation Program ============================================
+https://hcpf.colorado.gov/rural-health-transformation-program Markdown Content:
 [CMS Announces $50 Billion In Awards to Strengthen Rural Health In All 50
 States!](https://www.cms.gov/newsroom/press-releases/cms-announces-50-billion-awards-strengthen-rural-health-all-50-states)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -67,39 +51,40 @@ recruitment and retention of healthcare providers in rural communities. *
 **Innovative Care** - Spark the growth of innovative care models to improve
 health outcomes, coordinate care, and promote flexible care arrangements. *
 **Tech Innovation** - Foster use of innovative technologies that promote
-efficient care delivery, data security, and access to digital health tools by
-rural facilities, providers, and patients. Rural Health Transformation Program
-Funds Structure --------------------------------------------------- The federal
-funds include $50 billion that will be allocated to approved States over five
-fiscal years and will be split into $10 billion allocations to be distributed
-annually from Federal Fiscal Year (FFY) 2026 to FFY 2030. All 50 states are
-eligible to apply. * Each year, 50% of the $10 billion will be distributed
-evenly to all states with an approved application. * The remaining 50% of the
-annual funding amount will be allocated by CMS based on a variety of factors
-including rural population, the proportion of rural health facilities in the
-State, the situation of certain hospitals in the State, and other factors to
-be specified by CMS and the Notice of Funding Opportunity (NOFO), with fund
-distribution available for no less than 25 percent of approved states. *
-States are not allowed to use this funding as a source of state match for
-additional federal dollars. Timeline -------- * December 31, 2025 - Award
-announcement. * January 2026 - Notice of Award received from CMS. * January
-2026 - States work with CMS to enter into a cooperative agreement: details
-are unknown. * Any decisions of funding distribution and timing cannot be
-made until Colorado meets with CMS and the cooperative agreement is final. *
-Funding for Year 1: December 31, 2025 - September 30, 2027. Application
-Information Included: --------------------------------- * Rural health
-transformation plan with goals delineated in H.R. 1. * Strategies to manage
-long-term financial solvency for rural hospitals. * Identification of specific
-causes driving the accelerating rate of standalone rural hospitals becoming at
-risk of closure, conversion, or service reduction. * A plan to use the funds
-to carry out three or more activities as outlined in the Bill. Next Steps:
------------ * Develop the grantee Intent to Apply and Request for Application
-(RFA) materials. * Continuing to assemble the RHTP Committees. * Details
-regarding the proposed Committees’ structure, membership, and meeting
-schedules will be shared as they become available. Proposed Committee(s)
-Information: ---------------------------------- * The membership of the
-Committees is currently being determined. * The stakeholder comment period for
-the proposed committee governance structure closed at 8:00 p.m. on January
+efficient care delivery, data security, and access to digital health tools
+by rural facilities, providers, and patients. Rural Health Transformation
+Program Funds Structure ---------------------------------------------------
+The federal funds include $50 billion that will be allocated to approved States
+over five fiscal years and will be split into $10 billion allocations to be
+distributed annually from Federal Fiscal Year (FFY) 2026 to FFY 2030. All
+50 states are eligible to apply. * Each year, 50% of the $10 billion will
+be distributed evenly to all states with an approved application. * The
+remaining 50% of the annual funding amount will be allocated by CMS based on a
+variety of factors including rural population, the proportion of rural health
+facilities in the State, the situation of certain hospitals in the State, and
+other factors to be specified by CMS and the Notice of Funding Opportunity
+(NOFO), with fund distribution available for no less than 25 percent of
+approved states. * States are not allowed to use this funding as a source of
+state match for additional federal dollars. Timeline -------- * December 31,
+2025 - Award announcement. * January 2026 - Notice of Award received from
+CMS. * January 2026 - States work with CMS to enter into a cooperative
+agreement: details are unknown. * Any decisions of funding distribution
+and timing cannot be made until Colorado meets with CMS and the cooperative
+agreement is final. * Funding for Year 1: December 31, 2025 - September 30,
+2027. Application Information Included: ---------------------------------
+* Rural health transformation plan with goals delineated in H.R. 1. *
+Strategies to manage long-term financial solvency for rural hospitals. *
+Identification of specific causes driving the accelerating rate of
+standalone rural hospitals becoming at risk of closure, conversion, or
+service reduction. * A plan to use the funds to carry out three or more
+activities as outlined in the Bill. Next Steps: ----------- * Develop the
+grantee Intent to Apply and Request for Application (RFA) materials. *
+Continuing to assemble the RHTP Committees. * Details regarding the
+proposed Committees’ structure, membership, and meeting schedules will
+be shared as they become available. Proposed Committee(s) Information:
+---------------------------------- * The membership of the Committees
+is currently being determined. * The stakeholder comment period for the
+proposed committee governance structure closed at 8:00 p.m. on January
 7th. Twenty-six responses were received, and the following key themes
 emerged: * Committee Size and Effectiveness * Balance of Representation
 (Rural vs. State / Non-Rural) * Eligibility-Based Membership and Insurance
@@ -149,26 +134,4 @@ contact**[**hcpf_rhtp@state.co.us**](mailto:hcpf_rhtp@state.co.us)**at
 least one week prior to the scheduled meeting if you need special
 arrangements.** **People using assistive technology may not be able to
 fully access the information in some files. For assistance, contact Shay
-Lyon at**[**shay.lyon@state.co.us**](mailto:shay.lyon@state.co.us). **Learn
-More** * [**Accessibility**](https://hcpf.colorado.gov/accessibility) *
-[**Nondiscrimination**](https://hcpf.colorado.gov/nondiscrimination-policy) *
-[**Privacy Practices**](https://hcpf.colorado.gov/hipaa) * [**Americans with
-Disabilities Act**](https://hcpf.colorado.gov/americans-disabilities-act)
-* [**Website Feedback**](https://hcpf.colorado.gov/website-feedback)
-* [**Contact Us**](https://hcpf.colorado.gov/contact-hcpf) **Member
-Contact Center** [**1-800-221-3943**](tel:1-800-221-3943)**/State
-Relay: 711** **Our Mission** **Improve health care equity, access
-and outcomes for the people we serve while saving Coloradans money on
-health care and driving value for Colorado.** * [**Department Performance
-Plan**](https://hcpf.colorado.gov/performance-plan) * [**Healthy Colorado
-For All**](https://hcpf.colorado.gov/healthy-colorado-for-all)
-**HCPF Social Media** [![Image 2: LinkedIn
-logo](https://hcpf.colorado.gov/sites/hcpf/files/styles/thumbnail/public/linkedin-icon.png)](https://www.linkedin.com/company/6144207)[![Image
-3: Facebook
-logo](https://hcpf.colorado.gov/sites/hcpf/files/styles/thumbnail/public/facebook-icon_0.png)](https://www.facebook.com/COHCPF)[![Image
-4: Twitter / X
-logo](https://hcpf.colorado.gov/sites/hcpf/files/styles/flexslider_full/public/X_logo_2023.png)](https://twitter.com/CHCPF)
-placeholder * © 2026 State of Colorado * [Transparency
-Online](https://data.colorado.gov/stories/s/fjyf-bdat) * [General
-Notices](https://www.colorado.gov/general-notices) [Colorado Official State
-Web Portal](https://www.colorado.gov/)
+Lyon at**[**shay.lyon@state.co.us**](mailto:shay.lyon@state.co.us).
