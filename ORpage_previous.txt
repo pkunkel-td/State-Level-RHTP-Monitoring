@@ -1,8 +1,9 @@
 Title: Oregon Health Authority : Rural Health Transformation
 Program : Office of Health Policy : State of Oregon URL Source:
 https://www.oregon.gov/oha/hpa/hp/pages/rural-health-transformation.aspx
-Markdown Content: Oregon Health Authority : Rural Health Transformation Program
-: Office of Health Policy : State of Oregon =============== [Skip to main
+Published Time: Sun, 18 Jan 2026 06:56:52 GMT Markdown Content:
+Oregon Health Authority : Rural Health Transformation Program :
+Office of Health Policy : State of Oregon =============== [Skip to main
 content](https://www.oregon.gov/oha/hpa/hp/pages/rural-health-transformation.aspx#main)
 ![Image 1: Oregon State
 Flag](https://images.oregon.gov/Portal/Images/Flags/oregon-flag.jpg)An
@@ -78,8 +79,8 @@ new window)](https://healthcare.oregon.gov/Pages/get-covered.aspx) *
 Schedule](https://www.oregon.gov/oha/HSD/OHP/Pages/Fee-Schedule.aspx)
 * [For Healthcare
 Providers](https://www.oregon.gov/oha/HSD/OHP/Pages/Provider-Splash.aspx) *
-[Preferred Drug List](https://www.oregon.gov/oha/HSD/OHP/Pages/PDL.aspx)
-* [Renew](https://www.oregon.gov/oha/HSD/OHP/Pages/Reapply.aspx) *
+[Preferred Drug List](https://www.oregon.gov/oha/HSD/OHP/Pages/PDL.aspx) *
+[Renew](https://www.oregon.gov/oha/HSD/OHP/Pages/Reapply.aspx) *
 [Benefits](https://www.oregon.gov/oha/HSD/OHP/Pages/Benefits.aspx)
 * [Other Oregon Health Plan Related
 Topics](https://www.oregon.gov/oha/Pages/Portal-OHP-TB.aspx) * [Health System
