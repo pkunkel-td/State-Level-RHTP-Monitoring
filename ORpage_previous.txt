@@ -1,9 +1,8 @@
 Title: Oregon Health Authority : Rural Health Transformation
 Program : Office of Health Policy : State of Oregon URL Source:
 https://www.oregon.gov/oha/hpa/hp/pages/rural-health-transformation.aspx
-Published Time: Mon, 19 Jan 2026 10:57:23 GMT Markdown Content:
-Oregon Health Authority : Rural Health Transformation Program :
-Office of Health Policy : State of Oregon =============== [Skip to main
+Markdown Content: Oregon Health Authority : Rural Health Transformation Program
+: Office of Health Policy : State of Oregon =============== [Skip to main
 content](https://www.oregon.gov/oha/hpa/hp/pages/rural-health-transformation.aspx#main)
 ![Image 1: Oregon State
 Flag](https://images.oregon.gov/Portal/Images/Flags/oregon-flag.jpg)An
@@ -79,8 +78,8 @@ new window)](https://healthcare.oregon.gov/Pages/get-covered.aspx) *
 Schedule](https://www.oregon.gov/oha/HSD/OHP/Pages/Fee-Schedule.aspx)
 * [For Healthcare
 Providers](https://www.oregon.gov/oha/HSD/OHP/Pages/Provider-Splash.aspx) *
-[Preferred Drug List](https://www.oregon.gov/oha/HSD/OHP/Pages/PDL.aspx) *
-[Renew](https://www.oregon.gov/oha/HSD/OHP/Pages/Reapply.aspx) *
+[Preferred Drug List](https://www.oregon.gov/oha/HSD/OHP/Pages/PDL.aspx)
+* [Renew](https://www.oregon.gov/oha/HSD/OHP/Pages/Reapply.aspx) *
 [Benefits](https://www.oregon.gov/oha/HSD/OHP/Pages/Benefits.aspx)
 * [Other Oregon Health Plan Related
 Topics](https://www.oregon.gov/oha/Pages/Portal-OHP-TB.aspx) * [Health System
@@ -593,7 +592,7 @@ websites. Close Hidden Submit **Your browser is out-of-date!** It has
 known **security flaws** and may **not display all features** of this and
 other websites. [Learn how](https://bestvpn.org/outdatedbrowser/en.html)
 [×](https://www.oregon.gov/oha/hpa/hp/pages/rural-health-transformation.aspx#
-"Close") ![Image
-4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+"Close") ![Image 4: Google Translate
+Icon](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 Original text Rate this translation Your feedback will be used to help
 improve Google Translate
