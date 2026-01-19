@@ -13,9 +13,7 @@ website of New York State. Here's how you know Here's how you know Official
 websites use ny.gov A ny.gov website belongs to an official New York State
 government organization. Secure ny.gov websites use HTTPS A lock icon or
 https:// means you’ve safely connected to the ny.gov website. Share
-sensitive information only on official, secure websites. ALERT -----
-[](https://www.health.ny.gov/facilities/transforming_rural_healthcare/#)
-[Navigation
+sensitive information only on official, secure websites. [Navigation
 menu](https://www.health.ny.gov/facilities/transforming_rural_healthcare/#)
 [Department of Health](https://www.health.ny.gov/)
 ================================================== *
