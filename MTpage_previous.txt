@@ -5,11 +5,11 @@ Governor Greg Gianforte and Department of Public Health and Human Services
 million investment from the Trump administration to stabilize and modernize
 rural health care delivery throughout Montana. Awarded by the Centers for
 Medicare & Medicaid Services' (CMS) Rural Health Transformation Program
-(RHTP), these funds will support improving Montana’s rural health care
-providers in delivering sustainable, high-quality affordable care. This
-award reflects the first-year award of a five-year federal grant program,
-with Montana currently set to receive up to $1.2 billion over the life of
-the program. The announcement follows the [successful approval of Montana’s
+(RHTP), these funds will support Montana’s rural health care providers
+in delivering sustainable, high-quality affordable care. This investment
+reflects the first-year award of a five-year federal grant program, with
+Montana currently set to receive up to $1.2 billion over the life of the
+program. The announcement follows the [successful approval of Montana’s
 application](https://dphhs.mt.gov/assets/RuralHealthTransformation/RHTP-Plan.pdf)
 to CMS, which was submitted by DPHHS in November 2025. The state received
 the fourth-highest funding award among all 50 states, signaling the quality
@@ -71,12 +71,12 @@ within the five metropolitan counties (Cascade, Gallatin, Lewis and Clark,
 Missoula, and Yellowstone) may also qualify. While initiatives must focus
 on rural health, they can include non-rural areas if they significantly
 benefit rural populations. Yes, provided the work demonstrably benefits
-rural communities. Initiatives must focus on rural health but can include
-non-rural regions if the rural impact is clear. Yes. The Department of
-Public Health and Human Services (DPHHS) initiatives submitted on Nov. 5,
-2025 are final and funded as awarded. Per CMS rules, initiatives
-cannot be added or removed, though the state may adjust
-funding, goals, and timelines within them. [Part of the second
+rural communities. Initiatives must focus on rural health but can
+include non-rural regions if the rural impact is clear. Yes. The
+Department of Public Health and Human Services (DPHHS) initiatives
+submitted on Nov. 5, 2025 are final and funded as awarded. Per CMS
+rules, initiatives cannot be added or removed, though the state may
+adjust funding, goals, and timelines within them. [Part of the second
 initiative](https://dphhs.mt.gov/RuralHealthTransformationProgram/ApprovedRHTPInitiatives),
 the CoE is a time-bound program providing data-backed, tailored recommendations
 to improve rural health facility sustainability and care delivery. Facilities
