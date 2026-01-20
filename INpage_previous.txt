@@ -272,7 +272,7 @@ by CMS. ![Image 3: FSSA Logo](https://www.in.gov/fssa/images/FSSA_W.png)
 Family and Social Services Administration Social Media ------------ *
 [YouTube](https://www.youtube.com/channel/UCVVvNG3e1fW4gf8ZZYoZNVg "YouTube") *
 [Email](https://cloud.subscription.in.gov/signup?depid=546006736 "Email") *
-[Calendar](https://calendar.in.gov/site/fssa "Calendar") Copyright © 2025
+[Calendar](https://calendar.in.gov/site/fssa "Calendar") Copyright © 2026
 State of Indiana - All rights reserved. Find Information ---------------- *
 [State Information Live Chat](javascript:void(0);) * [Email State Information
 Center](https://in.accessgov.com/idoa/Forms/Page/idoa/ask-sic-a-question/)
@@ -291,12 +291,9 @@ Resources](https://www.in.gov/core/info_employees.html) State Information
 * [Email Updates](https://www.in.gov/core/gov-delivery.html) *
 [Indiana Code](https://iga.in.gov/laws/current/ic/titles/1) *
 [Indiana Administrative Code](http://www.in.gov/legislative/iac/)
-* [Awards](https://www.in.gov/core/awards.html)
-* [Accessibility Settings](javascript:void();
-"Open accessibility tools") * [Report Accessibility
-Issues](https://www.in.gov/core/accessibility-feedback.html) * [Screen Reader -
-Speak](https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/
-"Listen with the ReachDeck Toolbar") ![Image
-4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+* [Awards](https://www.in.gov/core/awards.html) * [Accessibility
+Settings](javascript:void(); "Open accessibility tools") * [Report
+Accessibility Issues](https://www.in.gov/core/accessibility-feedback.html) *
+![Image 4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 Original text Rate this translation Your feedback will be used to help
 improve Google Translate
