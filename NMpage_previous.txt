@@ -1,7 +1,36 @@
 Title: Rural Health Transformation Program – New Mexico Health Care Authority
 URL Source: https://www.hca.nm.gov/rural-health-transformation-program/
-Markdown Content: Rural Health Transformation Program
-– New Mexico Health Care Authority =============== [Skip To
+Markdown Content: Rural Health Transformation Program – New Mexico Health
+Care Authority =============== Manage Cookie Consent We use cookies to
+collect site usage statistics and provide helpful (but not necessary) site
+functionality. Your may may permit or deny cookies on our Cookie Policy
+page. Functional- [x] Functional Always active The technical storage or
+access is strictly necessary for the legitimate purpose of enabling the
+use of a specific service explicitly requested by the subscriber or user,
+or for the sole purpose of carrying out the transmission of a communication
+over an electronic communications network. Preferences- [x] Preferences The
+technical storage or access is necessary for the legitimate purpose of storing
+preferences that are not requested by the subscriber or user. Statistics-
+[x] Statistics The technical storage or access that is used exclusively
+for statistical purposes.The technical storage or access that is used
+exclusively for anonymous statistical purposes. Without a subpoena,
+voluntary compliance on the part of your Internet Service Provider, or
+additional records from a third party, information stored or retrieved
+for this purpose alone cannot usually be used to identify you. Marketing-
+[x] Marketing The technical storage or access is required to create
+user profiles to send advertising, or to track the user on a website
+or across several websites for similar marketing purposes. * [Manage
+options](https://www.hca.nm.gov/calendar/#cmplz-manage-consent-container) *
+[Manage services](https://www.hca.nm.gov/calendar/#cmplz-cookies-overview)
+* [Manage {vendor_count}
+vendors](https://www.hca.nm.gov/calendar/#cmplz-tcf-wrapper) * [Read
+more about these purposes](https://cookiedatabase.org/tcf/purposes/)
+Accept Deny View preferences Save preferences[View
+preferences](https://www.hca.nm.gov/calendar/#cmplz-manage-consent-container)
+* [](https://www.hca.nm.gov/calendar/) * [Privacy
+Statement](https://www.hca.nm.gov/privacy-statement-us-2/) *
+[{title}](https://www.hca.nm.gov/rural-health-transformation-program/#)
+[Skip To
 Content](https://www.hca.nm.gov/rural-health-transformation-program/#et-main-area)
 Main site header ---------------- **[APPLY FOR
 BENEFITS](https://www.yes.state.nm.us/yesnm/home/index "APPLY FOR BENEFITS")**
@@ -127,10 +156,10 @@ Division](https://www.hca.nm.gov/about_the_department/information_technology_div
 * [Medical Assistance
 Division](https://www.hca.nm.gov/medical_assistance_division/) * [MAD
 Contacts](https://www.hca.nm.gov/about_the_department/medical_assistance_division/)
-* [Accomplishments & Awards](https://www.hca.nm.gov/accomplishments-awards/)
-* [Clinical Benefit Review
-Committee](https://www.hca.nm.gov/clinical-benefit-review-committee/)
-* [Medicaid Advisory
+* [Accomplishments &
+Awards](https://www.hca.nm.gov/accomplishments-awards/) * [Clinical Benefit
+Review Committee](https://www.hca.nm.gov/clinical-benefit-review-committee/) *
+[Medicaid Advisory
 Committee](https://www.hca.nm.gov/about_the_department/medicaid-advisory-committee-overview/)
 * [Medicaid Advisory Meetings
 (MAC)](https://www.hca.nm.gov/about_the_department/meetings/)
@@ -390,34 +419,5 @@ Statement](https://www.fns.usda.gov/cr/fns-nondiscrimination-statement)
 * [Site Map](https://www.hca.nm.gov/sitemap/) * [Confidentiality & Privacy
 Statement](https://www.hca.nm.gov/wp-content/uploads/Files/Confidentiality-Privacy-Statement-August-30-2016-English.pdf)
 * [Cookie Policy (US)](https://www.hca.nm.gov/cookie-policy-us/) * [Privacy
-Statement (US)](https://www.hca.nm.gov/privacy-statement-us/) Designed
-and Developed by [RealTimeSolutions](https://www.rtsolutions.com/) Manage
-Cookie Consent We use cookies to collect site usage statistics and provide
-helpful (but not necessary) site functionality. Your may may permit or deny
-cookies on our Cookie Policy page. Functional- [x] Functional Always active
-The technical storage or access is strictly necessary for the legitimate
-purpose of enabling the use of a specific service explicitly requested by the
-subscriber or user, or for the sole purpose of carrying out the transmission
-of a communication over an electronic communications network. Preferences- [x]
-Preferences The technical storage or access is necessary for the legitimate
-purpose of storing preferences that are not requested by the subscriber or
-user. Statistics- [x] Statistics The technical storage or access that is
-used exclusively for statistical purposes.The technical storage or access
-that is used exclusively for anonymous statistical purposes. Without
-a subpoena, voluntary compliance on the part of your Internet Service
-Provider, or additional records from a third party, information stored
-or retrieved for this purpose alone cannot usually be used to identify
-you. Marketing- [x] Marketing The technical storage or access is required
-to create user profiles to send advertising, or to track the user on a
-website or across several websites for similar marketing purposes. * [Manage
-options](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[Manage services](https://www.hca.nm.gov/rural-health-transformation-program/#)
-* [Manage {vendor_count}
-vendors](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
-Accept Deny View preferences Save preferences[View
-preferences](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[{title}](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[{title}](https://www.hca.nm.gov/rural-health-transformation-program/#) *
-[{title}](https://www.hca.nm.gov/rural-health-transformation-program/#)
-Manage consent
+Statement (US)](https://www.hca.nm.gov/privacy-statement-us/) Designed and
+Developed by [RealTimeSolutions](https://www.rtsolutions.com/) Manage consent
