@@ -2,9 +2,12 @@ Title: Indiana Rural Health Transformation
 Program Grant Application Working Group URL Source:
 https://www.in.gov/fssa/policiesinfoforms/indiana-rural-health-transformation-program-grant-application-working-group/
 Published Time: 2025-08-26T16:06:10-04:00 Markdown Content: FSSA:
-Indiana Rural Health Transformation Program Grant Application
-Working Group =============== [An official website of the Indiana State
-Government](https://www.in.gov/) [Accessibility Settings](javascript:void(0);)
+Indiana Rural Health Transformation Program Grant Application Working
+Group =============== Press Option+1 for screen-reader mode, Option+0 to
+cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New
+window](https://accessibe.com/blog/knowledgebase/screen-reader-guide) [An
+official website of the Indiana State Government](https://www.in.gov/)
+[Accessibility Settings](javascript:void(0);)
 Language Translation Powered by [![Image 1: Google
 Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
 [Governor Mike Braun](https://www.in.gov/gov) * [![Image 2: FSSA
@@ -80,8 +83,8 @@ Updates](https://www.in.gov/fssa/rulemaking-notices-and-updates) *
 [Public Notices](https://www.in.gov/fssa/public-notices) * [Security
 Policies](https://www.in.gov/fssa/security-policies) * [FSSA Data &
 Analytics](https://www.in.gov/fssa/fssa-data-and-analytics) * [Medicaid/Public
-Assistance Fraud](https://www.in.gov/fssa/medicaidpublic-assistance-fraud) *
-[Indiana Behavioral Health
+Assistance Fraud](https://www.in.gov/fssa/medicaidpublic-assistance-fraud)
+* [Indiana Behavioral Health
 Commission](https://www.in.gov/fssa/dmha/indiana-behavioral-health-commission)
 * [Contact Us](https://www.in.gov/fssa/contact-us)
 * [Learn More](javascript:void(0);) * [Online Services - Click to
@@ -291,9 +294,10 @@ Resources](https://www.in.gov/core/info_employees.html) State Information
 * [Email Updates](https://www.in.gov/core/gov-delivery.html) *
 [Indiana Code](https://iga.in.gov/laws/current/ic/titles/1) *
 [Indiana Administrative Code](http://www.in.gov/legislative/iac/)
-* [Awards](https://www.in.gov/core/awards.html) * [Accessibility
-Settings](javascript:void(); "Open accessibility tools") * [Report
-Accessibility Issues](https://www.in.gov/core/accessibility-feedback.html) *
-![Image 4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+* [Awards](https://www.in.gov/core/awards.html)
+* [Accessibility Settings](javascript:void();
+"Open accessibility tools") * [Report Accessibility
+Issues](https://www.in.gov/core/accessibility-feedback.html) * Speak ![Image
+4](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
 Original text Rate this translation Your feedback will be used to help
 improve Google Translate
