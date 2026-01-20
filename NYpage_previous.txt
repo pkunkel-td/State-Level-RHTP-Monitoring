@@ -13,7 +13,9 @@ website of New York State. Here's how you know Here's how you know Official
 websites use ny.gov A ny.gov website belongs to an official New York State
 government organization. Secure ny.gov websites use HTTPS A lock icon or
 https:// means you’ve safely connected to the ny.gov website. Share
-sensitive information only on official, secure websites. [Navigation
+sensitive information only on official, secure websites. ALERT -----
+[](https://www.health.ny.gov/facilities/transforming_rural_healthcare/#)
+[Navigation
 menu](https://www.health.ny.gov/facilities/transforming_rural_healthcare/#)
 [Department of Health](https://www.health.ny.gov/)
 ================================================== *
@@ -185,11 +187,12 @@ Language Translations](https://www.ny.gov/website-language-translations)
 * [THREADS](https://threads.net/nysdoh) *
 [BLUESKY](https://bsky.app/profile/nysdoh.bsky.social)
 * [Agencies](https://www.ny.gov/agencies) *
-[App Directory](https://www.ny.gov/mobileapps)
-* [Counties](https://www.ny.gov/counties) *
-[Events](https://www.ny.gov/events) * [Programs](https://www.ny.gov/programs)
-* [Services](https://www.ny.gov/services) ### [Translation
-Services](https://www.ny.gov/web-translation-services)
+[App Directory](https://www.ny.gov/mobileapps) *
+[Counties](https://www.ny.gov/counties) * [Events](https://www.ny.gov/events)
+* [Programs](https://www.ny.gov/programs)
+* [Services](https://www.ny.gov/services)
+[](https://www.health.ny.gov/facilities/transforming_rural_healthcare/) ###
+[Translation Services](https://www.ny.gov/web-translation-services)
 This page is available in other languages *
 [Translate](https://www.health.ny.gov/facilities/transforming_rural_healthcare/)
 * [English](https://health.ny.gov/facilities/transforming_rural_healthcare/) *
