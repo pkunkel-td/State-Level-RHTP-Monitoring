@@ -1,34 +1,14 @@
-Title: Welcome URL Source: https://ruralhealthplan.ky.gov/Pages/index.aspx
-Published Time: Tue, 20 Jan 2026 17:03:30 GMT Markdown Content:
-Team Kentucky Rural Health Transformation =============== [Skip to main
-navigation](https://ruralhealthplan.ky.gov/Pages/index.aspx#mainNavContent)[Skip
-to main content](https://ruralhealthplan.ky.gov/Pages/index.aspx#bodyContent)
-[Ky.gov](http://kentucky.gov/) An Official Website of
-the Commonwealth of Kentucky Team Kentucky Rural Health
-Transformation [![Image 1: Go to home - Team Kentucky Rural Health
-Transformation](https://ruralhealthplan.ky.gov/Style%20Library/agency-logo.svg)](https://ruralhealthplan.ky.gov/)Toggle
-navigation [![Image 2: Go to home - Team Kentucky Rural Health
-Transformation](https://ruralhealthplan.ky.gov/Style%20Library/agency-logo.svg)](https://ruralhealthplan.ky.gov/)
-* [Home](https://ruralhealthplan.ky.gov/) [Read Our Application![Image
-3](https://ruralhealthplan.ky.gov/PublishingImages/Application.jpg)](https://ruralhealthplan.ky.gov/Documents/KY%20RHTP%20Project%20Narrative_CMS-RHT-26-001.pdf)[Notice
-of Award![Image
-4](https://ruralhealthplan.ky.gov/PublishingImages/GrantAwardee.jpg)](https://ruralhealthplan.ky.gov/Documents/NOA_RHTCMS332079-01-00.pdf)[Understand
-Rural Health in Kentucky![Image
-5](https://ruralhealthplan.ky.gov/PublishingImages/RuralHealth.jpg)](https://ruralhealthplan.ky.gov/Documents/KY%20RHTP%20Other%20Supporting%20Documentation_CMS-RHT-26-001.pdf)[Contact
-Us![Image
-6](https://ruralhealthplan.ky.gov/PublishingImages/ContactUs.jpg)](mailto:ruralhealthplan@ky.gov)
-Main Content
+Title: Welcome URL Source:
+https://ruralhealthplan.ky.gov/Pages/index.aspx Markdown Content:
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​Rural
 Health Transformation​
--------------------------------------------------------- The
-Commonwealth of Kentucky has been awarded funding through the Centers
-for Medicare & Medicaid Services (CMS) Rural Health Transformation Fund
-(RHTF). This investment will empower Kentucky to launch and implement
-its Rural Health Transformation Plan (RHTP) — a community-driven
-strategy to expand access and improve health outcomes for rural
-residents across the Commonwealth. [Read Governor Beshear’s press
-release](https://www.kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=2666).
-**** ### **Our Plan** Kentucky’s RHTP launches five interrelated initiatives
+-------------------------------------------------------- The Commonwealth
+of Kentucky has been awarded funding through the Centers for Medicare &
+Medicaid Services (CMS) Rural Health Transformation Fund (RHTF). This
+investment will empower Kentucky to launch and implement its Rural Health
+Transformation Plan (RHTP) — a community-driven strategy to expand access
+and improve health outcomes for rural residents across the Commonwealth. ###
+**Our Plan** Kentucky’s RHTP launches five interrelated initiatives
 designed to build rural health infrastructure and provide sustainable,
 long-term improvements. This plan directly supports Kentucky’s
 rural counties while advancing statewide impact through innovation,
@@ -52,73 +32,39 @@ to Care: Integrated Emergency Medical Services (EMS) Response and
 Coordination:**Enhances pre-hospital capacity and trauma coordination through
 treat-in-place protocols, improved data connectivity and workforce training
 for rural EMS providers. ### About the Program ​The RHTF grant spans five
-budget periods aligned with federal fiscal years (FY2026–FY2030). Funding
-is disbursed annually by CMS based on achievement of performance
-metrics. View the Notice of Funding Opportunity from CMS.​ [Rural Health
-Outcomes](https://ruralhealthplan.ky.gov/Pages/index.aspx#ctl00_ctl00_m_g_df901d45_9db9_4149_9349_6caca144649d_ctl02_AccordionList_ctrl0_Collapse)
-* The Commonwealth of Kentucky is the 10th most rural state in the country,
-with 1.87 million individuals(41.6%) of its total state population residing
-in a rural area as defined by the Health Resources and Services Administration
-(HRSA). Kentucky’s RHTP strategies target five critical rural health priority
-areas that disproportionately affect rural Kentuckians: * **Chronic disease:**
-Seventeen percent of Kentuckians live with multiple chronic conditions,
-compared with 11% nationally. * **Maternal health:**One in six women of
-childbearing age lives in a maternity care desert, over four times the
-national average. * **Behavioral health:** Crisis response often falls to
-first responders and emergency departments, since many rural health areas
-lack sufficient mental health professionals. * **Oral health:** Appalachian
-counties have among the lowest dental visit rates and the highest rates of
-complete tooth loss among seniors. * **Emergency and trauma systems:** Nearly
-half of all paramedics are concentrated in the state’s five largest counties,
-leaving many rural areas without timely response capacity.​ [CMS Strategic
-Goals](https://ruralhealthplan.ky.gov/Pages/index.aspx#ctl00_ctl00_m_g_df901d45_9db9_4149_9349_6caca144649d_ctl02_AccordionList_ctrl1_Collapse)
-* ​Learn more about CMS and its five strategic goals
-by visiting the [CMS.gov Rural Health Transformation Program
+budget periods aligned with federal fiscal years (FY2026–FY2030). Funding is
+disbursed annually by CMS based on achievement of performance metrics. View the
+Notice of Funding Opportunity from CMS.​ * The Commonwealth of Kentucky is
+the 10th most rural state in the country, with 1.87 million individuals(41.6%)
+of its total state population residing in a rural area as defined by the Health
+Resources and Services Administration (HRSA). Kentucky’s RHTP strategies
+target five critical rural health priority areas that disproportionately
+affect rural Kentuckians: * **Chronic disease:** Seventeen percent of
+Kentuckians live with multiple chronic conditions, compared with 11%
+nationally. * **Maternal health:**One in six women of childbearing age
+lives in a maternity care desert, over four times the national average. *
+**Behavioral health:** Crisis response often falls to first responders and
+emergency departments, since many rural health areas lack sufficient mental
+health professionals. * **Oral health:** Appalachian counties have among the
+lowest dental visit rates and the highest rates of complete tooth loss among
+seniors. * **Emergency and trauma systems:** Nearly half of all paramedics are
+concentrated in the state’s five largest counties, leaving many rural areas
+without timely response capacity.​ * ​Learn more about CMS and its five
+strategic goals by visiting the [CMS.gov Rural Health Transformation Program
 website.](https://www.cms.gov/priorities/rural-health-transformation-rht-program/overview)
-[Application
-Timeline](https://ruralhealthplan.ky.gov/Pages/index.aspx#ctl00_ctl00_m_g_df901d45_9db9_4149_9349_6caca144649d_ctl02_AccordionList_ctrl2_Collapse)
 * CMS released [Notice of Funding
-Opportunity​](https://www.grants.gov/search-results-detail/360442):
-September 15, 2025. * Application due: November 5,
-2025. * Awards announced: December 31, 2025. * Program
-begins: Quarter 1 of 2026. [Kentucky’s Rural Health Transformation
-Team](https://ruralhealthplan.ky.gov/Pages/index.aspx#ctl00_ctl00_m_g_df901d45_9db9_4149_9349_6caca144649d_ctl02_AccordionList_ctrl3_Collapse)
-* ​Rural Health Transformation will be guided by an interdisciplinary A 3
-Team (Aspire → Activate → Attain) within the Kentucky Department for Public
-Health, supported by the Cabinet for Health and Family Services agencies
-and external partners. The A 3 Team will coordinate planning, financial
-oversight, and performance management to ensure alignment across CHFS and
-community providers. This approach emphasizes accountability, rapid-cycle
-learning, and local flexibility, allowing communities to adapt models
-to their specific needs while advancing statewide goals. [Thank You for Your
-Support](https://ruralhealthplan.ky.gov/Pages/index.aspx#ctl00_ctl00_m_g_df901d45_9db9_4149_9349_6caca144649d_ctl02_AccordionList_ctrl4_Collapse)
-* ​Public input was critical to shaping Kentucky’s RHTP application. Thank
-you to those who responded to our statewide rural health Request for
-Information (RFI). We look forward to continued stakeholder engagement
-throughout the lifecycle of this program, which aims to center
-rural voices and community-based solutions. ​​​​​​
-R esources * [CMS Rural Health Transformation Program
-Website](https://www.cms.gov/priorities/rural-health-transformation-rht-program/overview)
-* [CMS Notice of Funding
-Opportunity](https://www.grants.gov/search-results-detail/360442)
-* [Governor Beshear Press
-Release​](https://www.kentucky.gov/Pages/Activity-stream.aspx?n=GovernorBeshear&prId=2666)
-* [Kentucky Office of Rural
-Health​](https://medicine.uky.edu/centers/ruralhealth/kentucky-office-rural-health)
-* [Our Healthy Kentucky Home
-Initiative](https://ourhealthykyhome.ky.gov/Pages/index.aspx)
-* [Rural Health Transformation Project
-Summary​](https://ruralhealthplan.ky.gov/Documents/KY%20RHTP%20Project%20Summary_CMS-RHT-26-001.pdf)
-* [Rural Health Transformation Project
-Narrative​](https://ruralhealthplan.ky.gov/Documents/KY%20RHTP%20Project%20Narrative_CMS-RHT-26-001.pdf)
-* [Rural Health Transformation Supporting
-Documentation​](https://ruralhealthplan.ky.gov/Documents/KY%20RHTP%20Other%20Supporting%20Documentation_CMS-RHT-26-001.pdf)​​
-#### Contact the Rural Health Transformation Team at: #####
-[ruralhealthplan@ky.gov​](mailto:ruralhealthplan@ky.gov)​ Relative
-Content ​​ Cabinet for Health and Family Services 275 East Main Street
-Frankfort, Kentucky 40621 [Send an Email](mailto:ruralhealthplan@ky.gov)
-* * * © Commonwealth of Kentucky. All Rights Reserved. *
-[Policies](https://kentucky.gov/policies/Pages/default.aspx) *
-[Security](https://kentucky.gov/policies/Pages/security.aspx) *
-[Disclaimer](https://kentucky.gov/policies/Pages/disclaimer.aspx) *
-[Accessibility](https://kentucky.gov/policies/Pages/accessibility.aspx)
+Opportunity​](https://www.grants.gov/search-results-detail/360442): September
+15, 2025. * Application due: November 5, 2025. * Awards announced: December 31,
+2025. * Program begins: Quarter 1 of 2026. * ​Rural Health Transformation
+will be guided by an interdisciplinary A 3 Team (Aspire → Activate →
+Attain) within the Kentucky Department for Public Health, supported by the
+Cabinet for Health and Family Services agencies and external partners. The A 3
+Team will coordinate planning, financial oversight, and performance management
+to ensure alignment across CHFS and community providers. This approach
+emphasizes accountability, rapid-cycle learning, and local flexibility,
+allowing communities to adapt models to their specific needs while advancing
+statewide goals. * ​Public input was critical to shaping Kentucky’s
+RHTP application. Thank you to those who responded to our statewide rural
+health Request for Information (RFI). We look forward to continued stakeholder
+engagement throughout the lifecycle of this program, which aims to center rural
+voices and community-based solutions. ​​​​​​ R esources ​​
