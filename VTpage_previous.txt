@@ -10,8 +10,8 @@ Logo](https://healthcarereform.vermont.gov/themes/custom/agency_template/assets/
 Agency of Human Services[Health Care
 Reform](https://healthcarereform.vermont.gov/ "Home") Menu ![Image 2:
 close](https://healthcarereform.vermont.gov/themes/custom/agency_template/assets/img/usa-icons/close.svg)
-[Languages](https://healthcarereform.vermont.gov/translate-this-website)
-* [Home](https://healthcarereform.vermont.gov/) * [Health Care Workforce
+[Languages](https://healthcarereform.vermont.gov/translate-this-website) *
+[Home](https://healthcarereform.vermont.gov/) * [Health Care Workforce
 Development](https://healthcarereform.vermont.gov/health-care-workforce)
 * [Health Care Workforce Data
 Center](https://healthcarereform.vermont.gov/health-care-workforce-data-center)
@@ -55,7 +55,10 @@ was posted on September 15th. The application closes in early November,
 with awards expected by . [Rural Health Transformation (RHT) Program |
 CMS](https://www.cms.gov/priorities/rural-health-transformation-rht-program/rural-health-transformation-rht-program)
 * * * ### More information about Vermont's RHTP
-application: [RHTP Application Narrative Click Here to
+application: For questions and comments send us an email
+at[ahs.rht@vermont.gov](mailto:ahs.rht@vermont.gov). If you want updates on the
+RHTP, subscribe to[vt.rht@list.vermont.gov](mailto:vt.rht@list.vermont.gov)
+[RHTP Application Narrative Click Here to
 View](https://healthcarereform.vermont.gov/sites/hcr/files/documents/RHTP%2011-12-2025.pdf)
 [RHTP Application Summary Click Here to
 View](https://healthcarereform.vermont.gov/sites/hcr/files/documents/ahs-summary-RHTF-overview-20251209.pdf)
@@ -69,7 +72,7 @@ Updates](https://healthcarereform.vermont.gov/hr1-weekly-updates)
 notes](https://healthcarereform.vermont.gov/sites/hcr/files/styles/widget_tablet/public/2025-09/patrick-perkins-ETRPjvb0KM0-unsplash.jpg.webp?itok=E4qcPvUC)
 H.R.1 FAQ's View FAQ's](https://healthcarereform.vermont.gov/hr1-faqs)
 H.R.1 Contact Form ------------------ Name First Name Last Name Email
-Organization Questions/Comments CAPTCHA Math question (14 + 6 =) Solve
+Organization Questions/Comments CAPTCHA Math question (3 + 13 =) Solve
 this simple math problem and enter the result. E.g. for 1+3, enter 4. This
 question is for testing whether or not you are a human visitor and to
 prevent automated spam submissions. Contact Information -------------------
