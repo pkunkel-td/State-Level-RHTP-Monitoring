@@ -2,8 +2,8 @@ name: Monitor NM Rural Health Page
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 */8 * * *"   # RUNS EVERY 8 HOURS
+  workflow_dispatch:        # Manual trigger for testing
 
 jobs:
   monitor:
@@ -25,58 +25,90 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          MIRRORS=("https://r.jina.ai/${URL}" "https://www.textise.org/showtext.aspx?strURL=${URL}")
+
+          MIRRORS=(
+            "https://r.jina.ai/${URL}"
+            "https://www.textise.org/showtext.aspx?strURL=${URL}"
+          )
+
+          is_blocked() {
+            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission" "$1"
+          }
+
           FETCH_OK=false
+          > raw.txt || true
+
           for MIRROR in "${MIRRORS[@]}"; do
-            if curl -sL --fail --retry 3 -A "${UA}" "${MIRROR}" > raw.txt; then
-              if ! grep -qiE "Access Denied|403 Forbidden" raw.txt; then
-                FETCH_OK=true; break
+            echo "Attempting mirror: ${MIRROR}"
+            if curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
+              if ! is_blocked raw.txt; then
+                FETCH_OK=true
+                break
               fi
             fi
           done
 
-          if [ "${FETCH_OK}" = "true" ]; then
+          if [ "${FETCH_OK}" = "false" ]; then
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > NMpage_current.txt
+            echo "FETCH_OK=false" >> "$GITHUB_ENV"
+          else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # NM-SPECIFIC CLEANUP:
-            # 1. Strip standard header/footer/nav
-            # 2. Filter out dynamic "Last Updated" timestamps (common on NM government sites)
-            # 3. Focus on the 'entry-content' div or similar main body markers
+            # REINFORCED DE-NOISING FOR NM HCA:
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
-              | sed -E 's/(Updated|Modified|Published):? [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              # 1. Strip dynamic labels: Updated, Modified, Published, and the trailing date
+              | sed -E 's/(Updated|Modified|Published|Reviewed):? [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              # 2. Strip Month DD, YYYY formats (e.g., January 20, 2026)
+              | sed -E 's/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]* [0-9]{1,2},? 202[0-9]//gI' \
+              # 3. Strip numerical dates (MM/DD/YYYY) common in NM CMS
+              | sed -E 's/[0-9]{1,2}(\/|-)[0-9]{1,2}(\/|-)202[0-9]//g' \
+              # 4. Strip NM HCA specific footer copyright and portal noise
               | sed -E 's/(Copyright|All Rights Reserved|HCA 202[4-6]).*//gI' \
+              | sed '/Textise/d' \
+              | grep -vE "Translate|Search|Human Services Department" \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
               > NMpage_current.txt
-          else
-            echo "FETCH_OK=false" >> "$GITHUB_ENV"
           fi
 
       - name: Compare and Heartbeat
+        id: check
+        shell: bash
         run: |
-          echo "Last checked: $(date -u)" > NMheartbeat.txt
-          [ -f NMpage_previous.txt ] && prev=$(sha256sum NMpage_previous.txt | cut -d' ' -f1) || prev="none"
-          curr=$(sha256sum NMpage_current.txt | cut -d' ' -f1)
-          if [ "$curr" != "$prev" ]; then 
+          set -euo pipefail
+          echo "Last checked at: $(date -u)" > NMheartbeat.txt
+          
+          [ -f NMpage_previous.txt ] && prev_hash=$(sha256sum NMpage_previous.txt | cut -d' ' -f1) || prev_hash="none"
+          current_hash=$(sha256sum NMpage_current.txt | cut -d' ' -f1)
+
+          if [ "${current_hash}" != "${prev_hash}" ]; then
             echo "CHANGED=true" >> "$GITHUB_ENV"
             mv NMpage_current.txt NMpage_previous.txt
-          else 
+          else
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
 
-      - name: Commit and Push
+      - name: Commit and Push (Collision Protection)
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add NMheartbeat.txt
-          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then 
-            git add NMpage_previous.txt && git commit -m "ALARM: NM Content Change"
-          else 
-            git commit -m "NM RHT: Heartbeat"
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            git add NMpage_current.txt || true
+            git commit -m "NM RHT: Fetch failed"
+          elif [ "${CHANGED}" = "true" ]; then
+            git add NMpage_previous.txt
+            git commit -m "ALARM: NM Content Change Detected"
+          else
+            git commit -m "NM RHT: Heartbeat (No changes)"
           fi
+
           git pull --rebase origin main
           git push
