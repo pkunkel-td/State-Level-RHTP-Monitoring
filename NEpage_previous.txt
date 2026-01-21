@@ -378,7 +378,10 @@ Death](https://dhhs.ne.gov/Pages/vital-records.aspx#fetaldeathcertificate) *
 ![Image 12: decorative border for the drop down
 menu](https://dhhs.ne.gov/style%20library/masterpageassets/images/megamenu-swoosh.png)
 [A-Z
-Index](https://dhhs.ne.gov/Pages/A-Z-Index.aspx)[News](https://dhhs.ne.gov/Pages/News-Releases.aspx)[](javascript:void(0))
+Index](https://dhhs.ne.gov/Pages/A-Z-Index.aspx)[News](https://dhhs.ne.gov/Pages/News-Releases.aspx)[![Image
+13](https://www.google.com/images/cleardot.gif)[Select
+Language![Image 14](https://www.google.com/images/cleardot.gif)​![Image
+15](https://www.google.com/images/cleardot.gif)▼](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)](javascript:void(0))
 [Open
 filters/menu](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx)[Hide
 filters/menu](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx)
@@ -386,12 +389,12 @@ filters/menu](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx)
 Recent Rural Health Transformation [page description](javascript:;)
 ================================================================
 [](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx) Share ![Image
-13](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/share-nodes.svg)[![Image
-14: facebook
+16](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/share-nodes.svg)[![Image
+17: facebook
 icon](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/square-facebook.svg)](https://www.facebook.com/share.php?u=https://dhhs.ne.gov//Pages/Rural-Health-Transformation.aspx
-"Share webpage to Facebook")[![Image 15: x
+"Share webpage to Facebook")[![Image 18: x
 icon](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/x-twitter-square-icon.svg)](http://twitter.com/share?&url=https://dhhs.ne.gov//Pages/Rural-Health-Transformation.aspx
-"Share webpage to Twitter")[![Image 16: copy action
+"Share webpage to Twitter")[![Image 19: copy action
 icon](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/copy-light.svg)](javascript:void(0)
 "Copy webpage link to Clipboard") No No What would you like to
 do? -------------------------- What you need to know ---------------------
@@ -460,12 +463,12 @@ applications by this date. Why RHT Program Funding Matters for Nebraska
 liv​​ing in rural areas, RHT program funding ​​has the potential to
 make a significant impact in our state. 88 out of Nebraska's 93 counties are
 rural, with 30 of these​classified as frontier counties.​ ​ ![Image
-17: More - Use this on pages as an alternative to tiles webpart if deemed
+20: More - Use this on pages as an alternative to tiles webpart if deemed
 necessary.](https://dhhs.ne.gov/_layouts/15/WAT_SPS_SiteNavigationWebPart/site-navigation-icon.svg)More
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Navigation List Name [Back to Medicaid
 Homepage](https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care.aspx
-"Medicaid Homepage") ![Image 18: More - Use
+"Medicaid Homepage") ![Image 21: More - Use
 this on pages as an alternative to tiles webpart if deemed
 necessary.](https://dhhs.ne.gov/_layouts/15/WAT_SPS_SiteNavigationWebPart/site-navigation-icon.svg)More
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -493,7 +496,7 @@ Requirements](https://dhhs.ne.gov/Pages/WorkRequirements.aspx) ©
 Mall South, Lincoln, Nebraska 68509 (402) 471-3121 TDD (800)
 833-7352 [Contact Us](https://dhhs.ne.gov/Pages/Contact-DHHS.aspx)
 [](https://www.facebook.com/NEDHHS/ "facebook page")[![Image
-19](https://dhhs.ne.gov/Style%20Library/MasterPageAssets/images/x-twitter-white.svg)](https://www.twitter.com/NEDHHS
+22](https://dhhs.ne.gov/Style%20Library/MasterPageAssets/images/x-twitter-white.svg)](https://www.twitter.com/NEDHHS
 "twitter feed")[](https://www.youtube.com/NebraskaDHHS "youtube
 channel")[](https://www.linkedin.com/company/nebraska-department-of-health-and-human-services
 "linked in page")[](https://www.instagram.com/nebraska_dhhs/
@@ -505,3 +508,6 @@ Policy](https://www.nebraska.gov/policies.html) * [Non Discrimination &
 Language Assistance](https://dhhs.ne.gov/Pages/Non-Discrimination-Notice.aspx)
 * [General Disclaimer](https://dhhs.ne.gov/Pages/disclaim.aspx) *
 [HIPAA](https://dhhs.ne.gov/Pages/HIPAA.aspx) Helping People Live Better Lives
+![Image 23](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text Rate this translation Your feedback will be used to help
+improve Google Translate
