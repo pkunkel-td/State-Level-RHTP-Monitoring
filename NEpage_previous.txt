@@ -1,30 +1,33 @@
 Title: Rural Health Transformation URL Source:
 https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx
-Published Time: Wed, 21 Jan 2026 21:01:01 GMT Markdown Content:
-Rural Health Transformation =============== [Turn on more accessible
-mode](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
+Markdown Content: Rural Health Transformation =============== ![Image
+1](https://dhhs.ne.gov/Style%20Library/masterpageassets/images/favicon.ico)![Image
+2](https://dhhs.ne.gov/_layouts/15/images/spcommon.png) [Turn on more
+accessible mode](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
 [Turn off more accessible
 mode](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) [Skip
 Ribbon Commands](javascript:;) [Skip to main content](javascript:;) [Turn off
 Animations](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) [Turn
 on Animations](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
-[hidden anchor](javascript:;) [![Image 1: Nebraska DHHS
+[hidden anchor](javascript:;)[Sign
+In](https://dhhs.ne.gov/_layouts/15/Authenticate.aspx?Source=%2FPages%2FRural%2DHealth%2DTransformation%2Easpx)
+[![Image 3: Nebraska DHHS
 logo](https://dhhs.ne.gov/style%20library/MasterPageAssets/images/dhhs-logo-light-only-title.png)](https://dhhs.ne.gov/)
 [menu](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx)
-[![Image 2: Nebraska DHHS logo for large screen
+[![Image 4: Nebraska DHHS logo for large screen
 width](https://dhhs.ne.gov/style%20library/masterpageassets/images/nebraska-state-logo-modified.png)![Image
-3: Nebraska DHHS logo for screen widths ranging from laptop to
+5: Nebraska DHHS logo for screen widths ranging from laptop to
 tablets](https://dhhs.ne.gov/Style%20Library/MasterPageAssets/images/dhhs-logo-light-only-title.png)
 Department of Health and Human Services](https://dhhs.ne.gov/ "Nebraska
-Department of Health and Human Services website Home Page") [![Image 4:
-Search](blob:http://localhost/c9d77138fa5cc36d244686aef32f09f6)](javascript:
-{} "Pick where to search")[![Image 5:
-Search](blob:http://localhost/c9d77138fa5cc36d244686aef32f09f6)](javascript:
+Department of Health and Human Services website Home Page") [![Image 6:
+Search](https://dhhs.ne.gov/_layouts/15/images/searchresultui.png?rev=43#ThemeKey=searchresultui)](javascript:
+{} "Pick where to search")[![Image 7:
+Search](https://dhhs.ne.gov/_layouts/15/images/searchresultui.png?rev=43#ThemeKey=searchresultui)](javascript:
 {} "Search") [close](javascript:void(0)) * [Administration &
-Support](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
-* [About Us](https://dhhs.ne.gov/Pages/about-dhhs.aspx) * [DHHS
-Leadership](https://dhhs.ne.gov/Pages/DHHS-Leadership.aspx) * [History
-of DHHS](https://dhhs.ne.gov/Pages/DHHS-History.aspx) * [Organization
+Support](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
+[About Us](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
+* [DHHS Leadership](https://dhhs.ne.gov/Pages/DHHS-Leadership.aspx) *
+[History of DHHS](https://dhhs.ne.gov/Pages/DHHS-History.aspx) * [Organization
 Structure](https://dhhs.ne.gov/Pages/Organizational-Structure.aspx) * [Overview
 of DHHS](https://public-dhhs.ne.gov/Forms/DisplayPDF.aspx?item=1846)
 * [Values and Core
@@ -32,7 +35,8 @@ Competencies](https://dhhs.ne.gov/Documents/SupervisorValues-CoreCompetencies.pd
 * [Useful Links For
 Employees](https://dhhs.ne.gov/Pages/Employee-Useful-Links.aspx)
 * [more +](https://dhhs.ne.gov/Pages/about-dhhs.aspx) * [Contact
-Us](https://dhhs.ne.gov/Pages/contact-dhhs.aspx) * [Administrative
+Us](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
+* [Administrative
 Contacts](https://dhhs.ne.gov/Documents/AdministrativeContacts.pdf) * [Concerns
 or Complaints](https://dhhs.ne.gov/Pages/Complaints.aspx) * [Local DHHS
 Offices](https://dhhs.ne.gov/Pages/Public-Assistance-Offices.aspx) * [Local
@@ -51,12 +55,13 @@ Programs](https://dhhs.ne.gov/Pages/Rural-Health.aspx) *
 [Legislation](https://dhhs.ne.gov/Pages/Legislation.aspx) *
 [Regulations](https://dhhs.ne.gov/Pages/DHHS-Regulations.aspx) * [Reports
 and Statistics](https://dhhs.ne.gov/Pages/Reports-and-Statistics.aspx)
-![Image 6: decorative border for the drop down
+![Image 8: decorative border for the drop down
 menu](https://dhhs.ne.gov/style%20library/masterpageassets/images/megamenu-swoosh.png)
 * [Divisions &
 Offices](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
 * [Division of Behavioral
-Health](https://dhhs.ne.gov/Pages/Behavioral-Health.aspx) * [Treatment and
+Health](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
+* [Treatment and
 Recovery](https://dhhs.ne.gov/Pages/Addiction-Treatment-and-Recovery.aspx)
 * [Consumer Advocacy / Consumer
 Affairs](https://dhhs.ne.gov/Pages/Consumer-Advocacy.aspx) *
@@ -72,8 +77,8 @@ List](https://dhhs.ne.gov/Pages/Committed-Persons-Firearm-Disability-Relief.aspx
 * [Reports](https://dhhs.ne.gov/Pages/Behavioral-Health-Reports.aspx)
 * [more +](https://dhhs.ne.gov/Pages/Behavioral-Health.aspx)
 * [Division of Children and Family
-Services](https://dhhs.ne.gov/Pages/Children-and-Family-Services.aspx)
-* [Abuse and Neglect Central Registry /
+Services](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
+[Abuse and Neglect Central Registry /
 Expungements](https://dhhs.ne.gov/Pages/Abuse-and-Neglect-Central-Registry.aspx)
 * [Children and Family
 Assistance](https://dhhs.ne.gov/Pages/Children-and-Family-Services.aspx)
@@ -83,7 +88,7 @@ Protective Services](https://dhhs.ne.gov/Pages/Adult-Protective-Services.aspx)
 [Reports](https://dhhs.ne.gov/Pages/Children-and-Family-Services-Reports.aspx)
 * [more +](https://dhhs.ne.gov/Pages/Children-and-Family-Services.aspx)
 * [Division of Developmental
-Disabilities](https://dhhs.ne.gov/Pages/Developmental-Disabilities.aspx)
+Disabilities](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
 * [Eliminating the DD
 Waitlist](https://dhhs.ne.gov/Pages/DD-Wait-List.aspx) * [Participants &
 Families](https://dhhs.ne.gov/Pages/DD-Participants-and-Families.aspx)
@@ -99,7 +104,7 @@ Center](https://dhhs.ne.gov/Pages/Beatrice-State-Developmental-Center.aspx)
 [Reports](https://dhhs.ne.gov/Pages/Developmental-Disabilities-Reports.aspx) *
 [more +](https://dhhs.ne.gov/Pages/Developmental-Disabilities.aspx)
 * [Division of Medicaid & Long-Term
-Care](https://dhhs.ne.gov/Pages/medicaid-and-long-term-care.aspx) *
+Care](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
 [Report Medicaid Provider Allegations](https://mltcmpi-dhhs.ne.gov/) *
 [Clients](https://dhhs.ne.gov/Pages/Medicaid-Clients.aspx)
 * [Client Eligibility
@@ -107,9 +112,10 @@ Verification](https://dhhs.ne.gov/Pages/Medicaid-Provider-Client-Eligibility-Ver
 * [General
 Information](https://dhhs.ne.gov/Pages/General-Medicaid-Information.aspx)
 * [Providers](https://dhhs.ne.gov/Pages/Medicaid-Providers.aspx) *
-[Reports](https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care-Reports.aspx)
-* [more +](https://dhhs.ne.gov/Pages/medicaid-and-long-term-care.aspx) *
-[Division of Public Health](https://dhhs.ne.gov/Pages/public-health.aspx) *
+[Reports](https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care-Reports.aspx) *
+[more +](https://dhhs.ne.gov/Pages/medicaid-and-long-term-care.aspx)
+* [Division of Public
+Health](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
 [Licensing](https://dhhs.ne.gov/licensure/Pages/Licensing-Home-Page.aspx)
 * [Investigations/File a
 Complaint](https://dhhs.ne.gov/Pages/Investigations.aspx)
@@ -123,10 +129,10 @@ Disparities](https://dhhs.ne.gov/Pages/Health-Disparities.aspx) * [Rural
 Health](https://dhhs.ne.gov/Pages/Rural-Health.aspx) * [Lifespan Health
 Services](https://dhhs.ne.gov/Pages/Lifespan-Health-Services.aspx)
 * [Nebraska Public Health
-Atlas](https://dhhs.ne.gov/Pages/Nebraska-Public-Health-Atlas.aspx)
-* [Reports](https://dhhs.ne.gov/Pages/Public-Health-Reports.aspx) *
-[more +](https://dhhs.ne.gov/Pages/public-health.aspx) * [Office of
-Economic Assistance](https://dhhs.ne.gov/Pages/economic-assistance.aspx)
+Atlas](https://dhhs.ne.gov/Pages/Nebraska-Public-Health-Atlas.aspx) *
+[Reports](https://dhhs.ne.gov/Pages/Public-Health-Reports.aspx) * [more
++](https://dhhs.ne.gov/Pages/public-health.aspx) * [Office of Economic
+Assistance](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
 * [Food Assistance](https://dhhs.ne.gov/Pages/SNAP.aspx) * [Child
 Care](https://dhhs.ne.gov/Pages/Child-Care-Subsidy.aspx) * [Child
 Support](https://dhhs.ne.gov/Pages/child-support.aspx) * [Energy
@@ -135,7 +141,7 @@ Assistance](https://dhhs.ne.gov/Pages/Energy-Assistance.aspx)
 Children](https://dhhs.ne.gov/Pages/TANF.aspx) * [Assistance for Aged, Blind, &
 Disabled](https://dhhs.ne.gov/Pages/Support-for-Seniors-and-People-with-Disabilities.aspx)
 * [more +](https://dhhs.ne.gov/Pages/economic-assistance.aspx)
-![Image 7: decorative border for the drop down
+![Image 9: decorative border for the drop down
 menu](https://dhhs.ne.gov/style%20library/masterpageassets/images/megamenu-swoosh.png)
 * [Licensing &
 Regulations](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
@@ -185,7 +191,7 @@ Notices](https://dhhs.ne.gov/licensure/Pages/Hearing-Schedule-of-Contested-Cases
 Training](https://dhhs.ne.gov/Pages/Health-Navigation.aspx) * [Worker Health
 and Safety](https://dhhs.ne.gov/Pages/Occupational-Health.aspx) * [More on
 Licensing>](https://dhhs.ne.gov/licensure/Pages/Licensing-Home-Page.aspx)
-![Image 8: decorative border for the drop down
+![Image 10: decorative border for the drop down
 menu](https://dhhs.ne.gov/style%20library/masterpageassets/images/megamenu-swoosh.png)
 * [Assistance
 Programs](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
@@ -197,8 +203,9 @@ Grant](https://dhhs.ne.gov/Pages/Community-Service-Block-Grant.aspx)
 * [Military Families &
 Veterans](https://dhhs.ne.gov/Pages/Military-Families.aspx) * [Respite
 Services](https://dhhs.ne.gov/Pages/Respite.aspx) * [Teen Bridge to
-Independence](https://dhhs.ne.gov/Pages/Bridge-to-Independence.aspx) *
-[Economic Assistance](https://dhhs.ne.gov/Pages/economic-assistance.aspx) *
+Independence](https://dhhs.ne.gov/Pages/Bridge-to-Independence.aspx)
+* [Economic
+Assistance](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
 [Aid to Dependent Children (ADC)](https://dhhs.ne.gov/Pages/TANF.aspx) *
 [Child Support](https://dhhs.ne.gov/Pages/child-support.aspx) * [Emergency
 Cash Assistance](https://dhhs.ne.gov/Pages/Emergency-Assistance.aspx) *
@@ -207,11 +214,12 @@ Cash Assistance](https://dhhs.ne.gov/Pages/Emergency-Assistance.aspx) *
 [SNAP (Food Stamps)](https://dhhs.ne.gov/Pages/SNAP.aspx) * [Women
 Infants & Children (WIC)](https://dhhs.ne.gov/Pages/WIC.aspx)
 * [more +](https://dhhs.ne.gov/Pages/economic-assistance.aspx) *
-[Disabilities](https://dhhs.ne.gov/Pages/disabilities.aspx) * [Aged, Blind, or
-Disabled (AABD)](https://dhhs.ne.gov/Pages/Aged-Blind-or-Disabled.aspx)
+[Disabilities](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
+* [Aged, Blind, or Disabled
+(AABD)](https://dhhs.ne.gov/Pages/Aged-Blind-or-Disabled.aspx)
 * [Beatrice State Developmental
-Center](https://dhhs.ne.gov/Pages/Beatrice-State-Developmental-Center.aspx)
-* [Developmental Disabilities
+Center](https://dhhs.ne.gov/Pages/Beatrice-State-Developmental-Center.aspx) *
+[Developmental Disabilities
 Division](https://dhhs.ne.gov/Pages/Developmental-Disabilities.aspx)
 * [Developmental Disabilities
 Council](https://dhhs.ne.gov/pages/DD-Planning-Council.aspx)
@@ -224,7 +232,7 @@ Council](https://dhhs.ne.gov/pages/DD-Planning-Council.aspx)
 * [Special Health Care
 Needs](https://dhhs.ne.gov/Pages/Special-Health-Care-Needs.aspx) *
 [more +](https://dhhs.ne.gov/Pages/disabilities.aspx) * [Medicaid
-Related](https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care.aspx)
+Related](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
 * [Aged & Disabled (AD
 Waiver)](https://dhhs.ne.gov/Pages/Medicaid-Aged-and-Disabled-Waiver.aspx)
 * [Assisted Living
@@ -239,13 +247,13 @@ Modification](https://dhhs.ne.gov/Pages/Medicaid-Aged-and-Disabled-Waiver.aspx)
 Client Information](https://dhhs.ne.gov/Pages/Medicaid-Clients.aspx) *
 [Medicaid Eligibility](https://dhhs.ne.gov/Pages/Medicaid-Eligibility.aspx) *
 [more +](https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care.aspx)
-![Image 9: decorative border for the drop down
+![Image 11: decorative border for the drop down
 menu](https://dhhs.ne.gov/style%20library/masterpageassets/images/megamenu-swoosh.png)
 * [Children, Families &
 Seniors](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
-[Children](https://dhhs.ne.gov/Pages/Caring-for-Children.aspx) * [Adolescent
-Health](https://dhhs.ne.gov/Pages/Adolescent-Health.aspx) * [Car Seat
-Training](https://dhhs.ne.gov/Pages/Safe-Kids-Car-Seat-Training.aspx)
+[Children](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
+[Adolescent Health](https://dhhs.ne.gov/Pages/Adolescent-Health.aspx) * [Car
+Seat Training](https://dhhs.ne.gov/Pages/Safe-Kids-Car-Seat-Training.aspx)
 * [Child Abuse](https://dhhs.ne.gov/Pages/Child-Abuse.aspx) * [Child
 Care](https://dhhs.ne.gov/Pages/Child-Care-Parents.aspx) * [Child
 Support](https://dhhs.ne.gov/Pages/Child-Support.aspx) * [Children's Health
@@ -286,15 +294,16 @@ Services](https://dhhs.ne.gov/Pages/Medicaid-Aged-and-Disabled-Waiver.aspx)
 Meals](https://dhhs.ne.gov/Pages/Medicaid-Aged-and-Disabled-Waiver.aspx) *
 [Long-Term Care](https://dhhs.ne.gov/Pages/Medicaid-And-Long-Term-Care.aspx) *
 [Long-Term Care Ombudsman](https://dhhs.ne.gov/Pages/Aging-Ombudsman.aspx)
-![Image 10: decorative border for the drop down
+![Image 12: decorative border for the drop down
 menu](https://dhhs.ne.gov/style%20library/masterpageassets/images/megamenu-swoosh.png)
 * [Public Data](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
-[Public Data Homepage](https://dhhs.ne.gov/Pages/Public-Data.aspx) * [Health
-& Wellness](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
-[Diseases & Conditions](https://dhhs.ne.gov/Pages/Diseases-And-Conditions.aspx)
-* [Alzheimer’s](https://dhhs.ne.gov/Pages/Aging-Alzheimers-and-Dementia.aspx)
-* [Cancer](https://dhhs.ne.gov/Pages/Cancer.aspx) * [Chronic
-Disease Prevention](https://dhhs.ne.gov/Pages/Chronic-Disease.aspx) *
+[Public Data Homepage](https://dhhs.ne.gov/Pages/Public-Data.aspx) * [Health &
+Wellness](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
+* [Diseases &
+Conditions](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#) *
+[Alzheimer’s](https://dhhs.ne.gov/Pages/Aging-Alzheimers-and-Dementia.aspx) *
+[Cancer](https://dhhs.ne.gov/Pages/Cancer.aspx) * [Chronic Disease
+Prevention](https://dhhs.ne.gov/Pages/Chronic-Disease.aspx) *
 [Concussion](https://dhhs.ne.gov/Pages/Concussion.aspx) * [Coronavirus
 (COVID-19)](https://dhhs.ne.gov/Pages/Seasonal-Respiratory-Diseases.aspx) *
 [Flu](https://dhhs.ne.gov/Pages/Seasonal-Respiratory-Diseases.aspx)
@@ -306,9 +315,9 @@ Transmitted Disease](https://dhhs.ne.gov/Pages/STD-Prevention.aspx)
 * [Tuberculosis](https://dhhs.ne.gov/Pages/Tuberculosis.aspx) *
 [West Nile Virus](https://dhhs.ne.gov/Pages/west-nile-virus.aspx)
 * [Hepatitis](https://dhhs.ne.gov/Pages/Hepatitis.aspx) * [more
-+](https://dhhs.ne.gov/Pages/Diseases-And-Conditions.aspx)
-* [Safety](https://dhhs.ne.gov/Pages/Safety.aspx) *
-[Asbestos](https://dhhs.ne.gov/Pages/Asbestos.aspx) * [Disasters &
++](https://dhhs.ne.gov/Pages/Diseases-And-Conditions.aspx) *
+[Safety](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
+* [Asbestos](https://dhhs.ne.gov/Pages/Asbestos.aspx) * [Disasters &
 Emergencies](https://dhhs.ne.gov/Pages/Emergency-Response.aspx)
 * [Emergency Medical Services
 (EMS)](https://dhhs.ne.gov/Pages/Emergency-Health-Systems.aspx) * [Health
@@ -329,8 +338,9 @@ Care](https://ne.networkofcare.org/splash.aspx?state=nebraska) *
 (CISM)](https://dhhs.ne.gov/Pages/EHS-Critical-Incident-Stress-Management.aspx)
 * [Mental Health
 Commitment](https://dhhs.ne.gov/Pages/Mental-Health-Commitment.aspx) * [Suicide
-Prevention](https://dhhs.ne.gov/Pages/988-Suicide-and-Crisis-Lifeline.aspx) *
-[Wellness & Prevention](https://dhhs.ne.gov/Pages/Wellness-And-Prevention.aspx)
+Prevention](https://dhhs.ne.gov/Pages/988-Suicide-and-Crisis-Lifeline.aspx)
+* [Wellness &
+Prevention](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
 * [Breastfeeding](https://dhhs.ne.gov/Pages/Breastfeeding.aspx)
 * [Community Health and Performance
 Management](https://dhhs.ne.gov/Pages/Community-Health-and-Performance-Management.aspx)
@@ -349,10 +359,11 @@ Departments](https://dhhs.ne.gov/Pages/Local-Health-Departments.aspx) *
 Recovery](https://dhhs.ne.gov/Pages/Addiction-Treatment-and-Recovery.aspx) *
 [Opioids (PDMP)](https://dhhs.ne.gov/Pages/Drug-Overdose-Prevention.aspx)
 * [Tobacco](https://dhhs.ne.gov/Pages/Tobacco-Free-Nebraska.aspx)
-![Image 11: decorative border for the drop down
+![Image 13: decorative border for the drop down
 menu](https://dhhs.ne.gov/style%20library/masterpageassets/images/megamenu-swoosh.png)
 * [Vital Records](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
-* [Certificates](https://dhhs.ne.gov/Pages/vital-records.aspx) * [Birth
+* [Certificates](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)
+* [Birth
 Certificates](https://dhhs.ne.gov/Pages/vital-records.aspx#birthcertificate)
 * [Death
 Certificates](https://dhhs.ne.gov/Pages/vital-records.aspx#deathcertificate)
@@ -376,13 +387,10 @@ Request](https://dhhs.ne.gov/Pages/Former-Wards-Personal-Records.aspx)
 * [Stillbirth / Fetal
 Death](https://dhhs.ne.gov/Pages/vital-records.aspx#fetaldeathcertificate) *
 [Statistics and Reports](https://dhhs.ne.gov/Pages/Reports-and-Statistics.aspx)
-![Image 12: decorative border for the drop down
+![Image 14: decorative border for the drop down
 menu](https://dhhs.ne.gov/style%20library/masterpageassets/images/megamenu-swoosh.png)
 [A-Z
-Index](https://dhhs.ne.gov/Pages/A-Z-Index.aspx)[News](https://dhhs.ne.gov/Pages/News-Releases.aspx)[![Image
-13](https://www.google.com/images/cleardot.gif)[Select
-Language![Image 14](https://www.google.com/images/cleardot.gif)​![Image
-15](https://www.google.com/images/cleardot.gif)▼](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx#)](javascript:void(0))
+Index](https://dhhs.ne.gov/Pages/A-Z-Index.aspx)[News](https://dhhs.ne.gov/Pages/News-Releases.aspx)[](javascript:void(0))
 [Open
 filters/menu](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx)[Hide
 filters/menu](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx)
@@ -390,12 +398,12 @@ filters/menu](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx)
 Recent Rural Health Transformation [page description](javascript:;)
 ================================================================
 [](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx) Share ![Image
-16](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/share-nodes.svg)[![Image
-17: facebook
-icon](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/square-facebook.svg)](https://www.facebook.com/share.php?u=https://dhhs.ne.gov//Pages/Rural-Health-Transformation.aspx
-"Share webpage to Facebook")[![Image 18: x
-icon](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/x-twitter-square-icon.svg)](http://twitter.com/share?&url=https://dhhs.ne.gov//Pages/Rural-Health-Transformation.aspx
-"Share webpage to Twitter")[![Image 19: copy action
+15](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/share-nodes.svg)[![Image
+16: facebook
+icon](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/square-facebook.svg)](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx
+"Share webpage to Facebook")[![Image 17: x
+icon](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/x-twitter-square-icon.svg)](https://dhhs.ne.gov/Pages/Rural-Health-Transformation.aspx
+"Share webpage to Twitter")[![Image 18: copy action
 icon](https://dhhs.ne.gov/Style%20Library/PageLayoutAssets/images/copy-light.svg)](javascript:void(0)
 "Copy webpage link to Clipboard") No No What would you like to
 do? -------------------------- What you need to know ---------------------
@@ -464,12 +472,12 @@ applications by this date. Why RHT Program Funding Matters for Nebraska
 liv​​ing in rural areas, RHT program funding ​​has the potential to
 make a significant impact in our state. 88 out of Nebraska's 93 counties are
 rural, with 30 of these​classified as frontier counties.​ ​ ![Image
-20: More - Use this on pages as an alternative to tiles webpart if deemed
+19: More - Use this on pages as an alternative to tiles webpart if deemed
 necessary.](https://dhhs.ne.gov/_layouts/15/WAT_SPS_SiteNavigationWebPart/site-navigation-icon.svg)More
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Navigation List Name [Back to Medicaid
 Homepage](https://dhhs.ne.gov/Pages/Medicaid-and-Long-Term-Care.aspx
-"Medicaid Homepage") ![Image 21: More - Use
+"Medicaid Homepage") ![Image 20: More - Use
 this on pages as an alternative to tiles webpart if deemed
 necessary.](https://dhhs.ne.gov/_layouts/15/WAT_SPS_SiteNavigationWebPart/site-navigation-icon.svg)More
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -497,7 +505,7 @@ Requirements](https://dhhs.ne.gov/Pages/WorkRequirements.aspx) ©
 Mall South, Lincoln, Nebraska 68509 (402) 471-3121 TDD (800)
 833-7352 [Contact Us](https://dhhs.ne.gov/Pages/Contact-DHHS.aspx)
 [](https://www.facebook.com/NEDHHS/ "facebook page")[![Image
-22](https://dhhs.ne.gov/Style%20Library/MasterPageAssets/images/x-twitter-white.svg)](https://www.twitter.com/NEDHHS
+21](https://dhhs.ne.gov/Style%20Library/MasterPageAssets/images/x-twitter-white.svg)](https://www.twitter.com/NEDHHS
 "twitter feed")[](https://www.youtube.com/NebraskaDHHS "youtube
 channel")[](https://www.linkedin.com/company/nebraska-department-of-health-and-human-services
 "linked in page")[](https://www.instagram.com/nebraska_dhhs/
@@ -509,6 +517,3 @@ Policy](https://www.nebraska.gov/policies.html) * [Non Discrimination &
 Language Assistance](https://dhhs.ne.gov/Pages/Non-Discrimination-Notice.aspx)
 * [General Disclaimer](https://dhhs.ne.gov/Pages/disclaim.aspx) *
 [HIPAA](https://dhhs.ne.gov/Pages/HIPAA.aspx) Helping People Live Better Lives
-![Image 23](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text Rate this translation Your feedback will be used to help
-improve Google Translate
