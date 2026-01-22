@@ -11,9 +11,7 @@ Louisiana State Websites use .la.gov_ A .la.gov website belongs
 to an official government organization in Louisiana. ![Image 4:
 Lock icon image](https://ldh.la.gov/build/img/lock.svg)_Secure
 .gov websites use HTTPS_ A lock () or https:// means you've
-safely connected to the official .gov website. Powered by [![Image 5: Google
-Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
-[![Image 6: ldh
+safely connected to the official .gov website. [![Image 5: ldh
 logo](https://ldh.la.gov/build/img/logo-color.svg)](https://ldh.la.gov/)
 Menu * [For Businesses](https://ldh.la.gov/for-businesses)
 Back**For Businesses** * [Bacteriological Sample
@@ -571,7 +569,7 @@ Overview](https://ldh.la.gov/assets/docs/Secretary/RHTP/RHTP-Community-Idea-Rais
 > [Rural Health Transformation Program
 Application](https://ldh.la.gov/assets/docs/Secretary/RHTP/RHTP-Application.pdf)
 [![Image
-7](https://ldh.la.gov/assets/docs/Secretary/RHTP/RHTP-Webinar-Title-Slide.png)](https://ldh.la.gov/assets/docs/Secretary/RHTP/RHTS-Webinar_12.4.2025.pdf)
+6](https://ldh.la.gov/assets/docs/Secretary/RHTP/RHTP-Webinar-Title-Slide.png)](https://ldh.la.gov/assets/docs/Secretary/RHTP/RHTS-Webinar_12.4.2025.pdf)
 | Activity | Date Completed / Projected | | --- | --- | | Louisiana Rural
 Health Transformation Grant Submitted to CMS | 11/4/2025 | | CMS accepted
 grant and assigned tracking number | 11/5/2025 | | CMS notification of
@@ -648,7 +646,7 @@ Certified community behavioral health clinic located in rural census tract
 Title XVIII of SSA:** * Critical access hospital * Sole community hospital
 * Medicare-dependent, small rural hospital * Low-volume hospital * Rural
 emergency hospital * Medicare subsection (d) hospital in rural area ![Image
-8](https://ldh.la.gov/assets/images/maps/Louisiana-Rural-Parishes.jpg)
+7](https://ldh.la.gov/assets/images/maps/Louisiana-Rural-Parishes.jpg)
 ------------------------------------------------------------------------------
 Region / Parish-Specific Data [LDH Health Data
 Explorer](https://healthdata.ldh.la.gov/) [Rural Health
@@ -657,7 +655,7 @@ Contact ------- > For more info or to share your ideas, email
 [RuralHealthTransformation@la.gov](mailto:RuralHealthTransformation@la.gov).
 Surgeon General _Evelyn Griffin, MD_ ------------------------------------
 Secretary _Bruce D. Greenstein_ -------------------------------
-![Image 9: LDH Seal](https://ldh.la.gov/build/img/seal-white.svg)
+![Image 8: LDH Seal](https://ldh.la.gov/build/img/seal-white.svg)
 ### Louisiana Department of Health [628 N. 4th Street Baton Rouge, LA
 70802](https://maps.app.goo.gl/uabqvNMw9kjZStj8A)[225-342-9500](tel:+12253429500)
 ### Quick Links * [Report Medicaid
@@ -670,9 +668,6 @@ Notices & Hearings](https://ldh.la.gov/news/category/80)
 Options](https://ldh.la.gov/pregnancy) ### Let’s stay in touch. [contact
 us](https://ldh.la.gov/contact-us) * [](https://www.facebook.com/LaDeptHealth/)
 * [](https://twitter.com/LADeptHealth) *
-[](https://www.instagram.com/LADeptHealth/?hl=en) *
-[](https://www.linkedin.com/company/louisiana-department-of-health)
-[Powered by **Cicero Government**](http://cicerogovernment.com/) ![Image
-10](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
-Original text Rate this translation Your feedback will be used to help
-improve Google Translate
+[](https://www.instagram.com/LADeptHealth/?hl=en)
+* [](https://www.linkedin.com/company/louisiana-department-of-health)
+[Powered by **Cicero Government**](http://cicerogovernment.com/)
