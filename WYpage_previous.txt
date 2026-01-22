@@ -23,7 +23,7 @@ Research And Evaluation](https://health.wyo.gov/admin/dupre/) *
 Program](https://health.wyo.gov/admin/wyomings-volunteer-health-services-program/)
 * [Wyoming Long-Term Care Ombudsman
 Program](https://health.wyo.gov/admin/long-term-care-ombudsman-program/) *
-[Vital Statistics Services](https://health.wyo.gov/admin/vitalstatistics/)
+[Vital Record Services](https://health.wyo.gov/admin/vitalstatistics/)
 * [Wyoming’s Rural Health Transformation
 Program](https://health.wyo.gov/admin/rural-health-transformation-program/)
 * [Aging](https://health.wyo.gov/aging/) * [Community
@@ -88,7 +88,7 @@ Research And Evaluation](https://health.wyo.gov/admin/dupre/) *
 Program](https://health.wyo.gov/admin/wyomings-volunteer-health-services-program/)
 * [Wyoming Long-Term Care Ombudsman
 Program](https://health.wyo.gov/admin/long-term-care-ombudsman-program/) *
-[Vital Statistics Services](https://health.wyo.gov/admin/vitalstatistics/)
+[Vital Record Services](https://health.wyo.gov/admin/vitalstatistics/)
 * [Wyoming’s Rural Health Transformation
 Program](https://health.wyo.gov/admin/rural-health-transformation-program/)
 * [Aging](https://health.wyo.gov/aging/) * [Community
@@ -188,9 +188,9 @@ Policies](https://health.wyo.gov/admin/privacy/wdh-privacy-security-policies/)
 Members](https://health.wyo.gov/admin/irb/wdhirbmembers/) * [Meeting Calendar
 for Protocol Review](https://health.wyo.gov/admin/irb/wdhirbcalendar/)
 * [Research Protocol Submission
-Guidelines](https://health.wyo.gov/admin/irb/wdhirbguidelines/) * [Vital
-Statistics Services](https://health.wyo.gov/admin/vitalstatistics/)3 * [How to
-order certificates](https://health.wyo.gov/admin/vitalstatistics/certificates/)
+Guidelines](https://health.wyo.gov/admin/irb/wdhirbguidelines/) * [Vital Record
+Services](https://health.wyo.gov/admin/vitalstatistics/)3 * [How to order
+certificates](https://health.wyo.gov/admin/vitalstatistics/certificates/)
 * [Amending a Vital
 Record](https://health.wyo.gov/admin/vitalstatistics/amending-a-vital-record/)
 * [Establishing
