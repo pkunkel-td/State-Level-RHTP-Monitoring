@@ -603,8 +603,6 @@ Information on communicable & chronic diseases. *
 [Coronavirus](https://www.michigan.gov/coronavirus)
 * [Communicable Disease Information and
 Resources](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/recentupdates)
-* [Healthcare-Associated
-Infections](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/sharpmain)
 * [Michigan Disease Surveillance
 System](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/mdss)
 Health Statistics & Reports [Go to Health Statistics &
@@ -1639,8 +1637,6 @@ Diseases](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases)
 * [Coronavirus](https://www.michigan.gov/coronavirus)
 * [Communicable Disease Information and
 Resources](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/recentupdates)
-* [Healthcare-Associated
-Infections](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/sharpmain)
 * [Michigan Disease Surveillance
 System](https://www.michigan.gov/mdhhs/keep-mi-healthy/communicablediseases/mdss)
 [Back](https://www.michigan.gov/mdhhs/assistance-programs/medicaid/rural-health-transformation-program#)[Health
