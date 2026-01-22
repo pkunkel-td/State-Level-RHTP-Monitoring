@@ -1,6 +1,6 @@
 Title: Pages - Rural Health Transformation Program URL Source:
 https://health.maryland.gov/pophealth/Pages/Rural-Health-Transformation-Program.aspx
-Published Time: Thu, 22 Jan 2026 20:53:38 GMT Markdown Content:
+Published Time: Thu, 22 Jan 2026 22:50:03 GMT Markdown Content:
 Pages - Rural Health Transformation Program =============== ![Image
 2](https://health.maryland.gov/_layouts/15/MDH/img/favicon.ico?v=1&rev=43)![Image
 3](https://health.maryland.gov/_layouts/15/images/spcommon.png?rev=43)![Image
@@ -752,13 +752,11 @@ Alerts](https://mdready.maryland.gov/be-informed/Pages/sign-up-for-alerts.aspx)
 * [Report Cybersecurity
 Incident](https://doitmaryland.service-now.com/cybersecurityincident/)
 * [Report Human
-Trafficking](https://goccp.maryland.gov/victim-services/human-trafficking/) *
-[Key Bridge](https://response.maryland.gov/bridge) © Copyright
-[Maryland.gov](https://www.maryland.gov/) Our Social Media
-Channels ------------------------- We're available on the
-following channels. Type a message here... [Free live chat⚡ by
-·](https://www.chaport.com/powered-by-chaport?utm_source=health.maryland.gov&utm_medium=widget)
-[![Image 10: Close
+Trafficking](https://goccp.maryland.gov/victim-services/human-trafficking/)
+* [Key Bridge](https://response.maryland.gov/bridge)
+© Copyright [Maryland.gov](https://www.maryland.gov/)
+Our Social Media Channels -------------------------
+We're available on the following channels. [![Image 10: Close
 Disclaimer](blob:http://localhost/a922d300984106a25849783cd15cba63)](https://health.maryland.gov/pophealth/Pages/Rural-Health-Transformation-Program.aspx#)
 * [View
 Disclaimer](https://health.maryland.gov/pophealth/Pages/Rural-Health-Transformation-Program.aspx#)
@@ -1068,3 +1066,5 @@ DoIT不對因使用或依賴翻譯後的內容所造成的損失、損害或問�
 DoIT不對任何網站訪問者與使用Google翻譯功能或內容相關的活動負責。
 Google翻譯服務是DoIT為其網站使用者提供的一項翻譯工具，其唯一的目的是為英語非母語的網站使用者提供方便。
 Google直接提供動態的內容翻譯服務，而DoIT不直接控制翻譯後的內容，即使其使用該工具。因此，在各種情況下，使用者應以DoIT為其直接提供的英文內容為準。
+[Free live chat⚡ by
+·](https://health.maryland.gov/pophealth/Pages/Rural-Health-Transformation-Program.aspx)
