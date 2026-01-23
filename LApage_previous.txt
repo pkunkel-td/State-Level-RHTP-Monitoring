@@ -145,8 +145,8 @@ Health Centers](https://partnersforfamilyhealth.org/sbhc/) *
 Defects](https://ldh.la.gov/office-of-public-health/birth-defects)
 * [Children’s Special Healthcare Services
 (CSHS)](https://ldh.la.gov/bureau-of-family-health/childrens-special-health-services)
-* [Choose Safe Places for Early Child Care and
-Education (CSPECE)](https://ldh.la.gov/page/4546)
+* [Choose Safe Places for Early Child Care and Education
+(CSPECE)](https://ldh.la.gov/bureau-of-infectious-diseases/Choose-Safe-Places)
 * [Early Hearing Detection and Intervention Program
 (EHDI)](https://partnersforfamilyhealth.org/louisiana-early-hearing-detection-and-intervention-program-la-ehdi/)
 * [Family Support &
@@ -191,8 +191,8 @@ Program](https://ldh.la.gov/bureau-of-sanitarian-services/beach-monitoring-progr
 (LGE)](https://ldh.la.gov/page/5280) * [Louisiana Hospice and Palliative
 Care](https://ldh.la.gov/office-of-aging-and-adult-services/palliative-care-interdisciplinary-advisory-council)
 * [Oral
-Health](https://ldh.la.gov/bureau-of-community-preparedness/oral-health) *
-[Parish Health Units (PHU)](https://ldh.la.gov/oph-regional-offices)
+Health](https://ldh.la.gov/bureau-of-chronic-disease-prevention-healthcare-access/oral-health)
+* [Parish Health Units (PHU)](https://ldh.la.gov/oph-regional-offices)
 * [Disabilities](https://ldh.la.gov/disabilities)
 _Health Info & Services_**Disabilities** * [Down
 Syndrome](https://ldh.la.gov/page/2083) * [Louisiana Commission for the
@@ -206,7 +206,7 @@ Waiver](https://ldh.la.gov/office-for-citizens-with-developmental-disabilities/c
 * [Supports Waiver
 (SW)](https://ldh.la.gov/office-for-citizens-with-developmental-disabilities/supports-waiver)
 *
-[EarlySteps](https://ldh.la.gov/office-for-citizens-with-developmental-disabilities/earlysteps-parent-page)
+[EarlySteps](https://ldh.la.gov/office-for-citizens-with-developmental-disabilities/early-steps)
 * [Freedom of Choice Providers](https://ldh.la.gov/directory/foc) * [My Place
 Louisiana](https://ldh.la.gov/office-for-citizens-with-developmental-disabilities/ocdd-my-place-louisiana)
 * [Support
@@ -233,6 +233,8 @@ Diseases](https://ldh.la.gov/bureau-of-infectious-diseases/veterinary-informatio
 Response](https://ldh.la.gov/emergency-preparedness-response) _Health Info &
 Services_**Emergency Preparedness & Response** * [Emergency Preparedness -
 Office of the Surgeon General](https://ldh.la.gov/osg-emergency-preparedness)
+* [Emergency Support Function 6
+(ESF-6)](https://ldh.la.gov/emergency-preparedness-response/emergency-support-function-6)
 * [Emergency Preparedness - Health Standards
 Section](https://ldh.la.gov/health-standards-section/emergency-preparedness)
 * [Emergency Preparedness for Citizens with
@@ -311,9 +313,9 @@ _Medicaid_**Quality Initiatives** * [Performance Improvement
 Projects](https://ldh.la.gov/performance-improvement-projects) * [Public
 University Partnership Program (PUPP)](https://ldh.la.gov/pupp)
 * [Louisiana Health Insurance Survey (LHIS) Dashboard -
-Adults](https://ldh.la.gov/medicaid-quality-initiatives/LHIS-Adults)
-* [Louisiana Health Insurance Survey (LHIS) Dashboard
-- Children](https://ldh.la.gov/page/LHIS-Child) *
+Adults](https://ldh.la.gov/medicaid-quality-initiatives/LHIS-Adults) *
+[Louisiana Health Insurance Survey (LHIS) Dashboard -
+Children](https://ldh.la.gov/page/LHIS-Child) *
 [Louisiana Health Insurance Survey (LHIS) Dashboard -
 Uninsured](https://ldh.la.gov/page/LHIS-Uninsured) * [Medicaid and CHIP
 Scorecard](https://www.medicaid.gov/state-overviews/scorecard/main) * [Birth
@@ -336,12 +338,12 @@ _SNAP_**Supplemental Nutrition Assistance Program (SNAP)** * [Able-Bodied
 Adult Without Dependents (ABAWD)](https://ldh.la.gov/page/5514)
 * [Disaster Supplemental Nutrition Assistance Program
 (DSNAP)](https://ldh.la.gov/page/5504) * [Electronic Benefits Transfer
-(EBT)](https://ldh.la.gov/page/5497) * [Electronic Healthy Incentives Project
-(eHIP)](https://ldh.la.gov/supplemental-nutrition-assistance-program/ehip)
-* [Family Independence Temporary Assistance Program
-(FITAP)](https://ldh.la.gov/page/5526) * [LaCAP](https://ldh.la.gov/page/5554)
-* [Kinship Care Subsidy Program (KCSP)](https://ldh.la.gov/page/5527)
-* [SUN Bucks](https://ldh.la.gov/page/5495) * [SNAP Community
+(EBT)](https://ldh.la.gov/page/5497) * [Electronic Healthy Incentives
+Project (eHIP)](https://ldh.la.gov/page/5508) * [Family Independence
+Temporary Assistance Program (FITAP)](https://ldh.la.gov/page/5526)
+* [LaCAP](https://ldh.la.gov/page/5554) * [Kinship Care
+Subsidy Program (KCSP)](https://ldh.la.gov/page/5527) *
+[SUN Bucks](https://ldh.la.gov/page/5495) * [SNAP Community
 Partners](https://ldh.la.gov/page/5511) * [SNAP Eligibility &
 Application](https://ldh.la.gov/page/5498) * [Temporary Assistance
 for Needy Families (TANF)](https://ldh.la.gov/page/5528)
@@ -460,7 +462,7 @@ _Offices & Administration_**Bureau of Nutrition Services**
 * [WIC](https://ldh.la.gov/page/942) * [Breastfeeding
 Program](https://ldh.la.gov/page/1572) * [Vendor
 Operations](https://ldh.la.gov/page/990) * [Complaints &
-Fraud](https://ldh.la.gov/page/1032) * [Bureau of Planning and
+Fraud](https://ldh.la.gov/page/5621) * [Bureau of Planning and
 Performance](https://ldh.la.gov/microsite/53) * [Bureau of Regional and
 Clinical Operations](https://ldh.la.gov/bureau-of-regional-clinical-operations)
 * [Bureau of Sanitarian Services](https://ldh.la.gov/microsite/19)
@@ -650,7 +652,7 @@ Region / Parish-Specific Data [LDH Health Data
 Explorer](https://healthdata.ldh.la.gov/) * * * [Rural
 Health Information Hub](https://www.ruralhealthinfo.org/)
 Contact ------- > For more info or to share your ideas, email [[email
-protected]](https://ldh.la.gov/cdn-cgi/l/email-protection#94c6e1e6f5f8dcf1f5f8e0fcc0e6f5fae7f2fbe6f9f5e0fdfbfad4f8f5baf3fbe2).
+protected]](https://ldh.la.gov/cdn-cgi/l/email-protection#dd8fa8afbcb195b8bcb1a9b589afbcb3aebbb2afb0bca9b4b2b39db1bcf3bab2ab).
 Surgeon General _Evelyn Griffin, MD_ ------------------------------------
 Secretary _Bruce D. Greenstein_ -------------------------------
 ![Image 6: LDH Seal](https://ldh.la.gov/build/img/seal-white.svg)
