@@ -216,9 +216,9 @@ Resources](https://www.scdhhs.gov/partners/managed-care/managed-care-carve/manag
 * [Apply for Medicaid](https://apply.scdhhs.gov/) Header Navigation
 ----------------- * [Claims](https://www.scdhhs.gov/providers/claims)
 * [Communications](https://www.scdhhs.gov/communications)
-* [Appeals](https://www.scdhhs.gov/appeals)
-* [Fraud](https://www.scdhhs.gov/fraud)
-* [Contact](https://www.scdhhs.gov/contact)
+* [Appeals](https://www.scdhhs.gov/appeals) *
+[Fraud](https://www.scdhhs.gov/fraud-waste-and-abuse "Report Fraud,
+Waste and Abuse") * [Contact](https://www.scdhhs.gov/contact)
 Breadcrumb ---------- 1. [Home](https://www.scdhhs.gov/)
 2. [Resources](https://www.scdhhs.gov/resources) 3. Grants Grants
 ====== [](https://www.scdhhs.gov/resources/grants) Grant Opportunities
