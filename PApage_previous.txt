@@ -1,6 +1,6 @@
 Title: Rural Health Transformation Plan URL Source:
 https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan
-Published Time: Tue, 27 Jan 2026 17:01:57 GMT Markdown
+Published Time: Tue, 27 Jan 2026 19:16:59 GMT Markdown
 Content: Rural Health Transformation Plan | Department of Human
 Services | Commonwealth of Pennsylvania =============== [Skip to agency
 navigation](https://www.pa.gov/agencies/dhs/programs-services/healthcare/rural-health/rural-health-transformation-plan#agencynav)
@@ -585,11 +585,13 @@ Information](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-contact-informati
 [ECM News](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-news) * [ECM
 Stakeholders](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-stakeholders) *
 [ECM Subsystems](https://www.pa.gov/agencies/dhs/resources/ecm/ecm-subsystems)
-* [Find a Facility or
+* [Enterprise Licensing System](https://www.pa.gov/agencies/dhs/resources/els)
+* [Federal Cuts](https://www.pa.gov/agencies/dhs/resources/federal-cuts) *
+[Find a Facility or
 Provider](https://www.pa.gov/agencies/dhs/resources/find-a-facility-or-provider)
 * [Hearings and
-Appeals](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals) *
-[BHA Offices and Contact
+Appeals](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals)
+* [BHA Offices and Contact
 Information](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals/bha-offices-contact-info)
 * [Hearing and Appeals
 Process](https://www.pa.gov/agencies/dhs/resources/hearings-and-appeals/hearing-appeals-process)
@@ -909,8 +911,7 @@ Program](https://www.pa.gov/agencies/dhs/resources/snap/snap-college-employabili
 Procedures](https://www.pa.gov/agencies/dhs/resources/snap/snap-policies-procedures)
 * [SNAP Toolkit](https://www.pa.gov/agencies/dhs/resources/snap/snap-toolkit)
 * [Heating and Shelter Utility
-Allowance](https://www.pa.gov/agencies/dhs/resources/snap/hsua) * [Enterprise
-Licensing System](https://www.pa.gov/agencies/dhs/resources/els) * [Report
+Allowance](https://www.pa.gov/agencies/dhs/resources/snap/hsua) * [Report
 Abuse](https://www.pa.gov/agencies/dhs/report-abuse) * [Adult Protective
 Services](https://www.pa.gov/agencies/dhs/report-abuse/adult-protective-services)
 * [APS Media
@@ -1004,8 +1005,8 @@ of electronic health records (EHRs). * * * [Download PA's Rural Transformation
 Plan](https://www.pa.gov/content/dam/copapwp-pagov/en/dhs/documents/rural-health/pa-rural-health-transformation-plan.pdf)
 Return to top [![Image 3: Commonwealth of Pennsylvania
 Home](https://www.pa.gov/content/dam/copapwp-pagov/en/global/images/CoPA%20Logo%20-%20Horizontal%20Lockup%201.svg)](https://www.pa.gov/en)
-Proudly founded in 1681 as a place of tolerance and
-freedom. * [Commonwealth of Pennsylvania Social Media Follow on
+Proudly founded in 1681 as a place of tolerance and freedom. *
+[Commonwealth of Pennsylvania Social Media Follow on
 Facebook](https://www.facebook.com/GovernorShapiro) * [Commonwealth of
 Pennsylvania Social Media Follow on X](https://x.com/GovernorShapiro)
 * [Commonwealth of Pennsylvania Social Media Follow on
