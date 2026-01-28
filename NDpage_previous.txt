@@ -15,7 +15,7 @@ version is considered the most accurate. In the event of a disagreement
 or discrepancy between the translation and the original English version of
 this web site or any notice or disclaimer, the original version will prevail.
 [Accept](https://www.hhs.nd.gov/rural-health-transformation#)[Decline](https://www.hhs.nd.gov/rural-health-transformation#)
-[![Image 10: Logo North Dakota Health and Human
+[![Image 1: Logo North Dakota Health and Human
 Services](https://www.hhs.nd.gov/sites/www/files/styles/logo/public/documents/theme/DHHS%20HORZ%20Orange-01.png?itok=lR2TY37Y&cb=cf12794e)](https://www.hhs.nd.gov/
 "Home") [](https://www.hhs.nd.gov/contact "Contact Us")
 [](https://www.facebook.com/hhsndgov "Follow Us on
@@ -393,11 +393,12 @@ Program](https://www.hhs.nd.gov/cfs/refugee-resettlement-program) *
 Crossroads](https://www.hhs.nd.gov/applyforhelp/crossroads) * [Title IV-E
 Prevention Services](https://www.hhs.nd.gov/cfs/title-iv-e-prevention-services)
 * - [x] [Working Parents Child Care
-Relief](https://www.hhs.nd.gov/wpccr)› X * Back ‹ * Working
-Parents Child Care Relief * [Working Parent Child Care Relief:
-Employers](https://www.hhs.nd.gov/wpccr/employers) * [Working Parent Child Care
-Relief: Parents](https://www.hhs.nd.gov/wpccr/parents) * - [x] [Individuals
-with Disabilities](https://www.hhs.nd.gov/individuals-disabilities)› X
+Relief](https://www.hhs.nd.gov/cfs/early-childhood-services/families/cost/wpccr)›
+X * Back ‹ * Working Parents Child Care Relief * [Working Parent Child
+Care Relief: Employers](https://www.hhs.nd.gov/wpccr/employers)
+* [Working Parent Child Care Relief:
+Parents](https://www.hhs.nd.gov/wpccr/parents) * - [x] [Individuals with
+Disabilities](https://www.hhs.nd.gov/individuals-disabilities)› X
 * Back ‹ * Individuals with Disabilities * - [x] [Developmental
 Disability Service](https://www.hhs.nd.gov/dd)› X * Back
 ‹ * Developmental Disability Service * - [x] [General
@@ -958,7 +959,10 @@ Committee](https://www.hhs.nd.gov/healthcare/medicaid/medical-advisory-committee
 * [Medicaid
 Waivers](https://www.hhs.nd.gov/healthcare/medicaid/medicaid-waivers)
 * [Program of All-Inclusive Care for the Elderly
-(PACE)](https://www.hhs.nd.gov/healthcare/medicaid/pace) *
+(PACE)](https://www.hhs.nd.gov/healthcare/medicaid/pace) * - [x]
+[Wellness Visits](https://www.hhs.nd.gov/medicaid/wellness/visits)›
+X * Back ‹ * Wellness Visits * [Wellness Visits
+FAQs](https://www.hhs.nd.gov/medicaid/wellness/visits/faqs) *
 [Medical Marijuana](https://www.hhs.nd.gov/mm) * - [x] [Service
 Locations](https://www.hhs.nd.gov/service-locations)› X * Back ‹ * Service
 Locations * [Human Service Zones](https://www.hhs.nd.gov/human-service/zones)
@@ -968,12 +972,12 @@ Directory](https://www.hhs.nd.gov/service-locations/tribal-nation-human-services
 * Back ‹ * Vital Records * [Adding a Father (Establishing
 Paternity)](https://www.hhs.nd.gov/vital/establishing-paternity)
 * [Adoption](https://www.hhs.nd.gov/vital/adoption) *
-[Apostille](https://www.hhs.nd.gov/vital/apostille) * [Certified Copies
-of Birth Records](https://www.hhs.nd.gov/vital/birth) * [Certified Copies
-of Death Records](https://www.hhs.nd.gov/vital/death) * [Certified Copies of
-Divorce Records](https://www.hhs.nd.gov/vital/divorce) * [Certified Copies of
-Fetal Death Records](https://www.hhs.nd.gov/vital/fetal) * [Certified Copies
-of Marriage Records](https://www.hhs.nd.gov/vital/marriage) * [Changing a Birth
+[Apostille](https://www.hhs.nd.gov/vital/apostille) * [Certified Copies of
+Birth Records](https://www.hhs.nd.gov/vital/birth) * [Certified Copies of Death
+Records](https://www.hhs.nd.gov/vital/death) * [Certified Copies of Divorce
+Records](https://www.hhs.nd.gov/vital/divorce) * [Certified Copies of Fetal
+Death Records](https://www.hhs.nd.gov/vital/fetal) * [Certified Copies of
+Marriage Records](https://www.hhs.nd.gov/vital/marriage) * [Changing a Birth
 Record](https://www.hhs.nd.gov/vital/changing-birth-record) * [Court Order Name
 Change](https://www.hhs.nd.gov/vital/court-order-name-change) * [Electronic
 Vital Event Registration System](https://www.hhs.nd.gov/vital/evers) * [Vital
@@ -993,8 +997,8 @@ Events](https://www.hhs.nd.gov/healthcare-employers/primary-care-office-recruitm
 Resources](https://www.hhs.nd.gov/health/diseases-conditions-and-immunization/HIV/Provider/STI)
 * [Health Professional Viral Hepatitis
 Resources](https://www.hhs.nd.gov/health/diseases-conditions-and-immunization/HIV/Provider/Hepatitis)
-* [Human Service Providers](https://www.hhs.nd.gov/human-services/providers)
-* [Licensing, Regulation, and
+* [Human Service Providers](https://www.hhs.nd.gov/human-services/providers) *
+[Licensing, Regulation, and
 Certification](https://www.hhs.nd.gov/licensing-regulation-and-certification)
 * - [x] [Medicaid
 Providers](https://www.hhs.nd.gov/healthcare/medicaid/provider/end-user-agreement)›
@@ -1020,12 +1024,6 @@ Measurement](https://www.hhs.nd.gov/healthcare/medicaid/provider/compliance/perm
 Integrity](https://www.hhs.nd.gov/healthcare/medicaid/provider/compliance/provider-integrity)
 * [Data Dashboards](https://www.hhs.nd.gov/medicaid/data) * [Dual Special Needs
 Plans](https://www.hhs.nd.gov/healthcare/medicaid/provider/end-user-agreement/dual-special-needs-plans)
-* - [x] [Health
-Tracks](https://www.hhs.nd.gov/healthcare/medicaid/health-tracks)›
-X * Back ‹ * Health Tracks * [Health Tracks Provider
-Resources](https://www.hhs.nd.gov/healthcare/medicaid/health-tracks/well-child-provider-resources)
-* [Health Tracks for
-Providers](https://www.hhs.nd.gov/healthcare/medicaid/health-tracks/provider)
 * - [x] [MMIS
 Portal](https://www.hhs.nd.gov/healthcare/medicaid/provider/end-user-agreement/mmis-nd-health-enterprise-medicaid-management)›
 X * Back ‹ * MMIS Portal * [Electronic Remittance
@@ -1068,6 +1066,11 @@ X * Back ‹ * Tribal Health and Indian Health Services * [Tribal Consultation
 Letters](https://www.hhs.nd.gov/healthcare/medicaid/provider/end-user-agreement/tribal-health-and-indian-health-services/tribal-0)
 * [Tribal Consultation
 Meetings](https://www.hhs.nd.gov/healthcare/medicaid/provider/end-user-agreement/tribal-health-and-indian-health-services/tribal)
+* - [x] [Wellness Visits](https://www.hhs.nd.gov/medicaid/wellness/visits)›
+X * Back ‹ * Wellness Visits * - [x] [For
+Providers](https://www.hhs.nd.gov/medicaid/wellness/visits/provider)›
+X * Back ‹ * For Providers * [Provider
+Resources](https://www.hhs.nd.gov/medicaid/wellness/visits/provider/resources)
 * - [x] [Administration](https://www.hhs.nd.gov/rural-health-transformation)›
 X * Back ‹ * Administration * - [x] [About
 Us](https://www.hhs.nd.gov/about-us)› X * Back ‹ * About Us * [Biennial
@@ -1075,8 +1078,8 @@ Report](https://www.hhs.nd.gov/about-us/biennial-report) * [Client Rights
 and Appeals](https://www.hhs.nd.gov/about-us/client-rights-and-appeals)
 * - [x] [Data and Reports](https://www.hhs.nd.gov/data)›
 X * Back ‹ * Data and Reports * [Institutional Review Board
-(IRB)/Research](https://www.hhs.nd.gov/data/institutional-review-board-irb)
-* [HHS Business Plan](https://www.hhs.nd.gov/2024-2025-business-plan)
+(IRB)/Research](https://www.hhs.nd.gov/data/institutional-review-board-irb) *
+[HHS Business Plan](https://www.hhs.nd.gov/2024-2025-business-plan)
 * [Publications](https://www.hhs.nd.gov/publications) *
 [Resources](https://www.hhs.nd.gov/resources) * - [x] [News
 and Events](https://www.hhs.nd.gov/news)› X * Back ‹ *
@@ -1110,7 +1113,7 @@ Linkedin")[](https://www.instagram.com/hhsndgov "Subscribe on Instagram")
 [](https://www.hhs.nd.gov/rural-health-transformation) Breadcrumb
 1. [Home](https://www.hhs.nd.gov/) 2. Rural Health Transformation
 Rural Health Transformation =========================== Medium ![Image
-11: Image of a healthcare worker standing in front of a field with a blue
+2: Image of a healthcare worker standing in front of a field with a blue
 overlay](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/rht-header.png)
 North Dakota Rural Health Transformation Program
 ------------------------------------------------ A five-year, statewide
@@ -1124,15 +1127,15 @@ updates](https://public.govdelivery.com/accounts/NDDHHS/subscriber/new?topic_id=
 on the Rural Health Transformation Program. [Sign up for
 updates](https://public.govdelivery.com/accounts/NDDHHS/subscriber/new?topic_id=NDDHHS_189
 "Sign up for updates") * ![Image
-12](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/no-activity-icon.png)
+3](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/no-activity-icon.png)
 **More than 1 in 4 North Dakota adults**report
 no physical activity in the past month. * ![Image
-13](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/scale-icon.png)
+4](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/scale-icon.png)
 **More than 1 in 3 adults in North Dakota are obese,**a major risk
 factor for heart disease, diabetes and chronic conditions. Medium * ![Image
-14](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/high-blood-pressure-icon.png)
+5](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/high-blood-pressure-icon.png)
 **More than 1 in 3 adults in North Dakota**have high blood pressure. * ![Image
-15](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/high-school-icon.png)
+6](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/high-school-icon.png)
 **Nearly 18% of North Dakota high school
 students considered attempting suicide.** [Apply
 Now](https://www.hhs.nd.gov/rural-health-transformation/grants "GRANT
@@ -1140,14 +1143,14 @@ OPPORTUNITIES icon") GRANT OPPORTUNITIES Explore grant funding opportunities
 to help make North Dakota the healthiest state in the nation [Apply
 Now](https://www.hhs.nd.gov/rural-health-transformation/grants
 "Apply Now") Medium * ![Image
-16](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/cardiovascular-icon.png)
+7](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/cardiovascular-icon.png)
 **More than 1 million people in the U.S. die each
 year from cardiovascular disease and diabetes** —
 conditions largely linked to preventable risk factors. * ![Image
-17](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/weight-lifting-icon.png)
+8](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/weight-lifting-icon.png)
 Never smoking, physical activity, healthy weight and healthy diet appear to
 **lower the risk of developing major chronic diseases by about 80%.** * ![Image
-18](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/social-connection-icon.png)
+9](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/social-connection-icon.png)
 Strong social connections are associated with up to a **30% lower risk of
 major cardiovascular diseases.** Medium **Lead Agency: North Dakota Health
 and Human Services| Total Investment & Timeline: $199 million for 2026**
@@ -1161,7 +1164,7 @@ roadmap to stabilize today’s system, build a more sustainable, modern rural
 health future and prevent diabetes, heart disease and stroke and other chronic
 diseases. Through four key initiatives, the program focuses on long-term
 solutions to help make North Dakota the healthiest state in the nation. Medium
-Timeline -------- ![Image 19: Diagram of Rural Health Transformation Program
+Timeline -------- ![Image 10: Diagram of Rural Health Transformation Program
 timeline](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/Medical%20Services/rhtp.png)
 * Submission deadline November 5. ND HHS submitted November 3. * ND HHS
 Provider Readiness Survey November 2025 * Awardee decisions by December 31
@@ -1253,11 +1256,11 @@ summary](https://www.hhs.nd.gov/sites/www/files/documents/nd-rhtp-project-summar
 ------------------------------------------------------------------------------------------
 [Rural Health Transformation
 Program](https://www.cms.gov/priorities/rural-health-transformation-rht-program/rural-health-transformation-rht-program#:~:text=The%20Rural%20Health%20Transformation%20%28RHT%29%20Program%20was%20authorized,and%20outcomes%20by%20transforming%20the%20healthcare%20delivery%20ecosystem.
-"Rural Health Transformation Program (opens in a new window)") - Centers
-for Medicare and Medicaid Services [Rural Health Transformation Program
-grant opportunity](https://www.grants.gov/search-results-detail/360442
-"Rural Health Transformation Program grant opportunity (opens in a
-new window)") - Grants.gov [Presentation to Interim Rural Health Transformation
+"Rural Health Transformation Program") - Centers for Medicare
+and Medicaid Services [Rural Health Transformation Program grant
+opportunity](https://www.grants.gov/search-results-detail/360442
+"Rural Health Transformation Program grant opportunity")
+- Grants.gov [Presentation to Interim Rural Health Transformation
 Committee](https://www.hhs.nd.gov/sites/www/files/documents/presentation-rhtp-interim-legislative-committee-10-21-2025.pdf
 "Presentation to Interim Rural Health Transformation Committee")
 - Oct. 21, 2025 [Presentation to Interim Rural Health Transformation
@@ -1271,16 +1274,15 @@ Sessions](https://www.hhs.nd.gov/rural-health-transformation#collapse-accordion-
 ------------------------------------------------------------------------------------------------------------------
 [Listening session
 presentation](https://www.hhs.nd.gov/sites/www/files/documents/rhtp-listening-session-presentation.pdf
-"Listening session presentation") [Strengthen and Stabilize Rural Health
-Workforce Survey Form](https://forms.office.com/g/CZP6NiSDuQ "Strengthen
-and Stabilize Rural Health Workforce Form (opens in a new window)") [Make
-ND Healthy Again Survey Form](https://forms.office.com/g/yi8JKpduif "Make
-ND Healthy Again Form (opens in a new window)") [Bring High-Quality Health
-Care Closer to Home Survey Form](https://forms.office.com/g/11egBrmDPN
-"Bring High Quality Health Care Closer to Home Survey Form (opens
-in a new window)") [Connect Tech and Data for a Stronger ND Survey
-Form](https://forms.office.com/g/YJgyAYT3HL "Connect Tech and Data for a
-Stronger ND Survey Form (opens in a new window)") Medium Contact Us ----------
+"Listening session presentation") [Strengthen and Stabilize Rural
+Health Workforce Survey Form](https://forms.office.com/g/CZP6NiSDuQ
+"Strengthen and Stabilize Rural Health Workforce Form") [Make ND
+Healthy Again Survey Form](https://forms.office.com/g/yi8JKpduif "Make
+ND Healthy Again Form") [Bring High-Quality Health Care Closer to Home
+Survey Form](https://forms.office.com/g/11egBrmDPN "Bring High Quality
+Health Care Closer to Home Survey Form") [Connect Tech and Data for a
+Stronger ND Survey Form](https://forms.office.com/g/YJgyAYT3HL "Connect
+Tech and Data for a Stronger ND Survey Form") Medium Contact Us ----------
 [Email: rhtp@nd.gov](mailto:rhtp@nd.gov) * * * Page last updated: Jan. 23,
 2026 Data Sources: Centers for Disease Control and Prevention, Trust for
 America's Health, National Heath, Lung and Blood Institute, 2023 Youth
@@ -1309,8 +1311,5 @@ and Families (ACF), a division for the U.S. Department of Health and Human
 Services. Information shared on this site is the responsibility of North
 Dakota Health and Human Services and does not necessarily reflect the
 views of ACF. [Feedback (+)](https://www.hhs.nd.gov/form/feedback)Provide
-Website Feedback ![Image 20: Logo North Dakota Health and Human
+Website Feedback ![Image 11: Logo North Dakota Health and Human
 Services](https://www.hhs.nd.gov/sites/www/files/styles/logo/public/documents/theme/DHHS%20HORZ%20White-01.png?itok=2JMdc9sm&cb=cf12794e)
-Back to top![Image
-23](https://arttrk.com/pixel/?ad_log=referer&action=lead&pixid=93e0cc1b-275b-42af-9f40-13365a05962b)![Image
-24](https://arttrk.com/pixel/?ad_log=referer&action=purchase&pixid=896e5add-dc32-406d-9164-c0ab64cb1c31)
