@@ -353,12 +353,21 @@ Certificates](https://ldh.la.gov/vital-records/request-a-birth-or-death-certific
 [Adoption Documentation](https://ldh.la.gov/page/adoption-information) *
 [Amend a Vital Record](https://ldh.la.gov/page/vital-record-amendments)
 * Offices & Administration **Offices & Administration** * [About
-LDH](https://ldh.la.gov/page/2) _Offices & Administration_**About LDH** *
-[Locations](https://ldh.la.gov/directory) * [News](https://ldh.la.gov/news) *
-[Events](https://ldh.la.gov/calendar) * [Careers](https://ldh.la.gov/page/5295)
-* Divisions _Offices & Administration_**Divisions** * [Bureau of
-Health Services Financing (Medicaid)](https://ldh.la.gov/medicaid) *
-[Office of Aging and Adult Services](https://ldh.la.gov/oaas) * [Office
+LDH](https://ldh.la.gov/page/2) _Offices & Administration_**About
+LDH** * [Locations](https://ldh.la.gov/directory) *
+[News](https://ldh.la.gov/news) * [Events](https://ldh.la.gov/calendar)
+* [Careers](https://ldh.la.gov/page/5295) * Divisions _Offices &
+Administration_**Divisions** * [Bureau of Health Services Financing
+(Medicaid)](https://ldh.la.gov/medicaid) * [Office of Aging and Adult
+Services](https://ldh.la.gov/office-of-aging-and-adult-services) _Offices
+& Administration_**Office of Aging and Adult Services** * [Facility-Based
+Programs](https://ldh.la.gov/office-of-aging-and-adult-services/nursing-facility-services)
+* [Critical Incident
+Reporting](https://ldh.la.gov/office-of-aging-and-adult-services/critical-incident-reporting)
+* [Home & Community-Based
+Services](https://ldh.la.gov/office-of-aging-and-adult-services/home-and-community-based-services)
+* [Permanent Supportive Housing
+(PSH)](https://ldh.la.gov/page/permanent-supportive-housing-psh) * [Office
 of Behavioral Health](https://ldh.la.gov/office-of-behavioral-health)
 _Offices & Administration_**Office of Behavioral Health** * [Addictive
 Disorders](https://ldh.la.gov/office-of-behavioral-health/substance-use-and-gambling-disorders)
@@ -385,9 +394,9 @@ Reporting](https://ldh.la.gov/office-for-citizens-with-developmental-disabilitie
 of Public Health](https://ldh.la.gov/office-of-public-health) _Offices &
 Administration_**Office of Public Health** * [Bureau of Chronic Disease
 Prevention and Healthcare Access](https://ldh.la.gov/microsite/25)
-_Offices & Administration_**Bureau of Chronic Disease Prevention
-and Healthcare Access** * [Asthma](https://ldh.la.gov/page/2613) *
-[Diabetes](https://ldh.la.gov/page/2617) *
+_Offices & Administration_**Bureau of Chronic Disease Prevention and
+Healthcare Access** * [Asthma](https://ldh.la.gov/page/2613)
+* [Diabetes](https://ldh.la.gov/page/2617) *
 [Heart Disease](https://ldh.la.gov/page/5254) *
 [Obesity](https://ldh.la.gov/office-of-public-health/obesity) * [Oral
 health](https://ldh.la.gov/bureau-of-chronic-disease-prevention-healthcare-access/oral-health)
@@ -468,8 +477,8 @@ Clinical Operations](https://ldh.la.gov/bureau-of-regional-clinical-operations)
 _Offices & Administration_**Bureau of Sanitarian Services** * [Food Safety
 Program](https://ldh.la.gov/bureau-of-sanitarian-services/food-safety)
 * [Retail Food
-Program](https://ldh.la.gov/bureau-of-sanitarian-services/retail-food)
-* [Food and Drug
+Program](https://ldh.la.gov/bureau-of-sanitarian-services/retail-food) *
+[Food and Drug
 Program](https://ldh.la.gov/bureau-of-sanitarian-services/food-and-drug-unit)
 * [Commercial Seafood
 Program](https://ldh.la.gov/bureau-of-sanitarian-services/commercial-seafood)
@@ -524,22 +533,22 @@ Administration_**About LDH** * [Locations](https://ldh.la.gov/directory) *
 [News](https://ldh.la.gov/news) * [Events](https://ldh.la.gov/calendar)
 * [Careers](https://ldh.la.gov/page/5295) *
 [Divisions](https://ldh.la.gov/page/rural-health-transformation-program)
-_Offices & Administration_**Divisions** * [Bureau of Health Services
-Financing (Medicaid)](https://ldh.la.gov/medicaid) * [Office of Aging
-and Adult Services](https://ldh.la.gov/oaas) * [Office of Behavioral
-Health](https://ldh.la.gov/office-of-behavioral-health)
+_Offices & Administration_**Divisions** * [Bureau of Health Services Financing
+(Medicaid)](https://ldh.la.gov/medicaid) * [Office of Aging and Adult
+Services](https://ldh.la.gov/office-of-aging-and-adult-services) * [Office
+of Behavioral Health](https://ldh.la.gov/office-of-behavioral-health)
 * [Office for Citizens with Developmental
 Disabilities](https://ldh.la.gov/office-for-citizens-with-developmental-disabilities)
-* [Office of Economic Stability](https://ldh.la.gov/page/5529) * [Office
-of Public Health](https://ldh.la.gov/office-of-public-health) _Offices &
-Administration_**Office of Public Health** * [Bureau of Chronic Disease
-Prevention and Healthcare Access](https://ldh.la.gov/microsite/25) * [Bureau of
-Community Preparedness](https://ldh.la.gov/bureau-of-community-preparedness) *
-[Bureau of Emergency Medical
-Services](https://ldh.la.gov/microsite/28) * [Bureau of Engineering
-Services](https://ldh.la.gov/bureau-of-engineering-services) * [Bureau
-of Family Health](https://ldh.la.gov/microsite/45) * [Bureau of Health
-Informatics](https://ldh.la.gov/microsite/46) * [Bureau of Infectious
+* [Office of Economic Stability](https://ldh.la.gov/page/5529) *
+[Office of Public Health](https://ldh.la.gov/office-of-public-health)
+_Offices & Administration_**Office of Public Health**
+* [Bureau of Chronic Disease Prevention and Healthcare
+Access](https://ldh.la.gov/microsite/25) * [Bureau of Community
+Preparedness](https://ldh.la.gov/bureau-of-community-preparedness) * [Bureau
+of Emergency Medical Services](https://ldh.la.gov/microsite/28) * [Bureau
+of Engineering Services](https://ldh.la.gov/bureau-of-engineering-services)
+* [Bureau of Family Health](https://ldh.la.gov/microsite/45) * [Bureau of
+Health Informatics](https://ldh.la.gov/microsite/46) * [Bureau of Infectious
 Diseases](https://ldh.la.gov/bureau-of-infectious-diseases) * [Bureau of
 Laboratory Services](https://ldh.la.gov/bureau-of-laboratory-services) *
 [Bureau of Nutrition Services](https://ldh.la.gov/bureau-of-nutrition-services)
@@ -651,7 +660,7 @@ Region / Parish-Specific Data [LDH Health Data
 Explorer](https://healthdata.ldh.la.gov/) * * * [Rural
 Health Information Hub](https://www.ruralhealthinfo.org/)
 Contact ------- > For more info or to share your ideas, email [[email
-protected]](https://ldh.la.gov/cdn-cgi/l/email-protection#6f3d1a1d0e03270a0e031b073b1d0e011c09001d020e1b0600012f030e41080019).
+protected]](https://ldh.la.gov/cdn-cgi/l/email-protection#3a684f485b56725f5b564e526e485b54495c5548575b4e5355547a565b145d554c).
 Surgeon General _Evelyn Griffin, MD_ ------------------------------------
 Secretary _Bruce D. Greenstein_ -------------------------------
 ![Image 6: LDH Seal](https://ldh.la.gov/build/img/seal-white.svg)
