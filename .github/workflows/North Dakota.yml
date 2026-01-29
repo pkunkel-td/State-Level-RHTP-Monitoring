@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      URL: "https://www.hhs.nd.gov/rural-health-transformation"
+      URL: "https://www.hhs.nd.gov/rural-health-transformation/grants"
       UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
