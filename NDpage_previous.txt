@@ -73,11 +73,7 @@ Contact Us * [Contact Us](https://www.hhs.nd.gov/contact) * [Report
 Fraud](https://www.hhs.nd.gov/healthcare/medicaid/provider/compliance/fraud-and-abuse)
 * [Report Suspected Abuse of a Child](https://www.hhs.nd.gov/cfs/cps)
 * [Report Suspected Abuse of a Vulnerable
-Adult](https://www.hhs.nd.gov/adults-and-aging/reporting) *
-[Perinatal Hepatitis B (Mother-to-Child Transmission of Hepatitis
-B)](https://www.hhs.nd.gov/perinatal-hepatitis-b-mother-child-transmission-hepatitis-b
-"This page describes the activities that North Dakota HHS completes to
-ensure babies do not contract hepatitis B during birth.") Main navigation
+Adult](https://www.hhs.nd.gov/adults-and-aging/reporting) Main navigation
 Mobile Search This Website: * - [x] X * [Home](https://www.hhs.nd.gov/) * -
 [x] [Child Support](https://www.hhs.nd.gov/childsupport)› X * Back ‹ *
 Child Support * [Parent Login](https://apps.nd.gov/dhs/cs/facses/login.htm) *
@@ -1108,10 +1104,8 @@ X * Back ‹ * Report Fraud * [Medicaid Services Verification
 Form](https://www.hhs.nd.gov/healthcare/medicaid/provider/compliance/fraud-and-abuse/medicaid-verification-form)
 * [Report Suspected Abuse of a Child](https://www.hhs.nd.gov/cfs/cps)
 * [Report Suspected Abuse of a Vulnerable
-Adult](https://www.hhs.nd.gov/adults-and-aging/reporting) *
-[Perinatal Hepatitis B (Mother-to-Child Transmission of Hepatitis
-B)](https://www.hhs.nd.gov/perinatal-hepatitis-b-mother-child-transmission-hepatitis-b)
-[988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-support/in-crisis
+Adult](https://www.hhs.nd.gov/adults-and-aging/reporting) [988 Suicide
+& Crisis Lifeline](https://www.samhsa.gov/find-support/in-crisis
 "988 Suicide Prevention") [](https://www.hhs.nd.gov/contact
 "Contact Us") [](https://www.facebook.com/hhsndgov "Follow
 Us on Facebook")[](https://twitter.com/hhsndgov "Follow Us on
@@ -1159,8 +1153,8 @@ TTY users may use relay North Dakota at 711 or
 Rights and Appeals](https://www.hhs.nd.gov/about-us/client-rights-and-appeals)
 * [Disclaimer](https://www.nd.gov/content.htm?id=Disclaimer) *
 [HIPAA Privacy](https://www.hhs.nd.gov/hipaa "HIPAA Privacy") *
-[Nondiscrimination](https://www.hhs.nd.gov/nondiscrimination-policy)
-* [Contact](https://www.hhs.nd.gov/contact) * [Privacy
+[Nondiscrimination](https://www.hhs.nd.gov/nondiscrimination-policy) *
+[Contact](https://www.hhs.nd.gov/contact) * [Privacy
 Policy](https://www.nd.gov/privacy-policy) * [Security
 Policy](https://www.nd.gov/content.htm?id=Security) [Subscribe to News and
 Alerts](https://public.govdelivery.com/accounts/NDDHHS/subscriber/new
