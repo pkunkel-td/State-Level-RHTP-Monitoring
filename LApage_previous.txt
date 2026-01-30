@@ -1,12 +1,9 @@
-Title: Rural Health Transformation Program | Louisiana Department of Health URL
-Source: https://ldh.la.gov/page/rural-health-transformation-program Markdown
-Content: Rural Health Transformation Program (RHTP) | Louisiana Department
-of Health =============== Press Option+1 for screen-reader mode, Option+0 to
-cancel[Accessibility Screen-Reader Guide, Feedback, and Issue Reporting |
-New window](https://accessibe.com/blog/knowledgebase/screen-reader-guide)
-An official website of the State of Louisiana. Here’s how
-you know Language Accessibility ![Image 3: State of Louisiana
-Seal](https://ldh.la.gov/build/img/state-seal-grey.svg)_Official
+Title: Rural Health Transformation Program | Louisiana Department of Health
+URL Source: https://ldh.la.gov/page/rural-health-transformation-program
+Markdown Content: Rural Health Transformation Program (RHTP) | Louisiana
+Department of Health =============== An official website of the State of
+Louisiana. Here’s how you know Language Accessibility ![Image 3: State of
+Louisiana Seal](https://ldh.la.gov/build/img/state-seal-grey.svg)_Official
 Louisiana State Websites use .la.gov_ A .la.gov website belongs
 to an official government organization in Louisiana. ![Image 4:
 Lock icon image](https://ldh.la.gov/build/img/lock.svg)_Secure
@@ -639,27 +636,27 @@ technologies** that emphasize prevention and chronic disease management. *
 between rural hospitals and other health care providers to promote measurable
 quality improvement, increase financial stability, maximize economies of scale,
 and share best practices in care delivery. * **Enhance economic opportunity**
-for, and the supply of, health care clinicians through enhanced recruitment and
-training. * **Prioritize data and technology driven solutions** that help
+for, and the supply of, health care clinicians through enhanced recruitment
+and training. * **Prioritize data and technology driven solutions** that help
 rural hospitals and other rural health care providers furnish high-quality
 health care services as close to patient’s home as possible. * **Outline
 strategies** to manage long-term financial solvency and operating models
 of rural hospitals. * **Identify specific causes** driving accelerating
 rate of stand-alone rural hospitals at risk of closure, conversion or
 service reduction. * **Certify use of funds** - will not be used for
-intergovernmental transfers, certified public expenditures, or any
-other expenditure that finances the non-federal Medicaid share. * Any
-other information that CMS administrator may require. ### Rural Health
-Facilities * Rural health clinic * Federally qualified health center *
-Community mental health center * Opioid treatment program * Health center
-receiving a grant under section 330 of the Public Health Service Act *
-Certified community behavioral health clinic located in rural census tract
-**Hospitals meeting specific rural or hospital-type criteria defined in
-Title XVIII of SSA:** * Critical access hospital * Sole community hospital
-* Medicare-dependent, small rural hospital * Low-volume hospital * Rural
-emergency hospital * Medicare subsection (d) hospital in rural area ![Image
-8](https://ldh.la.gov/assets/images/maps/Louisiana-Rural-Parishes.jpg)
-------------------------------------------------------------------------------
+intergovernmental transfers, certified public expenditures, or any other
+expenditure that finances the non-federal Medicaid share. * Any other
+information that CMS administrator may require. ### Rural Health Facilities *
+Rural health clinic * Federally qualified health center * Community mental
+health center * Opioid treatment program * Health center receiving a grant
+under section 330 of the Public Health Service Act * Certified community
+behavioral health clinic located in rural census tract **Hospitals meeting
+specific rural or hospital-type criteria defined in Title XVIII of SSA:** *
+Critical access hospital * Sole community hospital * Medicare-dependent, small
+rural hospital * Low-volume hospital * Rural emergency hospital * Medicare
+subsection (d) hospital in rural area ![Image 8: Map of Louisiana's Rural
+Parishes](https://ldh.la.gov/assets/images/maps/Louisiana-Rural-Parishes.jpg)
+-----------------------------------------------------------------------------------------------------------------
 Region / Parish-Specific Data [LDH Health Data
 Explorer](https://healthdata.ldh.la.gov/) [Rural Health
 Information Hub](https://www.ruralhealthinfo.org/)
