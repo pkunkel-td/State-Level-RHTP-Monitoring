@@ -9,10 +9,11 @@ Content](https://health.mo.gov/living/families/ruralhealth/transformation-progra
 * [MO.gov](https://www.mo.gov/) * [Governor Kehoe](https://governor.mo.gov/)
 * [Find an Agency](https://www.mo.gov/search-results?mode=state_agencies) *
 [Online Services](https://www.mo.gov/search-results?mode=online_services)
-Search Search Search Mobile Menu Button Toolbar Links
-------------- * [Email us](mailto:info@health.mo.gov "Email us") *
-[Flickr](http://www.flickr.com/photos/49879968@N04/ "View photos on Flickr")
-* [Watch Videos on Youtube](http://www.youtube.com/user/MODHSS
+Search Search Search Mobile Menu Button Powered by [![Image 2: Google
+Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)
+Toolbar Links ------------- * [Email us](mailto:info@health.mo.gov "Email
+us") * [Flickr](http://www.flickr.com/photos/49879968@N04/ "View photos on
+Flickr") * [Watch Videos on Youtube](http://www.youtube.com/user/MODHSS
 "Watch videos on Youtube") * [Follow us on
 Twitter](http://twitter.com/HealthyLivingMo "Follow us on Twitter") * [Follow
 us on Instagram](https://www.instagram.com/healthylivingmo/ "Follow us on
@@ -122,12 +123,15 @@ provide an exact translation of the website. There are circumstances where
 the service does not translate correctly and/or where translations may not
 be possible, such as with certain file types, video content, and images. In
 addition, some applications and/or services may not work as expected when
-translated. The State of Missouri has no control over the nature, content, and
-availability of the service, and accordingly, cannot guarantee the accuracy,
-reliability, or timeliness of the translation. Neither the State of Missouri
-nor its employees accept liability for any inaccuracies or errors in the
-translation or liability for any loss, damage, or other problem, including
-without limitation, indirect or consequential loss or damage arising from or
-in connection with use of the Google™ Translate Service. Google Translate
-will not translate all applications. If assistance is needed, please call
-**1-573-751-6400.** Accept Decline
+translated. The State of Missouri has no control over the nature, content,
+and availability of the service, and accordingly, cannot guarantee the
+accuracy, reliability, or timeliness of the translation. Neither the
+State of Missouri nor its employees accept liability for any inaccuracies
+or errors in the translation or liability for any loss, damage, or
+other problem, including without limitation, indirect or consequential
+loss or damage arising from or in connection with use of the Google™
+Translate Service. Google Translate will not translate all applications. If
+assistance is needed, please call **1-573-751-6400.** Accept Decline ![Image
+3](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)
+Original text Rate this translation Your feedback will be used to help
+improve Google Translate
