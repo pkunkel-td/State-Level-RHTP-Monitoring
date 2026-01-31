@@ -156,8 +156,10 @@ All](https://hcai.ca.gov/data/data-and-reports/) * Initiatives * [Data Exchange
 Framework](https://hcai.ca.gov/data/initiatives/dxf/) * [Behavioral Health
 Data](https://hcai.ca.gov/data/initiatives/behavioral-health/) * [Community
 Impact](https://hcai.ca.gov/data/initiatives/community-impact-with-data/) *
-[Office of the Patient Advocate](https://hcai.ca.gov/data/initiatives/opa/) *
-[View All](https://hcai.ca.gov/data/initiatives/) * Data Column 2 * Topics *
+[Office of the Patient Advocate](https://hcai.ca.gov/data/initiatives/opa/)
+* [Health of Primary Care in California Annual
+Snapshot](https://hcai.ca.gov/data/initiatives/health-of-primary-care-in-ca-annual-snapshot/)
+* [View All](https://hcai.ca.gov/data/initiatives/) * Data Column 2 * Topics *
 [Cost Transparency](https://hcai.ca.gov/data/cost-transparency/) * [Healthcare
 Utilization](https://hcai.ca.gov/data/healthcare-utilization/) * [Healthcare
 Quality](https://hcai.ca.gov/data/healthcare-quality/) * [Healthcare Facility
@@ -190,8 +192,8 @@ It may have moved, had its name changed, or is temporarily
 unavailable. If you typed in the URL, make sure it is spelled
 correctly. Search HCAI =========== Search Search * Footer Column 1 * [Bold
 Links](https://hcai.ca.gov/facilitating-health-care-delivery/grants-and-scholarships/rural-health-transformation-program/#)
-* [Contact Us](https://hcai.ca.gov/about/contact-us/)
-* [Newsroom](https://hcai.ca.gov/media-center/) *
+* [Contact Us](https://hcai.ca.gov/about/contact-us/) *
+[Newsroom](https://hcai.ca.gov/media-center/) *
 [Public Meetings](https://hcai.ca.gov/public-meetings)
 * [About HCAI](https://hcai.ca.gov/about/)
 * [Careers](https://hcai.ca.gov/about/careers/) * [Regular
@@ -285,7 +287,9 @@ Framework](https://hcai.ca.gov/data/initiatives/dxf/) * [Behavioral Health
 Data](https://hcai.ca.gov/data/initiatives/behavioral-health/) * [Community
 Impact](https://hcai.ca.gov/data/initiatives/community-impact-with-data/) *
 [Office of the Patient Advocate](https://hcai.ca.gov/data/initiatives/opa/) *
-[Data Services](https://hcai.ca.gov/data/data-resources/) *
+[Health of Primary Care in California Annual
+Snapshot](https://hcai.ca.gov/data/initiatives/health-of-primary-care-in-ca-annual-snapshot/)
+* [Data Services](https://hcai.ca.gov/data/data-resources/) *
 [Request Data](https://hcai.ca.gov/data/request-data/) * [Submit
 Data](https://hcai.ca.gov/data/submit-data/) [![Image 4: California State
 Logo](https://hcai.ca.gov/wp-content/themes/oshpd/assets/images/ca-logo-color.svg)
