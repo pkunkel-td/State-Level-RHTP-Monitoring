@@ -2,8 +2,8 @@ name: Monitor WV Rural Health Page
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Runs hourly
-  workflow_dispatch:      # Manual trigger for testing
+    - cron: "0 */8 * * *"   # RUNS EVERY 8 HOURS
+  workflow_dispatch:        # Manual trigger for testing
 
 jobs:
   monitor:
@@ -32,7 +32,7 @@ jobs:
           )
 
           is_blocked() {
-            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission" "$1"
+            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked" "$1"
           }
 
           FETCH_OK=false
@@ -54,19 +54,18 @@ jobs:
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # REINFORCED DE-NOISING & ENHANCED NORMALIZATION:
-            # 1. Strip all HTML/Scripts/Styles
-            # 2. Targeted regex for WV dynamic timestamps (e.g., "Dec 30, 2025")
-            # 3. Filter out "Governor Jim Justice" press sidebar and social media noise
-            # 4. Collapse all whitespace into single spaces (tr -s)
+            # WEST VIRGINIA-SPECIFIC DE-NOISING (Feb 2026):
+            # 1. Strip all HTML/Scripts/Styles.
+            # 2. Filter Governor Patrick Morrisey "News Release" sidebars and social feeds.
+            # 3. Strip dynamic session tokens and HHR portal "Breadcrumb" noise.
+            # 4. Filter "Last Updated" dates (e.g., "Jan 22, 2026") to focus on initiative shifts.
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
-              | sed -E 's/(Published|Updated|Last Modified|Page generated on|Session ID|Date): [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
-              | sed -E 's/[A-Z][a-z]{2,8} [0-9]{1,2}, 20[2-9][0-9]//g' \
+              | sed -E 's/(Published|Updated|Modified):? [A-Z][a-z]+ [0-9]{1,2}, 202[0-9]//gI' \
+              | sed -E 's/[0-9]{1,2}\/[0-9]{1,2}\/202[0-9]//g' \
               | sed '/Textise/d' \
-              | grep -vE '^[[:space:]]*[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{2,4}[[:space:]]*$' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
@@ -80,12 +79,7 @@ jobs:
           set -euo pipefail
           echo "Last checked at: $(date -u)" > WVheartbeat.txt
           
-          if [ -f WVpage_previous.txt ]; then
-            prev_hash=$(sha256sum WVpage_previous.txt | cut -d' ' -f1)
-          else
-            prev_hash="none"
-          fi
-
+          [ -f WVpage_previous.txt ] && prev_hash=$(sha256sum WVpage_previous.txt | cut -d' ' -f1) || prev_hash="none"
           current_hash=$(sha256sum WVpage_current.txt | cut -d' ' -f1)
 
           if [ "${current_hash}" != "${prev_hash}" ]; then
@@ -101,19 +95,16 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          
           git add WVheartbeat.txt
 
           if [ "${FETCH_OK}" = "false" ]; then
             git add WVpage_current.txt || true
-            git commit -m "WV RHT: Fetch failed (Access Denied)"
+            git commit -m "WV RHT: Fetch failed"
+          elif [ "${CHANGED}" = "true" ]; then
+            git add WVpage_previous.txt
+            git commit -m "ALARM: WV Content Change Detected"
           else
-            if [ "${CHANGED}" = "true" ]; then
-              git add WVpage_previous.txt
-              git commit -m "ALARM: WV Content Change Detected"
-            else
-              git commit -m "WV RHT: No changes found"
-            fi
+            git commit -m "WV RHT: Heartbeat (No changes)"
           fi
 
           git pull --rebase origin main
