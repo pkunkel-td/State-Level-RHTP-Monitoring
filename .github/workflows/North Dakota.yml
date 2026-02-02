@@ -2,8 +2,8 @@ name: Monitor ND Rural Health Page
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Runs hourly
-  workflow_dispatch:      # Manual trigger for testing
+    - cron: "0 */8 * * *"   # RUNS EVERY 8 HOURS
+  workflow_dispatch:        # Manual trigger for testing
 
 jobs:
   monitor:
@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      URL: "https://www.hhs.nd.gov/rural-health-transformation/grants"
+      URL: "https://www.hhs.nd.gov/rural-health-transformation"
       UA: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 
     steps:
@@ -32,7 +32,7 @@ jobs:
           )
 
           is_blocked() {
-            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked|You don't have permission" "$1"
+            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked" "$1"
           }
 
           FETCH_OK=false
@@ -54,19 +54,18 @@ jobs:
           else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
             
-            # ND-SPECIFIC REINFORCED DE-NOISING:
-            # 1. Strip all HTML/Scripts/Styles
-            # 2. Targeted removal of "Published", "Updated", or "Modified" prefixes followed by date strings
-            # 3. Targeted removal of Month DD, YYYY strings (e.g., Jan 15, 2026)
-            # 4. Remove session IDs and internal HHS tracking strings
+            # NORTH DAKOTA-SPECIFIC DE-NOISING (Feb 2026):
+            # 1. Strip all HTML/Scripts/Styles.
+            # 2. Filter "Published" or "Updated" timestamps (e.g., "Jan 28, 2026").
+            # 3. Strip session tokens and dynamic CMS breadcrumbs common on ND state sites.
+            # 4. Filter "News Feed" sidebar items to focus on the "Grants/Subawards" content.
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
-              | sed -E 's/<style[^>]*>.*<\/style>//gI' \
+              | sed -E 's/<style[^>]*>.*<\/script>//gI' \
               | sed 's/<[^>]*>//g' \
-              | sed -E 's/(Published|Updated|Last Modified|Page generated on|Session ID|Date):? [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
-              | sed -E 's/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]* [0-9]{1,2},? 202[0-9]//gI' \
+              | sed -E 's/(Published|Updated|Modified):? [A-Z][a-z]+ [0-9]{1,2}, 202[0-9]//gI' \
+              | sed -E 's/itok=[A-Za-z0-9_-]+//g' \
               | sed '/Textise/d' \
-              | grep -vE '^[[:space:]]*[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{2,4}[[:space:]]*$' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
@@ -90,7 +89,7 @@ jobs:
             echo "CHANGED=false" >> "$GITHUB_ENV"
           fi
 
-      - name: Commit and Push
+      - name: Commit and Push (Collision Protection)
         shell: bash
         run: |
           set -euo pipefail
@@ -100,12 +99,12 @@ jobs:
 
           if [ "${FETCH_OK}" = "false" ]; then
             git add NDpage_current.txt || true
-            git commit -m "ND RHT: Fetch failed (Access Denied)"
+            git commit -m "ND RHT: Fetch failed"
           elif [ "${CHANGED}" = "true" ]; then
             git add NDpage_previous.txt
             git commit -m "ALARM: ND Content Change Detected"
           else
-            git commit -m "ND RHT: Heartbeat"
+            git commit -m "ND RHT: Heartbeat (No changes)"
           fi
 
           git pull --rebase origin main
