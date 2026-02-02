@@ -1,6 +1,6 @@
 Title: Pages - Rural Health Transformation Program URL Source:
 https://health.maryland.gov/pophealth/Pages/Rural-Health-Transformation-Program.aspx
-Markdown Content: Pages - Rural Health
+GMT Markdown Content: Pages - Rural Health
 Transformation Program =============== ![Image
 2](https://health.maryland.gov/_layouts/15/MDH/img/favicon.ico?v=1&rev=43)![Image
 3](https://health.maryland.gov/_layouts/15/images/spcommon.png?rev=43)![Image
@@ -665,56 +665,50 @@ Health](https://health.maryland.gov/pophealth/Pages/Rural-health.aspx)
 * [Workforce
 Development](https://health.maryland.gov/pophealth/Pages/Workforce.aspx)
 Left_Content
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 Rural Health Transformation Program (RHTP)
-========================================== Main_Content Background
-​​[​​​H.R. 1](https://www.congress.gov/crs-product/IN12578),
-enacted into law on July 4,
-2025, created a $50 billion fund called the [Rural Health Transformation
+==========================================
+Main_Content Background ​​[​​​H.R.
+1](https://www.congress.gov/crs-product/IN12578), enacted into
+law on , created a $50 billion fund called the [Rural Health Transformation
 Program](https://www.cms.gov/priorities/rural-health-transformation-rht-program/rural-health-transformation-rht-program)[(RHTP)](https://www.cms.gov/priorities/rural-health-transformation-rht-program/rural-health-transformation-rht-program).
-Maryland's Award On December 29, 2025, Maryland was pleased to
-receive a notice of award from the [Centers for Medicare and Medicaid Services
+Maryland's Award On , Maryland was pleased to receive a
+notice of award from the [Centers for Medicare and Medicaid Services
 (CMS)](https://www.cms.gov/newsroom/press-releases/cms-announces-50-billion-awards-strengthen-rural-health-all-50-states)
 for $168,180,837.61 for budget period one, of five, of the Rural
 Health Transformation Program. Maryland is currently in discussion with
 CMS regarding approved programs and adjusted budget details.​See additional
 information[here](https://health.maryland.gov/newsroom/Pages/Moore-Miller%20Administration%20secures%20$168%20million%20in%20federal%20funding%20to%20advance%20health%20care%20in%20rural%20Maryland%20communities.aspx).
-Updates will be posted on this page as available, including
-opportunities to apply for the RHTP Committee and to submit proposals
-for competitive subrecipient funding. Please continue to follow for
-more information. Rural Health Transformation Committee: Accepting
-Applications! ​The Maryland Department of Health is committed
-to gathering robust input from rural communities to guide RHTP
-activities. We invite rural residents and organizations to join the RHT
-Committee, to offer feedback and input to help guide implementation
-of Maryland’s award. The State seeks volunteers representing the
-perspectives of rural Maryland-based organizations and/or communities
-to participate. See [additional information and application instructions
+Updates will be posted on this page as available, including opportunities
+to apply for the RHTP Committee and to submit proposals for competitive
+subrecipient funding. Please continue to follow for more information. Rural
+Health Transformation Committee The Maryland Department of Health is
+committed to gathering robust input from rural communities to guide
+RHTP activities. The RHT Committee will offer feedback and input to
+help guide implementation of Maryland’s award. See [additional information
 here](https://health.maryland.gov/pophealth/Pages/Rural-Health-Transformation-Program-Committee.aspx)​!
 R​​​HTP Application and Timeline CMS posted a Notice of Funding
-Opportunity for states to apply for the RHTP on September 15, 2025. To
-gather feedback to inform the proposal, the Department: * Released a
-Request for Information (RFI) invitation on September 9, 2025. The RFI
-closed on September 30 and the Department received over 325 responses. *
-Held an introductory public webinar on September 15, 2025. Slides are
+Opportunity for states to apply for the RHTP on . To gather feedback to inform
+the proposal, the Department: * Released a Request for Information (RFI)
+invitation on . The RFI closed on September 30 and the Department received
+over 325 responses. * Held an introductory public webinar on . Slides are
 available[here](https://health.maryland.gov/pophealth/Documents/Rural%20Health/RFI%20RHTP%20Slides%20-%20Public%20Webinar.pdf).
 * Collaborated ​with local health departments to organize 17 [local listening
 sessions](https://health.maryland.gov/pophealth/Pages/Rural%20Health%20Transformation%20Program%20Listening%20Sessions.aspx)
-held in-person and virtually throughout rural Maryland. More
-than 250 people participated. * On October 20, 2025, the
-Department presented a summary of the feedback and an outline
-of our draft Rural Health Transformation Plan. [Slides are available
+held in-person and virtually throughout rural Maryland. More than 250 people
+participated. * On , the Department presented a summary of the feedback and
+an outline of our draft Rural Health Transformation Plan. [Slides are available
 here.](https://drive.google.com/file/d/1pxlFQvnlcYF1q0XyhDW1oHBf8HNILmYJ/view?usp=sharing)
-* Maryland submitted an application by the
-deadline posted. Maryland’s submitted progam narrative is [available
-here](https://health.maryland.gov/pophealth/Documents/Rural%20Health/RHTP/MD-Project-Narrative-CMS-RHT-26-001-Cover-Updated-Watermark-%283%29.pdf).
+* Maryland submitted an application by the deadline
+posted. Maryland’s submitted progam narrative is [available
+here](https://health.maryland.gov/pophealth/Documents/Rural%20Health/RHTP/MD-Project-Narrative--Cover-Updated-Watermark-%283%29.pdf).
 ​ A summary of Maryland’s [proposal is available
 here](https://health.maryland.gov/pophealth/Documents/Rural%20Health/RHTP/FINAL%20One%20Pager.pdf)​
 and below. ​![Image
 8](https://health.maryland.gov/pophealth/Documents/Rural%20Health/RHTP/Maryland-Proposal-for-CMS%27-Rural-Health-Transformation-Program.jpg)​​​
-Learn More We invite you to email mdh.transformruralhealth@maryland.gov​
-with any questions. Center_Content ​​​​​​​​​​​ ​​
-Last Updated: 01-27-2026​ ![Image 9: Site
+Learn More We invite you to email
+mdh.transformruralhealth@maryland.gov​ with any questions. Center_Content
+​​​​​​​​​​​ ​​ Last Updated: ​ ![Image 9: Site
 Logo](https://health.maryland.gov/Style%20Library/egov/img/DoL_primary_white_72ppi.png)
 **Maryland Department of Health** 201 W. Preston Street,
 Baltimore, MD 21201 (410)767-6500 or 1-877-463-3464 * [About
@@ -1066,5 +1060,3 @@ DoIT不對因使用或依賴翻譯後的內容所造成的損失、損害或問�
 DoIT不對任何網站訪問者與使用Google翻譯功能或內容相關的活動負責。
 Google翻譯服務是DoIT為其網站使用者提供的一項翻譯工具，其唯一的目的是為英語非母語的網站使用者提供方便。
 Google直接提供動態的內容翻譯服務，而DoIT不直接控制翻譯後的內容，即使其使用該工具。因此，在各種情況下，使用者應以DoIT為其直接提供的英文內容為準。
-Type a message here... [Free live chat⚡ by
-·](https://www.chaport.com/powered-by-chaport?utm_source=health.maryland.gov&utm_medium=widget)
