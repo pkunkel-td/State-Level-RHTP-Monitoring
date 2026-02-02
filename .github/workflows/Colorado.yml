@@ -2,8 +2,8 @@ name: Monitor CO Rural Health Page
 
 on:
   schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 */8 * * *"   # RUNS EVERY 8 HOURS
+  workflow_dispatch:        # Manual trigger for testing
 
 jobs:
   monitor:
@@ -25,23 +25,47 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          MIRRORS=("https://r.jina.ai/${URL}" "https://www.textise.org/showtext.aspx?strURL=${URL}")
+
+          MIRRORS=(
+            "https://r.jina.ai/${URL}"
+            "https://www.textise.org/showtext.aspx?strURL=${URL}"
+          )
+
+          is_blocked() {
+            grep -qiE "Access Denied|403 Forbidden|Security Service|Please enable cookies|unusual traffic|blocked" "$1"
+          }
+
           FETCH_OK=false
+          > raw.txt || true
+
           for MIRROR in "${MIRRORS[@]}"; do
-            if curl -sL --fail --retry 3 -A "${UA}" "${MIRROR}" > raw.txt; then
-              if ! grep -qiE "Access Denied|403 Forbidden" raw.txt; then
-                FETCH_OK=true; break
+            echo "Attempting mirror: ${MIRROR}"
+            if curl -sL --fail --retry 3 -A "${UA}" -H "Referer: https://www.google.com/" "${MIRROR}" > raw.txt; then
+              if ! is_blocked raw.txt; then
+                FETCH_OK=true
+                break
               fi
             fi
           done
 
-          if [ "${FETCH_OK}" = "true" ]; then
+          if [ "${FETCH_OK}" = "false" ]; then
+            echo "FETCH_FAILED: Access Denied or mirrors unavailable" > COpage_current.txt
+            echo "FETCH_OK=false" >> "$GITHUB_ENV"
+          else
             echo "FETCH_OK=true" >> "$GITHUB_ENV"
+            
+            # COLORADO-SPECIFIC DE-NOISING (Feb 2026):
+            # 1. Strip all HTML/Scripts/Styles
+            # 2. Filter dynamic "Last Updated" or "Page Modified" footers
+            # 3. Filter session-based tracking IDs (e.g., _ga, _gid)
+            # 4. Collapse whitespace and wrap
             cat raw.txt \
               | sed -E 's/<script[^>]*>.*<\/script>//gI' \
               | sed -E 's/<style[^>]*>.*<\/style>//gI' \
               | sed 's/<[^>]*>//g' \
-              | sed -E 's/(Published|Updated|Last Modified) Time: [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+ [^ ]+//gI' \
+              | sed -E 's/(Page Last Updated|Updated|Published|Modified):? [A-Za-z]+ [0-9]{1,2}, 202[0-9]//gI' \
+              | sed -E 's/Session ID: [A-Z0-9-]+//gI' \
+              | sed '/Textise/d' \
               | tr -s '[:space:]' ' ' \
               | fmt -w 80 \
               | sed 's/^ //;s/ $//' \
@@ -49,21 +73,39 @@ jobs:
           fi
 
       - name: Compare and Heartbeat
+        id: check
+        shell: bash
         run: |
-          echo "Last checked: $(date -u)" > COheartbeat.txt
-          [ -f COpage_previous.txt ] && prev=$(sha256sum COpage_previous.txt | cut -d' ' -f1) || prev="none"
-          curr=$(sha256sum COpage_current.txt | cut -d' ' -f1)
-          if [ "$curr" != "$prev" ]; then echo "CHANGED=true" >> "$GITHUB_ENV"; mv COpage_current.txt COpage_previous.txt; else echo "CHANGED=false" >> "$GITHUB_ENV"; fi
+          set -euo pipefail
+          echo "Last checked at: $(date -u)" > COheartbeat.txt
+          
+          [ -f COpage_previous.txt ] && prev_hash=$(sha256sum COpage_previous.txt | cut -d' ' -f1) || prev_hash="none"
+          current_hash=$(sha256sum COpage_current.txt | cut -d' ' -f1)
+
+          if [ "${current_hash}" != "${prev_hash}" ]; then
+            echo "CHANGED=true" >> "$GITHUB_ENV"
+            mv COpage_current.txt COpage_previous.txt
+          else
+            echo "CHANGED=false" >> "$GITHUB_ENV"
+          fi
 
       - name: Commit and Push (Collision Protection)
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add COheartbeat.txt
-          if [ "${FETCH_OK}" = "true" ] && [ "${CHANGED}" = "true" ]; then 
-            git add COpage_previous.txt && git commit -m "ALARM: CO Content Change"
-          else 
-            git commit -m "CO RHT: Heartbeat"
+
+          if [ "${FETCH_OK}" = "false" ]; then
+            git add COpage_current.txt || true
+            git commit -m "CO RHT: Fetch failed"
+          elif [ "${CHANGED}" = "true" ]; then
+            git add COpage_previous.txt
+            git commit -m "ALARM: CO Content Change Detected"
+          else
+            git commit -m "CO RHT: Heartbeat (No changes)"
           fi
+
           git pull --rebase origin main
           git push
