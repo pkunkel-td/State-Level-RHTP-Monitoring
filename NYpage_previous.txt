@@ -75,34 +75,34 @@ Healthcare in New York ========================================= ![Image
 New York State has submitted its application to the Centers for Medicare
 & Medicaid Services (CMS) for the [Rural Health Transformation (RHT)
 Program](https://www.cms.gov/priorities/rural-health-transformation-rht-program/overview).
-New York's Rural Health Transformation plan includes the following
-initiatives: **Rural Community Health Integration:** Establish coordinated
-rural health partnerships that facilitate/finance communities to develop
-comprehensive care coordination enhancing patient access to a wide range
-of providers across the care continuum, effectively addressing health
-and social needs. **Strengthening Rural Communities with Technology -
-Enhanced Primary Care:** Improve rural patient access and utilization of
-high-quality primary care through the Patient- Centered Medical Home model
-with the incorporation of Artificial Intelligence. A primary care practice
-designated a Patient-Centered Medical Home by the National Committee for
-Quality Assurance focuses on team-based care, patient-centered access and
-continuity of care, care management support when needed, care coordination,
-and quality improvement processes. **Rural Roots:** Building a Sustainable
-Rural Healthcare Workforce: Create a self-sustaining cycle of workforce
-development and pipeline that addresses both immediate staffing needs
-and long-term capacity-building, ensuring New York's rural communities
-have continuous access to high-quality health care services tailored to
-their regional circumstances. **Investments in Technology Innovation and
-Cybersecurity Enhancements for Rural New York:** Expand access to care
-through telehealth, improving patient outcomes through eConsult partnerships,
-increasing usable alerts in rural counties, and strengthening cybersecurity
-of rural facilities. The Department of Health submitted an application to the
-Centers for Medicare and Medicaid Services on . * [Application Project Summary
+New York's Rural Health Transformation plan includes the following initiatives:
+**Rural Community Health Integration:** Establish coordinated rural health
+partnerships that facilitate/finance communities to develop comprehensive care
+coordination enhancing patient access to a wide range of providers across the
+care continuum, effectively addressing health and social needs. **Strengthening
+Rural Communities with Technology - Enhanced Primary Care:** Improve rural
+patient access and utilization of high-quality primary care through the
+Patient- Centered Medical Home model with the incorporation of Artificial
+Intelligence. A primary care practice designated a Patient-Centered Medical
+Home by the National Committee for Quality Assurance focuses on team-based
+care, patient-centered access and continuity of care, care management support
+when needed, care coordination, and quality improvement processes. **Rural
+Roots:** Building a Sustainable Rural Healthcare Workforce: Create a
+self-sustaining cycle of workforce development and pipeline that addresses
+both immediate staffing needs and long-term capacity-building, ensuring
+New York's rural communities have continuous access to high-quality health
+care services tailored to their regional circumstances. **Investments
+in Technology Innovation and Cybersecurity Enhancements for Rural New
+York:** Expand access to care through telehealth, improving patient
+outcomes through eConsult partnerships, increasing usable alerts in
+rural counties, and strengthening cybersecurity of rural facilities. The
+Department of Health submitted an application to the Centers for Medicare
+and Medicaid Services on November 4, 2025. * [Application Project Summary
 (PDF)](https://www.health.ny.gov/facilities/transforming_rural_healthcare/docs/project_summary.pdf)
-* [Application Project Narrative Submitted
-to the Center for Medicare and Medicaid Services on
+* [Application Project Narrative Submitted to the
+Center for Medicare and Medicaid Services on November 4, 2025
 (PDF)](https://www.health.ny.gov/facilities/transforming_rural_healthcare/docs/project_narrative.pdf)
-* [ Presentation
+* [January 16, 2026 Presentation
 (PDF)](https://www.health.ny.gov/facilities/transforming_rural_healthcare/docs/2026-01-16_presentation.pdf)
 [Back to
 top](https://www.health.ny.gov/facilities/transforming_rural_healthcare/#home)
@@ -156,9 +156,9 @@ Used on this Web Site](https://www.health.ny.gov/help/file_types.htm)
 [Privacy Policy](https://www.health.ny.gov/about/privacy.htm) *
 [Accessibility](https://www.health.ny.gov/contact/accessibility.htm)
 #### Language Assistance *
-[English](https://www.health.ny.gov/contact/translate.htm#english) * [Español
-(Spanish)](https://www.health.ny.gov/contact/translate.htm#spanish) * [中文
-(Chinese)](https://www.health.ny.gov/contact/translate.htm#chinese)
+[English](https://www.health.ny.gov/contact/translate.htm#english) *
+[Español (Spanish)](https://www.health.ny.gov/contact/translate.htm#spanish) *
+[中文 (Chinese)](https://www.health.ny.gov/contact/translate.htm#chinese)
 * [Русский
 (Russian)](https://www.health.ny.gov/contact/translate.htm#russian)
 * [ইংরেজি
