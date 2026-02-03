@@ -1,14 +1,14 @@
 Title: Rural health URL Source: https://dhhs.utah.gov/ruralhealth/
-Published Time: Mon, 12 Jan 2026 16:07:29 GMT Markdown Content: Rural
-Health Transformation Program -----------------------------------
-Helping Utahns live safe and healthy lives Utah awarded $195 million
-from CMS for the first year of the Rural Health Transformation Program
+Markdown Content: Rural Health Transformation Program
+----------------------------------- Helping Utahns live
+safe and healthy lives Utah awarded $195 million from
+CMS for the first year of the Rural Health Transformation Program
 ------------------------------------------------------------------------------------------------
 The Utah Department of Health and Human Services (DHHS) is pleased to announce
 the successful first-year award of Utah’s Rural Health Transformation Program
 (RHTP) from the Centers for Medicare and Medicaid Services (CMS). **Utah’s
-first-year award from CMS totals $195,743,566.** [CMS announced on
-](https://www.cms.gov/newsroom/press-releases/cms-announces-50-billion-awards-strengthen-rural-health-all-50-states),
+first-year award from CMS totals $195,743,566.** [CMS announced on December 29,
+2025](https://www.cms.gov/newsroom/press-releases/cms-announces-50-billion-awards-strengthen-rural-health-all-50-states),
 that “all 50 states will receive awards under the Rural Health Transformation
 Program, a $50 billion initiative established under President Trump’s Working
 Families Tax Cuts legislation (Public Law 119-21) to strengthen and modernize
@@ -82,8 +82,8 @@ rural healthcare access, infrastructure, and workforce development**. Utah
 is expected to receive a minimum of**$100 million annually**from federal
 fiscal year 2026 to 2030. To access these funds, Utah submitted a rural
 health transformation plan to the Centers for Medicare and Medicaid
-Services (CMS) and expects to receive a**notice of award**by . While
-this funding may partially offset projected decreases in federal
+Services (CMS) and expects to receive a**notice of award**by December 31,
+2025. While this funding may partially offset projected decreases in federal
 Medicaid spending for rural Utah due to HR 1, it is also a significant
 opportunity to reshape rural healthcare and aligns with Governor Cox's
 strategic objective to improve rural healthcare access. [Learn more about this
