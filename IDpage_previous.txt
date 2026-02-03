@@ -147,7 +147,7 @@ Smoke](https://healthandwelfare.idaho.gov/health-wellness/environmental-health/i
 "Wildfire Smoke") * [Diseases &
 Conditions](https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions
 "Diseases & Conditions") * [Alzheimer’s Disease and Related
-Dementias](https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/alzheimers-disease-and-related-dementias
+Dementias](https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/about-alzheimers-disease-and-related-dementias
 "Alzheimer’s Disease and Related Dementias") *
 [Asthma](https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/asthma
 "Asthma") *
@@ -339,7 +339,7 @@ Health](https://healthandwelfare.idaho.gov/health-wellness/environmental-health
 Conditions](https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions
 "Diseases & Conditions")Expand this accordion
 item.Collapse this accordion item. * [Alzheimer’s Disease and Related
-Dementias](https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/alzheimers-disease-and-related-dementias
+Dementias](https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/about-alzheimers-disease-and-related-dementias
 "Alzheimer’s Disease and Related Dementias") *
 [Asthma](https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/asthma
 "Asthma") *
