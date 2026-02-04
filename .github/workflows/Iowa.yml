@@ -2,7 +2,7 @@ name: Monitor IA Rural Health Page
 
 on:
   schedule:
-    - cron: "0 */8 * * *"   # RUNS EVERY 8 HOURS
+    - cron: "4 */8 * * *"   # RUNS EVERY 8 HOURS
   workflow_dispatch:        # Manual trigger for testing
 
 jobs:
