@@ -1,6 +1,6 @@
 Title: Rural Health Transformation URL Source:
-https://www.hhs.nd.gov/rural-health-transformation Published Time: Tue,
-03 Feb 2026 07:44:46 GMT Markdown Content: Rural Health Transformation
+https://www.hhs.nd.gov/rural-health-transformation Published Time: Wed,
+04 Feb 2026 18:09:55 GMT Markdown Content: Rural Health Transformation
 | Health and Human Services North Dakota =============== [Skip to main
 content](https://www.hhs.nd.gov/rural-health-transformation#main-content) -
 [x] An official website of the state of North Dakota. Here's how you know
@@ -296,11 +296,9 @@ Counselors](https://www.hhs.nd.gov/applyforhelp/rent-help/application-counselors
 Program](https://www.hhs.nd.gov/applyforhelp/liheap)› X * Back
 ‹ * Low Income Home Energy Assistance Program * [LIHEAP Vendor
 Information](https://www.hhs.nd.gov/applyforhelp/liheap/liheap-vendor-information)
-* [ND Help for Homeowners](https://www.hhs.nd.gov/applyforhelp/homeowner-help)
-* - [x] [NDRH Housing
-Stability](https://www.hhs.nd.gov/applyforhelp/ndrh-housing-stability)›
-X * Back ‹ * NDRH Housing Stability * [ND Rent Help
-FAQs](https://www.hhs.nd.gov/applyforhelp/rent-help/nd-rent-help-faqs)
+* [ND Help for
+Homeowners](https://www.hhs.nd.gov/applyforhelp/homeowner-help) * [NDRH Housing
+Stability](https://www.hhs.nd.gov/applyforhelp/ndrh-housing-stability)
 * [Publications - Apply for
 Help](https://www.hhs.nd.gov/applyforhelp/publications) * - [x] [Temporary
 Assistance for Needy Families (TANF) and Job Opportunities and Basic Skills
@@ -524,11 +522,9 @@ X * Back ‹ * North Dakota
 Diabetes Prevention & Control Program * [Assess Your
 Risk](https://www.hhs.nd.gov/public-health-information/diseases-conditions-and-immunization/north-dakota-diabetes-prevention-0)
 * - [x] [Diabetes Lifestyle
-Coaches](https://www.hhs.nd.gov/public-health-information/diseases-conditions-and-immunization/north-dakota-diabetes-prevention-6)›
+Coaches](https://www.hhs.nd.gov/health/diseases-conditions-and-immunization/north-dakota-diabetes-prevention-control-program-1)›
 X * Back ‹ * Diabetes Lifestyle Coaches * [Diabetes Coaching
 Materials](https://www.hhs.nd.gov/public-health-information/diseases-conditions-and-immunization/north-dakota-diabetes-prevention-6-0)
-* [Lifestyle Coaching
-Resources](https://www.hhs.nd.gov/public-health-information/diseases-conditions-and-immunization/north-dakota-diabetes-prevention-6-1)
 * [Provider
 Resources](https://www.hhs.nd.gov/public-health-information/diseases-conditions-and-immunization/north-dakota-diabetes-prevention-6-2)
 * - [x] [Diabetes
