@@ -67,7 +67,8 @@ Us](https://www.health.ny.gov/facilities/transforming_rural_healthcare/#)
 * [Related Sites](https://www.health.ny.gov/related/) *
 [Health Topics A to Z](https://www.health.ny.gov/healthaz/) *
 [Search](https://www.health.ny.gov/facilities/transforming_rural_healthcare/#)
-* You are Here: [Home Page](https://health.ny.gov/)**>**[Hospitals,
+* [×](javascript:void(0) "Clear search box") You are
+Here: [Home Page](https://health.ny.gov/)**>**[Hospitals,
 Nursing Homes, Home Care, Hospice & Other Health Care
 Facilities](https://www.health.ny.gov/facilities/)**>**Transforming
 Rural Healthcare in New York Transforming Rural
@@ -186,12 +187,11 @@ Language Translations](https://www.ny.gov/website-language-translations)
 * [THREADS](https://threads.net/nysdoh) *
 [BLUESKY](https://bsky.app/profile/nysdoh.bsky.social)
 * [Agencies](https://www.ny.gov/agencies) *
-[App Directory](https://www.ny.gov/mobileapps) *
-[Counties](https://www.ny.gov/counties) * [Events](https://www.ny.gov/events)
-* [Programs](https://www.ny.gov/programs)
-* [Services](https://www.ny.gov/services)
-[](https://www.health.ny.gov/facilities/transforming_rural_healthcare/) ###
-[Translation Services](https://www.ny.gov/web-translation-services)
+[App Directory](https://www.ny.gov/mobileapps)
+* [Counties](https://www.ny.gov/counties) *
+[Events](https://www.ny.gov/events) * [Programs](https://www.ny.gov/programs)
+* [Services](https://www.ny.gov/services) ### [Translation
+Services](https://www.ny.gov/web-translation-services)
 This page is available in other languages *
 [Translate](https://www.health.ny.gov/facilities/transforming_rural_healthcare/)
 * [English](https://health.ny.gov/facilities/transforming_rural_healthcare/) *
