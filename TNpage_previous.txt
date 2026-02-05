@@ -12,9 +12,9 @@ Health](https://www.tn.gov/content/dam/headers/health.png)](https://www.tn.gov/h
 [Health Professionals](https://www.tn.gov/health/health-professionals.html)
 * [News](https://www.tn.gov/health/news.html) * [Program
 Areas](https://www.tn.gov/health/health-program-areas.html) *
-[Statistical Data](https://www.tn.gov/health/statistics.html) [Print This
-Page](javascript:window.print();) [Print This Page](javascript:window.print();)
-[Go to Search](https://www.tn.gov/health/rural.html) *
+[Statistical Data](https://www.tn.gov/health/statistics.html)
+[Print This Page](javascript:window.print();) [Print This
+Page](javascript:window.print();) [Go to Search](javascript:;) *
 [Home](https://www.tn.gov/health.html) * [Rural Health Access for Tennessee's
 Future](https://www.tn.gov/health/rural.html) Rural Health Access for
 Tennessee's Future ========================================== Information
