@@ -1,6 +1,6 @@
 Title: Rural Health Transformation URL Source:
 https://www.hhs.nd.gov/rural-health-transformation Published Time: Fri,
-06 Feb 2026 07:41:51 GMT Markdown Content: Rural Health Transformation
+06 Feb 2026 16:55:19 GMT Markdown Content: Rural Health Transformation
 | Health and Human Services North Dakota =============== [Skip to main
 content](https://www.hhs.nd.gov/rural-health-transformation#main-content) -
 [x] An official website of the state of North Dakota. Here's how you know
@@ -1100,8 +1100,10 @@ Adult](https://www.hhs.nd.gov/adults-and-aging/reporting) [988 Suicide
 "988 Suicide Prevention") [](https://www.hhs.nd.gov/contact
 "Contact Us") [](https://www.facebook.com/hhsndgov "Follow
 Us on Facebook")[](https://twitter.com/hhsndgov "Follow Us on
-Twitter")[](https://www.linkedin.com/company/hhsndgov "Link me on
-Linkedin")[](https://www.instagram.com/hhsndgov "Subscribe on Instagram")
+Twitter")[](https://www.linkedin.com/company/hhsndgov "Link me
+on Linkedin")[](https://www.instagram.com/hhsndgov "Subscribe
+on Instagram") [HHS website upgrade scheduled for Feb. 9-13. Learn
+more.](https://www.hhs.nd.gov/website-upgrade)[](https://www.hhs.nd.gov/rural-health-transformation)
 [](https://www.hhs.nd.gov/rural-health-transformation) Breadcrumb
 1. [Home](https://www.hhs.nd.gov/) 2. Rural Health Transformation
 Rural Health Transformation =========================== Medium ![Image
@@ -1159,8 +1161,8 @@ solutions to help make North Dakota the healthiest state in the nation. Medium
 Timeline -------- ![Image 10: Diagram of Rural Health Transformation Program
 timeline](https://www.hhs.nd.gov/sites/www/files/documents/general%20images/Medical%20Services/rhtp.png)
 * Submission deadline November 5. ND HHS submitted November 3. * ND HHS
-Provider Readiness Survey November 2025 * Awardee decisions by December 31
-* Anticipated release of subawards opportunities January 2026 * All awards
+Provider Readiness Survey November 2025 * Awardee decisions by December 31 *
+Anticipated release of subawards opportunities January 2026 * All awards
 will require an agreement between HHS and the entity awarded funds. * Award
 process will include a mechanism to ensure funding is prioritized relative to
 impact to communities in need and/or tribal and rural/frontier communities. HHS
