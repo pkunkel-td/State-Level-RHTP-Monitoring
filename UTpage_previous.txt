@@ -1,8 +1,8 @@
 Title: Rural health URL Source: https://dhhs.utah.gov/ruralhealth/
-Published Time: Thu, 05 Feb 2026 15:20:41 GMT Markdown Content: Rural
-Health Transformation Program -----------------------------------
-Helping Utahns live safe and healthy lives Utah awarded $195 million
-from CMS for the first year of the Rural Health Transformation Program
+Markdown Content: Rural Health Transformation Program
+----------------------------------- Helping Utahns live
+safe and healthy lives Utah awarded $195 million from
+CMS for the first year of the Rural Health Transformation Program
 ------------------------------------------------------------------------------------------------
 The Utah Department of Health and Human Services (DHHS) is pleased to announce
 the successful first-year award of Utah’s Rural Health Transformation Program
