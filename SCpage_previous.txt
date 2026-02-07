@@ -1,12 +1,11 @@
 Title: Grants | SCDHHS URL Source: https://www.scdhhs.gov/resources/grants
 Markdown Content: Grants | SCDHHS =============== [Skip to main
-content](https://www.scdhhs.gov/resources/grants#main-content) SCAM ALERT
-Healthy Connections Medicaid team members and managed care plans will never
-ask for money, gift cards or something else of monetary value via text, email
-or a phone call. If someone contacts you asking for something of monetary
-value to get or keep Medicaid coverage, please report it by contacting
-the Medicaid fraud hotline at (888) 364-3224 Monday through Friday from
-8:30 a.m. to 5 p.m. or by sending an email to FraudRes@scdhhs.gov. [![Image 1:
+content](https://www.scdhhs.gov/resources/grants#main-content)
+ATTENTION: SCDHHS recently mailed the 2025 IRS 1099-MISC form
+to eligible Medicaid-enrolled providers that meet IRS-defined
+thresholds. Reprint requests will be accepted starting March
+11. Providers can request a reprint or submit an inquiry online or
+by calling the Provider Service Center at (888) 289-0709. [![Image 1:
 Home](https://www.scdhhs.gov/themes/custom/ngpsb2/images/scgov-logo.svg)](https://sc.gov/)
 Top Nav ------- * [Agency Listing](https://sc.gov/Agency-Listing
 "View and search a list of South Carolina government agencies.") *
@@ -79,8 +78,8 @@ Manual](https://www.scdhhs.gov/providers/manuals/home-and-community-based-servic
 * [Home Health Services
 Manual](https://www.scdhhs.gov/providers/manuals/home-health-services-manual)
 * [Hospice Services
-Manual](https://www.scdhhs.gov/providers/manuals/hospice-services-manual)
-* [Hospital Services
+Manual](https://www.scdhhs.gov/providers/manuals/hospice-services-manual) *
+[Hospital Services
 Manual](https://www.scdhhs.gov/providers/manuals/hospital-services-manual)
 * [Licensed Independent Practitioners (LIP) Rehabilitative Services
 Manual](https://www.scdhhs.gov/providers/manuals/licensed-independent-practitioners-lip-rehabilitative-services-manual)
@@ -156,8 +155,8 @@ Groups](https://www.scdhhs.gov/partners/committees-and-groups) * [Reports and
 Statistics](https://www.scdhhs.gov/data-and-research/reports-and-statistics)
 * [Data and
 Research](https://www.scdhhs.gov/partners/reports-and-statistics/data-and-research)
-* [Transparency](https://www.scdhhs.gov/data-and-research/transparency) *
-[Medicaid Enrollment
+* [Transparency](https://www.scdhhs.gov/data-and-research/transparency)
+* [Medicaid Enrollment
 Dashboard](https://www.scdhhs.gov/partners/reports-and-statistics/medicaid-enrollment-dashboard)
 * [Aged 65 and
 Older](https://www.scdhhs.gov/partners/reports-and-statistics/medicaid-enrollment-dashboard/medicaid-enrollment-aged-65-and-older)
@@ -269,15 +268,15 @@ under this grant must be used as **one-time infrastructure funds**to support
 rural and medically underserved areas through the creation or improvement of
 facilities that provide healthcare services to residents of those areas. The
 goal of the Rural & Medically Underserved Area Grant Opportunity is to
-promote the creation and/or improvement of healthcare facilities that
-deliver services that are high quality, cost-effective, coordinated,
-and equitable in rural and medically underserved settings. In order to
-achieve these goals, facilities have committed to improving health outcomes,
-increasing access to essential healthcare services, and providing quality
-care. SCDHHS has issued $48.2 million in total funds to healthcare providers
-across the state to create and/or improve access to healthcare services in
-these rural and medically underserved areas. Grant awardees were awarded
-up to $3 million per application. **The deadline to submit completed grant
+promote the creation and/or improvement of healthcare facilities that deliver
+services that are high quality, cost-effective, coordinated, and equitable
+in rural and medically underserved settings. In order to achieve these goals,
+facilities have committed to improving health outcomes, increasing access
+to essential healthcare services, and providing quality care. SCDHHS has
+issued $48.2 million in total funds to healthcare providers across the
+state to create and/or improve access to healthcare services in these
+rural and medically underserved areas. Grant awardees were awarded up
+to $3 million per application. **The deadline to submit completed grant
 application packets to**[grants@scdhhs.gov](mailto:grants@scdhhs.gov)**was
 Monday, Dec. 4, 2023.** Grant awardees were notified via email on
 the grant award date, Feb. 2, 2024. View the list of the awardees below.
@@ -540,9 +539,9 @@ Practices](https://www.scdhhs.gov/internet/pdf/SCDHHSNoticeofPrivacyPractices080
 "This notice describes how medical information about you
 may be used and disclosed and how you can get access to
 this information. Please review it carefully") * [Notice of
-Non-Discrimination](https://www.scdhhs.gov/legal/notice-non-discrimination)
-* [Supported Browsers](https://www.scdhhs.gov/legal/supported-browsers) *
-[Authorization to Disclose Health
+Non-Discrimination](https://www.scdhhs.gov/legal/notice-non-discrimination) *
+[Supported Browsers](https://www.scdhhs.gov/legal/supported-browsers)
+* [Authorization to Disclose Health
 Information](https://www.scdhhs.gov/internet/pdf/SCDHHS%20HIPAA%20AuthorizationtoReleaseInfo%2003_06%20revision.pdf
 "This notice describes how medical information about you may be used
 and disclosed and how you can get access to this information. Please
