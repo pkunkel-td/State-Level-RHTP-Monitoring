@@ -634,36 +634,24 @@ Involved](https://www.michigan.gov/mdhhs/keep-mi-healthy/maternal-and-infant-hea
 * [Mother Infant Health & Equity Collaborative (MIHEC)
 Meetings](https://www.michigan.gov/mdhhs/keep-mi-healthy/maternal-and-infant-health/mih-meetings)
 Doing Business with MDHHS [Go to Doing Business with
-MDHHS](https://www.michigan.gov/mdhhs/doing-business) * MIBridges Partners *
-Birth, Death, Marriage and Divorce Records * Boards and Commissions * [Bridge
-Card Participation](https://www.michigan.gov/mdhhs/doing-business/ebt) * [Child
-& Adult Provider Payments](https://www.michigan.gov/mdhhs/doing-business/eft)
+MDHHS](https://www.michigan.gov/mdhhs/doing-business) * Birth, Death,
+Marriage and Divorce Records * Boards and Commissions * [Bridge Card
+Participation](https://www.michigan.gov/mdhhs/doing-business/ebt) * [Child &
+Adult Provider Payments](https://www.michigan.gov/mdhhs/doing-business/eft)
 * Child Care Fund * Child Welfare * [Contractor and Subrecipient
 Resources](https://www.michigan.gov/mdhhs/doing-business/contractor)
 * Office of Faith Engagement * Community & Faith-Based
 Programs * Farmworker Outreach Services Division * [Forms &
 Applications](https://www.michigan.gov/mdhhs/doing-business/forms)
-* [State Health Improvement
+* MI Bridges Partners * [State Health Improvement
 Plan](https://www.michigan.gov/mdhhs/doing-business/state-health-improvement-plan)
 * State Health Assessment * Health Care Providers * Licensing
 * Michigan Statewide Systems of Care * [State Innovation
 Model](https://www.michigan.gov/mdhhs/doing-business/innovation) * [MiSACWIS
-Training](https://www.michigan.gov/mdhhs/doing-business/misacwis-training)
-* Protect MiFamily -Title IV-E Waiver * Weatherization
-Assistance Program MIBridges Partners [Go to MIBridges
-Partners](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners)
-MIBridges Partners *
-[Features](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/features)
-* [Frequently Asked
-Questions](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/questions)
-* [Become a
-Partner](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/become)
-* [Community Partner
-Training](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/training)
-* [Tools and
-Resources](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/tools)
-Birth, Death, Marriage and Divorce Records [Go to Birth, Death, Marriage and
-Divorce Records](https://www.michigan.gov/mdhhs/doing-business/vitalrecords)
+Training](https://www.michigan.gov/mdhhs/doing-business/misacwis-training) *
+Protect MiFamily -Title IV-E Waiver * Weatherization Assistance Program Birth,
+Death, Marriage and Divorce Records [Go to Birth, Death, Marriage and Divorce
+Records](https://www.michigan.gov/mdhhs/doing-business/vitalrecords)
 Birth, Death, Marriage and Divorce Records * [Infectious Agent
 Reporting](https://www.michigan.gov/mdhhs/doing-business/vitalrecords/infectious-agent-reporting)
 * [Order A Record
@@ -764,8 +752,8 @@ Resources](https://www.michigan.gov/mdhhs/doing-business/office-of-faith-engagem
 Meeting](https://www.michigan.gov/mdhhs/doing-business/office-of-faith-engagement/request-a-meeting)
 Community & Faith-Based Programs [Go to Community & Faith-Based
 Programs](https://www.michigan.gov/mdhhs/doing-business/community-faith-based-programs)
-Information & resources for Community
-and Faith-Based partners * [Community and Faith Based
+Information & resources for Community and
+Faith-Based partners * [Community and Faith Based
 Initiative](https://www.michigan.gov/mdhhs/doing-business/community-faith-based-programs/faith-based-initiative)
 *
 [Workshops](https://www.michigan.gov/mdhhs/doing-business/community-faith-based-programs/workshops)
@@ -791,8 +779,20 @@ Committee](https://www.michigan.gov/mdhhs/doing-business/farmworker-outreach-ser
 Councils](https://www.michigan.gov/mdhhs/doing-business/farmworker-outreach-services-division/resource-councils)
 Forms & Applications [Go to Forms &
 Applications](https://www.michigan.gov/mdhhs/doing-business/forms)
-Information on DHS Applications and Forms grouped by
-category. State Health Improvement Plan [Go to State Health Improvement
+Information on DHS Applications and Forms grouped
+by category. MI Bridges Partners [Go to MI Bridges
+Partners](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners)
+MI Bridges Partners *
+[Features](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/features)
+* [Frequently Asked
+Questions](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/questions)
+* [Become a
+Partner](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/become)
+* [Community Partner
+Training](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/training)
+* [Tools and
+Resources](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/tools)
+State Health Improvement Plan [Go to State Health Improvement
 Plan](https://www.michigan.gov/mdhhs/doing-business/state-health-improvement-plan)
 State Health Improvement Plan (SHIP)
 State Health Assessment [Go to State Health
@@ -834,8 +834,8 @@ Link](https://www.michigan.gov/mdhhs/doing-business/providers/integrated)
 * [Office of Nursing
 Programs](https://www.michigan.gov/mdhhs/doing-business/providers/nursing)
 * [State Loan Repayment
-Program](https://www.michigan.gov/mdhhs/doing-business/providers/slrp)
-* [Behavioral Health Loan Repayment Program
+Program](https://www.michigan.gov/mdhhs/doing-business/providers/slrp) *
+[Behavioral Health Loan Repayment Program
 (BHLRP)](https://www.michigan.gov/mdhhs/doing-business/providers/behavioral-health-loan-repayment-program)
 * [Substance Abuse
 Providers](https://www.michigan.gov/mdhhs/doing-business/providers/substanceabuse)
@@ -1668,9 +1668,8 @@ Involved](https://www.michigan.gov/mdhhs/keep-mi-healthy/maternal-and-infant-hea
 * [Mother Infant Health & Equity Collaborative (MIHEC)
 Meetings](https://www.michigan.gov/mdhhs/keep-mi-healthy/maternal-and-infant-health/mih-meetings)
 [Back](https://www.michigan.gov/mdhhs/assistance-programs/medicaid/rural-health-transformation-program#)[Doing
-Business with MDHHS](https://www.michigan.gov/mdhhs/doing-business)
-* MIBridges Partners * Birth, Death, Marriage and
-Divorce Records * Boards and Commissions * [Bridge Card
+Business with MDHHS](https://www.michigan.gov/mdhhs/doing-business) * Birth,
+Death, Marriage and Divorce Records * Boards and Commissions * [Bridge Card
 Participation](https://www.michigan.gov/mdhhs/doing-business/ebt) * [Child &
 Adult Provider Payments](https://www.michigan.gov/mdhhs/doing-business/eft)
 * Child Care Fund * Child Welfare * [Contractor and Subrecipient
@@ -1678,24 +1677,13 @@ Resources](https://www.michigan.gov/mdhhs/doing-business/contractor)
 * Office of Faith Engagement * Community & Faith-Based
 Programs * Farmworker Outreach Services Division * [Forms &
 Applications](https://www.michigan.gov/mdhhs/doing-business/forms)
-* [State Health Improvement
+* MI Bridges Partners * [State Health Improvement
 Plan](https://www.michigan.gov/mdhhs/doing-business/state-health-improvement-plan)
 * State Health Assessment * Health Care Providers * Licensing
 * Michigan Statewide Systems of Care * [State Innovation
 Model](https://www.michigan.gov/mdhhs/doing-business/innovation) * [MiSACWIS
 Training](https://www.michigan.gov/mdhhs/doing-business/misacwis-training)
 * Protect MiFamily -Title IV-E Waiver * Weatherization Assistance Program
-[Back](https://www.michigan.gov/mdhhs/assistance-programs/medicaid/rural-health-transformation-program#)[MIBridges
-Partners](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners) *
-[Features](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/features)
-* [Frequently Asked
-Questions](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/questions)
-* [Become a
-Partner](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/become)
-* [Community Partner
-Training](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/training)
-* [Tools and
-Resources](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/tools)
 [Back](https://www.michigan.gov/mdhhs/assistance-programs/medicaid/rural-health-transformation-program#)[Birth,
 Death, Marriage and Divorce
 Records](https://www.michigan.gov/mdhhs/doing-business/vitalrecords)
@@ -1825,6 +1813,18 @@ Committee](https://www.michigan.gov/mdhhs/doing-business/farmworker-outreach-ser
 Councils](https://www.michigan.gov/mdhhs/doing-business/farmworker-outreach-services-division/resource-councils)
 [Back](https://www.michigan.gov/mdhhs/assistance-programs/medicaid/rural-health-transformation-program#)[Forms
 & Applications](https://www.michigan.gov/mdhhs/doing-business/forms)
+[Back](https://www.michigan.gov/mdhhs/assistance-programs/medicaid/rural-health-transformation-program#)[MI
+Bridges
+Partners](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners) *
+[Features](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/features)
+* [Frequently Asked
+Questions](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/questions)
+* [Become a
+Partner](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/become)
+* [Community Partner
+Training](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/training)
+* [Tools and
+Resources](https://www.michigan.gov/mdhhs/doing-business/mibridgespartners/tools)
 [Back](https://www.michigan.gov/mdhhs/assistance-programs/medicaid/rural-health-transformation-program#)[State
 Health Improvement
 Plan](https://www.michigan.gov/mdhhs/doing-business/state-health-improvement-plan)
